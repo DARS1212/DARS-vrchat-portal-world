@@ -84,6 +84,14 @@
                     "Capacity": 32,
                     "Description": "",
                     "ReleaseStatus": "public"
+                 },
+{
+                    "ID": "wrld_f64e036d-dd5c-49df-ac12-8dc2ee7ed56a",
+                    "Name": "秋色の列車～秋の景色を楽しむ列車～",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "",
+                    "ReleaseStatus": "public"
                  }
             ]
         }
