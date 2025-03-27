@@ -13,7 +13,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
                     "Name": "月に君影",
                     "RecommendedCapacity": 16,
@@ -21,7 +21,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_eaf4b0cc-84c4-4567-aec3-50dc59d7953e",
                     "Name": "海に至る道-Road to the sea",
                     "RecommendedCapacity": 20,
@@ -29,7 +29,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
                     "Name": "青天霹靂",
                     "RecommendedCapacity": 16,
@@ -37,7 +37,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
                     "Name": "青天霹靂（夕）",
                     "RecommendedCapacity": 16,
@@ -45,7 +45,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_d39c32b6-f7fb-4bb1-978b-0b1660193160",
                     "Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-",
                     "RecommendedCapacity": 80,
@@ -53,7 +53,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
                     "Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-",
                     "RecommendedCapacity": 80,
@@ -61,7 +61,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
                     "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
                     "RecommendedCapacity": 40,
@@ -69,7 +69,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
                     "Name": "紺瑠璃の間 -Azure Blue Rooms-",
                     "RecommendedCapacity": 20,
@@ -77,7 +77,7 @@
                     "Description": "",
                     "ReleaseStatus": "public"
                  },
-　　　　　　　　　{
+                {
                     "ID": "world/wrld_47bed915-0cce-4c6f-8337-0d31931d6230",
                     "Name": "春色の列車～Train with spring scenery～",
                     "RecommendedCapacity": 16,
