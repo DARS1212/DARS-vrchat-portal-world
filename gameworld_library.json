@@ -11,7 +11,7 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -23,7 +23,7 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -35,7 +35,7 @@
                     "RecommendedCapacity": 20,
                     "Capacity": 20,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -47,7 +47,7 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -59,7 +59,7 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -71,7 +71,7 @@
                     "RecommendedCapacity": 80,
                     "Capacity": 80,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -83,7 +83,7 @@
                     "RecommendedCapacity": 80,
                     "Capacity": 80,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -95,7 +95,7 @@
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -107,7 +107,7 @@
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -119,7 +119,7 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
@@ -131,7 +131,7 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "",
-                    "ReleaseStatus": "public"
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
