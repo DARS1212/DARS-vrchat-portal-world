@@ -8,13 +8,7 @@
                 {
                     "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
                     "Name": "お彼岸",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
+                    "ReleaseStatus": "public"
                     }
                 },
                 {
