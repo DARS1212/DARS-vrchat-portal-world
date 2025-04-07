@@ -71,6 +71,16 @@
 "ReleaseStatus": "public"
 }
 ]
+},
+{
+"Category": "お店・飲食ギミック",
+"Worlds": [
+{
+"ID": "wrld_0cac12b7-dec7-422f-9195-f9fa1a4202fe",
+"Name": "caferoom",
+"ReleaseStatus": "public"
+}
+]
 }
 ]
 }
