@@ -6,16 +6,15 @@
 "Category": "景観",
 "Worlds": [
 {
-"ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
-                    "Name": "お彼岸",
-                    "ReleaseStatus": "public"
-                },
-                {
-                    "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
-                    "Name": "月に君影",
-                    "ReleaseStatus": "public"
-                },
-                {
+　"ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae"
+"Name": "お彼岸",
+"ReleaseStatus": "public"
+},
+{
+　"ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5","Name": "月に君影",
+"ReleaseStatus": "public"
+},
+{
                     "ID": "wrld_eaf4b0cc-84c4-4567-aec3-50dc59d7953e",
                     "Name": "海に至る道-Road to the sea",
                     "ReleaseStatus": "public"
