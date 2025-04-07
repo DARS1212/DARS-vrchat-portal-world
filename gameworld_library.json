@@ -81,6 +81,76 @@
 "ReleaseStatus": "public"
 }
 ]
+},
+{
+"Category": "ゲーム",
+"Worlds": [
+{
+"ID": "wrld_e2bbfa76-854c-47db-9f68-03b826f3cbee",
+"Name": "脱出ゲーム「仮想牢獄からの脱出」",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "ネタ",
+"Worlds": [
+{
+"ID": "wrld_c0666e6e-ec20-432c-8175-74e43ca20ff4",
+"Name": "ジャパニーズパリピ体育館",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "雰囲気",
+"Worlds": [
+{
+"ID": "wrld_05b3bfdf-f77b-4220-8b02-124799bad999",
+"Name": "Ἀνάμνησις",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "ギミック",
+"Worlds": [
+{
+"ID": "wrld_358c8602-a6fd-430c-9d56-b9c1e90971aa",
+"Name": "Realtime Farm ⁄ リアルタイム農業ワールド - リアルVRChat2",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "ホラー",
+"Worlds": [
+{
+"ID": "wrld_2fd2b100-9953-4b16-bbfb-f08e3297a080",
+"Name": "Kimodameshi 肝試し 廃神社編",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "パブリック",
+"Worlds": [
+{
+"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
+"Name": "日本語話者向け集会場「FUJIYAMA」JP",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "アバター・ポータル",
+"Worlds": [
+{
+"ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+"Name": "［JP］クエストトビラ QUEST TOBIRA",
+"ReleaseStatus": "public"
+}
+]
 }
 ]
 }
