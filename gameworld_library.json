@@ -61,6 +61,16 @@
 "ReleaseStatus": "public"
 }
 ]
+},
+{
+"Category": "お部屋",
+"Worlds": [
+{
+"ID": "wrld_80d1c7b7-202a-4427-9678-1f3e791e5acf",
+"Name": "Quiet room",
+"ReleaseStatus": "public"
+}
+]
 }
 ]
 }
