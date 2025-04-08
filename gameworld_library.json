@@ -94,6 +94,81 @@
 "ID": "wrld_0cac12b7-dec7-422f-9195-f9fa1a4202fe",
 "Name": "caferoom",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_5f3ffd49-8ac4-4802-ac8e-7dc7163d1f24",
+"Name": "BarRoom",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6bbec40a-e4c8-45f3-bfec-dc7a91104693",
+"Name": "くれに寿司 -Sushi Chill-",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_09efad68-5447-4ecf-98de-d851dbcbfe48",
+"Name": "夕雨のカフェ Evening rain cafe",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_548f5568-beba-4c63-99f9-83c1d6304bfa",
+"Name": "レストラン モグモグモーレ～Restaurant Mogu Mogu Mole～",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_930ae963-aee0-48db-9f70-ca1b5877ac88",
+"Name": "ラーメン屋けせど-CHESED's Ramen Shop-",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_67813a82-b33a-4aab-9a2e-2c6f105058d2",
+"Name": "混ざるドリンク StrangeGlass テスト用ワールド",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_a4ff552d-1b51-410e-9bc0-52aaaf4442aa",
+"Name": "焼肉～YAKINIKU～2025Ver",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_84560bd3-b2b5-4095-842b-ce49ce6519a5",
+"Name": "Managerless Onigiri Shop ~店長不在のおにぎり屋 ~",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_4ad7c206-e571-49e1-bbb2-622e99e0ddab",
+"Name": "Bird Cafe -HIDAMARI-",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_836dbc04-b7a8-4e3a-b483-585649e09060",
+"Name": "JellyfishBlueBar",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_a9132737-fd00-40aa-ab46-5afe3dac2b65",
+"Name": "FUTURE 20th SQUARE（フューチャー 20th スクエア）",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_298c4667-5a1d-4fed-85ad-e9412f729faf",
+"Name": "らぁめん 混豚（Ramen shop Chaos）",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_452320e3-e07b-463a-835c-9f6c50cae934",
+"Name": "悠久の隠れ家～The Eternal Hideaway～",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_eadae3a9-b294-4d9c-9e1f-ce42391a6b66",
+"Name": "Bar 鳥の巣 ⁄ Torinosu",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7038d739-e5a8-42b0-b645-aae4d36f993f",
+"Name": "Papa Mongi Dog Cafe ｜ 파파멍이 강아지 카페",
+"ReleaseStatus": "public"
 }
 ]
 },
