@@ -59,6 +59,16 @@
 "ID": "wrld_f64e036d-dd5c-49df-ac12-8dc2ee7ed56a",
 "Name": "秋色の列車～秋の景色を楽しむ列車～",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_4d45d9ac-3159-47d3-9631-c302571952ca",
+"Name": "黎明に咲く華 flower blooming at dawn",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_e38e682c-79d2-46cc-bde3-9f9fb123571b",
+"Name": "日本の祭",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -68,6 +78,11 @@
 {
 "ID": "wrld_80d1c7b7-202a-4427-9678-1f3e791e5acf",
 "Name": "Quiet room",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
+"Name": "別邸 天満月-villa amamitutuki-",
 "ReleaseStatus": "public"
 }
 ]
