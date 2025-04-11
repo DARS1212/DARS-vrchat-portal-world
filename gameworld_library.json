@@ -344,6 +344,36 @@
 "ID": "wrld_0004612c-f364-49e5-89aa-540974d2fedf",
 "Name": "ケセドの200個目の世界-CHESED's 200th My World-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ca7e5108-f81e-4cd0-bf8a-3b001fa860a9,
+"Name": "Quest Portal Station （クエステ）",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d,
+"Name": "ボドゲポータル",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_88c85201-35fa-4dad-87a9-eb6cfecd8987,
+"Name": "Particle Live World Collection",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a,
+"Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ceaac3f1-8afb-4b4d-8775-3a74160c3d17,
+"Name": "Game World Hub",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352,
+"Name": "ゲームワールド紹介ワールド≺クレイドル≻",
+"ReleaseStatus": "public"
 }
 ]
 }
