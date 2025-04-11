@@ -319,6 +319,31 @@
 "ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
 "Name": "日本語話者向け集会場「FUJIYAMA」JP",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926,"
+"Name": "［JP］Tutorial world",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa,"
+"Name": "VRC-JP 初心者プラザ ［JP］",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb,"
+"Name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33,"
+"Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_17777e91-3c5f-4079-9291-9b0cd3d636a1,"
+"Name": "［JP］Quest Kemono 集会場",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -373,6 +398,11 @@
 {
 "ID": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352",
 "Name": "ゲームワールド紹介ワールド≺クレイドル≻",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_b6cdc295-b237-4b83-909e-34e4c44e9dd4,"
+"Name": "LEGNA's Portal World",
 "ReleaseStatus": "public"
 }
 ]
