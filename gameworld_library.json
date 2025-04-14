@@ -84,6 +84,31 @@
 "ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
 "Name": "別邸 天満月-villa amamitutuki-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_2d4618ff-f255-4d5a-9f04-4ef8d83506d6",
+"Name": "Monitoring",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_17937f22-0751-40f7-be2b-579e3c890dfd",
+"Name": "Life",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_627f7723-27e1-48ba-b262-588668815106",
+"Name": "海の底、マ女の家 - The Witch's Hideaway",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_3cfce79a-ba30-4346-b4dc-2ba288c7c820",
+"Name": "Mushroom Loft",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_946dadc7-122f-4f95-a34c-248f9732ec73",
+"Name": "at Home Chill by Ourai Inc․",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -168,6 +193,11 @@
 {
 "ID": "wrld_7038d739-e5a8-42b0-b645-aae4d36f993f",
 "Name": "Papa Mongi Dog Cafe ｜ 파파멍이 강아지 카페",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_69261de6-ff79-4271-8ac9-35c835aa00e8",
+"Name": "SEAsideBar -Rainy night-",
 "ReleaseStatus": "public"
 }
 ]
