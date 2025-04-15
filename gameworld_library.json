@@ -309,6 +309,11 @@
 "ID": "wrld_cfe149ed-4152-44de-9bf8-36a0107524c7",
 "Name": "ネーマブル 名目必称義務令 Namable",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
+"Name": "Trash Compactor",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -329,6 +334,21 @@
 "ID": "wrld_05b3bfdf-f77b-4220-8b02-124799bad999",
 "Name": "Ἀνάμνησις",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_c0272553-2c5e-4bad-bbf3-ab4218050d10",
+"Name": "残像に口紅を - Nihilism",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ed90878b-4dd7-4222-b46b-52dc0af4a665",
+"Name": "The Abyss",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_59b59817-50b3-461d-bcb7-a55983ccdcc6",
+"Name": "Asbestos",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -338,6 +358,11 @@
 {
 "ID": "wrld_358c8602-a6fd-430c-9d56-b9c1e90971aa",
 "Name": "Realtime Farm ⁄ リアルタイム農業ワールド - リアルVRChat2",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_033b9f75-49be-4213-9218-a540dd2be60a",
+"Name": "Tanuki Tunesǃ - タヌキトゥーンズ",
 "ReleaseStatus": "public"
 }
 ]
