@@ -418,7 +418,7 @@
 ]
 },
 {
-"Category": "ポータル・アバター",
+"Category": "ポータル",
 "Worlds": [
 {
 "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
@@ -473,6 +473,61 @@
 {
 "ID": "wrld_b6cdc295-b237-4b83-909e-34e4c44e9dd4",
 "Name": "LEGNA's Portal World",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_60bcdb81-aca1-4425-b8a0-1c5b721158b5",
+"Name": "Furality˸ F․Y․N․N․'s Room",
+"ReleaseStatus": "public"
+}
+]
+},
+{
+"Category": "アバター",
+"Worlds": [
+{
+"ID": "wrld_84778fd2-d927-4e2d-b711-d1eb27a7dbf1",
+"Name": "［old］ Avatar Museum Q",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ad46362c-776e-4b0b-b195-07571bfb6d05",
+"Name": "Avatar Museum Q2",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_b3a86e4c-77f5-4348-b0c7-0e0a2c9f7974",
+"Name": "Avatar Now",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_035a2859-d85f-4475-b9e5-891978589da7",
+"Name": "KOGE's Workplace",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_11ed7958-8c24-465a-b935-01cadb5bcf05",
+"Name": "BOOTH Avatar Cafe",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_190be3f9-964d-4516-b9ac-cd3086d73610",
+"Name": "public avatar 保管庫",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_24009ebc-87e4-40a0-ad24-bc11cb3c0cf4",
+"Name": "Himiko Avatar World",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_81d20c20-16f2-4b96-b5ba-8ab415e38e2b",
+"Name": "Cil's avi world",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_57514404-7f4e-4aee-a50a-57f55d3084bf",
+"Name": "Prismic's Avatar Search",
 "ReleaseStatus": "public"
 }
 ]
