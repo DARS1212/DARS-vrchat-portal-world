@@ -334,6 +334,11 @@
 "ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
 "Name": "Blackoutǃ",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_9c24068c-ba40-4921-9b85-9e6149e26eb2",
+"Name": "大富豪-Daihugo-",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -393,6 +398,31 @@
 {
 "ID": "wrld_6075be77-2fa3-44c2-8204-95905bb3fd53",
 "Name": "MyAvatarGoods",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7d9b5fe6-0d0e-4e93-8487-45f9d46782ef",
+"Name": "Vket2024S Summer Parareal Central BOUNDLESSǃ",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7bfc89a1-aa68-49a7-90c0-65fb3e1d93c4",
+"Name": "Vket2024W Parareal Central",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_195790c5-6124-46b4-b206-9151cbbf0aa8",
+"Name": "360° Journey",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
+"Name": "The Avatar Studio ｜ Avatown",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_01b62965-1b3c-4062-bc22-0b339b8063ca",
+"Name": "VRCraft",
 "ReleaseStatus": "public"
 }
 ]
