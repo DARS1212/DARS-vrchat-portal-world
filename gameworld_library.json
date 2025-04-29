@@ -69,6 +69,11 @@
 "ID": "wrld_e38e682c-79d2-46cc-bde3-9f9fb123571b",
 "Name": "日本の祭",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_486691aa-08d1-4fd8-a86f-44556e08a807",
+"Name": "Float in the Sky-ケセドの空に浮かぶ家-",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -108,6 +113,16 @@
 {
 "ID": "wrld_946dadc7-122f-4f95-a34c-248f9732ec73",
 "Name": "at Home Chill by Ourai Inc․",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404",
+"Name": "群青コントレイル ~Blue Contrail ''Gunjo''~",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_845a0a4c-2739-4803-ac84-ca1d34b242ab",
+"Name": "Canvas",
 "ReleaseStatus": "public"
 }
 ]
@@ -339,6 +354,11 @@
 "ID": "wrld_9c24068c-ba40-4921-9b85-9e6149e26eb2",
 "Name": "大富豪-Daihugo-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
+"Name": "Voxel Phone",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -423,6 +443,11 @@
 {
 "ID": "wrld_01b62965-1b3c-4062-bc22-0b339b8063ca",
 "Name": "VRCraft",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_5321a1a3-ebb3-48b7-9e78-43943395292d",
+"Name": "NPC わんわんルーム Wanwan Room",
 "ReleaseStatus": "public"
 }
 ]
