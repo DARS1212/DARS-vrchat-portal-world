@@ -129,6 +129,11 @@
 "ID": "wrld_b3c848cd-af56-44fd-86b2-0a1cd0fec3a9",
 "Name": "OneRoom Light -F-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_929b4bbc-c1da-4891-a65d-c2db1a2ce2f6",
+"Name": "机の中は夢いっぱい",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -369,6 +374,11 @@
 "ID": "wrld_7180f8f1-cc1f-4ee6-b595-db4b9632a4f8",
 "Name": "ウェザラーズバイツ-天候者達は喰らい合う-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
+"Name": "Murder 4",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -388,6 +398,16 @@
 {
 "ID": "wrld_2340af4d-fa69-417d-95ca-f95f33bd9a63",
 "Name": "落ちつかない和室",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_c0bc0e9c-aa52-4992-baaf-8c0054f1b895",
+"Name": "クッソあったかい部屋",
+"ReleaseStatus": "public"
+}
+{
+"ID": "wrld_c87049e4-50f3-4b96-951e-7952b6d637b2",
+"Name": "ジャパニーズパリピクリスマス -Japanese Paripi Christmas -",
 "ReleaseStatus": "public"
 }
 ]
