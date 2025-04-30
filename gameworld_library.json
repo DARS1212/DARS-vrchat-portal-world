@@ -124,6 +124,11 @@
 "ID": "wrld_845a0a4c-2739-4803-ac84-ca1d34b242ab",
 "Name": "Canvas",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_b3c848cd-af56-44fd-86b2-0a1cd0fec3a9",
+"Name": "OneRoom Light -F-",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -359,6 +364,11 @@
 "ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
 "Name": "Voxel Phone",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7180f8f1-cc1f-4ee6-b595-db4b9632a4f8",
+"Name": "ウェザラーズバイツ-天候者達は喰らい合う-",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -373,6 +383,11 @@
 {
 "ID": "wrld_538edfbb-e36c-480b-92bf-744d12c671f3",
 "Name": "陣内智則の動画を見るためだけのワールド",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_2340af4d-fa69-417d-95ca-f95f33bd9a63",
+"Name": "落ちつかない和室",
 "ReleaseStatus": "public"
 }
 ]
@@ -483,6 +498,16 @@
 {
 "ID": "wrld_30b96d07-746c-406f-8127-8d655bce5c00",
 "Name": "Floor 10",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
+"Name": "Milya［paradox］",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_4b35a539-ec36-4206-9d9e-e9abcf5cb071",
+"Name": "Just ホラーハウス - Just Horror House",
 "ReleaseStatus": "public"
 }
 ]
