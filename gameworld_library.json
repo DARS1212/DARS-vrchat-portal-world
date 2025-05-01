@@ -134,6 +134,11 @@
 "ID": "wrld_929b4bbc-c1da-4891-a65d-c2db1a2ce2f6",
 "Name": "机の中は夢いっぱい",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
+"Name": "Sunny Side",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -409,6 +414,11 @@
 "ID": "wrld_c87049e4-50f3-4b96-951e-7952b6d637b2",
 "Name": "ジャパニーズパリピクリスマス -Japanese Paripi Christmas -",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_5e60153e-bf06-4336-9617-9133aed2102c",
+"Name": "バーバパパを楽しむワールド",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -433,6 +443,11 @@
 {
 "ID": "wrld_59b59817-50b3-461d-bcb7-a55983ccdcc6",
 "Name": "Asbestos",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ad7a6490-292d-4461-8d9a-f0b8aeecea95",
+"Name": "The Platform",
 "ReleaseStatus": "public"
 }
 ]
