@@ -139,6 +139,21 @@
 "ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
 "Name": "Sunny Side",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1aac6783-56b3-4e9e-b4ea-037cfa1261f2",
+"Name": "夜と、共に。",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_96203704-8a95-4cb2-a047-794b6b029807",
+"Name": "N o n e ․",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_78b2f1fe-622d-4556-8401-aa90921b31c1",
+"Name": "Nest ネスト",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -233,6 +248,11 @@
 {
 "ID": "wrld_6bda8294-8f85-4a3b-a6e4-4ecc69250b12",
 "Name": "MOS BURGER ON THE MOON",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_83df77c2-e785-4330-9733-17f7a5652f2a",
+"Name": "Osaka Bar",
 "ReleaseStatus": "public"
 }
 ]
@@ -384,6 +404,16 @@
 "ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
 "Name": "Murder 4",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_c1a43e8f-5652-461d-a7c6-ea98063746f7",
+"Name": "釣り堀 - Fishing",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_f1273541-94aa-4d3c-b936-aa5947627e0b",
+"Name": "MrDummy_NL UNO World",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -418,6 +448,11 @@
 {
 "ID": "wrld_5e60153e-bf06-4336-9617-9133aed2102c",
 "Name": "バーバパパを楽しむワールド",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ab6dd772-3ad5-49cf-a0e9-d4679b0048c9",
+"Name": "Hidden Famichiki",
 "ReleaseStatus": "public"
 }
 ]
@@ -644,6 +679,11 @@
 "ID": "wrld_60bcdb81-aca1-4425-b8a0-1c5b721158b5",
 "Name": "Furality˸ F․Y․N․N․'s Room",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_74ec837c-34f4-4811-9644-7992eb8ce8f1",
+"Name": "VR個展「わたしがつくったせかいたち」",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -701,8 +741,8 @@
 "ReleaseStatus": "public"
 },
 {
-"ID": "wrld_74ec837c-34f4-4811-9644-7992eb8ce8f1",
-"Name": "VR個展「わたしがつくったせかいたち」",
+"ID": "wrld_3fa149a0-20ee-417c-a3c3-b9fa04758cb7",
+"Name": "mio3io Avatar World",
 "ReleaseStatus": "public"
 }
 ]
