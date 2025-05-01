@@ -74,6 +74,11 @@
 "ID": "wrld_486691aa-08d1-4fd8-a86f-44556e08a807",
 "Name": "Float in the Sky-ケセドの空に浮かぶ家-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_793b4b69-31c6-4061-a67c-aae3da130b0f",
+"Name": "Golden Wasteland",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -414,6 +419,11 @@
 "ID": "wrld_f1273541-94aa-4d3c-b936-aa5947627e0b",
 "Name": "MrDummy_NL UNO World",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6910309b-1b75-473d-8196-c8963263f00f",
+"Name": "オトだけのセカイ～SoundOnlyWorld～",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -533,6 +543,11 @@
 {
 "ID": "wrld_5321a1a3-ebb3-48b7-9e78-43943395292d",
 "Name": "NPC わんわんルーム Wanwan Room",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_90ec3ef5-4249-485f-b03b-571b06d0cf55",
+"Name": "VR鍛冶屋「バーチャルスミス」",
 "ReleaseStatus": "public"
 }
 ]
