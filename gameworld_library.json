@@ -434,6 +434,46 @@
 "ID": "wrld_1c37737f-fa3f-4867-b9bb-d5baf5d64a79",
 "Name": "空島の旅（Sky Island Journey）",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_d5658267-c965-4dbf-b58f-6f50104e9f24",
+"Name": "Spook Em Up",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7",
+"Name": "R4 Xross Discs",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
+"Name": "Ghost Hunters",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+"Name": "Melon ＆ Chill Suika Game",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83",
+"Name": "Ludo",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_52b0ade5-3993-48a5-9a8a-6fe1ba127b6c",
+"Name": "全知全能",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
+"Name": "Zombie Survival",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
+"Name": "CODENAMES 2023［JP］",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -564,6 +604,11 @@
 "ID": "wrld_719c973f-943b-475a-93f7-41bfa87d2ac2",
 "Name": "Forest Magic Shop ～森の魔法雑貨店～",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6642e15f-97b3-40e6-ba62-ee7dad48ded4",
+"Name": "G-SHOCK THE RIDE",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -608,6 +653,11 @@
 {
 "ID": "wrld_4b35a539-ec36-4206-9d9e-e9abcf5cb071",
 "Name": "Just ホラーハウス - Just Horror House",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_bfeb8131-6324-4950-80bf-9fbb2c7cad43",
+"Name": "Butter Of Terror",
 "ReleaseStatus": "public"
 }
 ]
