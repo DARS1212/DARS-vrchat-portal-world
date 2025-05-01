@@ -159,6 +159,11 @@
 "ID": "wrld_78b2f1fe-622d-4556-8401-aa90921b31c1",
 "Name": "Nest ネスト",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_a936236c-c9a4-4e99-bd05-532a2d6e1a50",
+"Name": "天気雨の部屋 -sun shower room-",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -424,6 +429,11 @@
 "ID": "wrld_6910309b-1b75-473d-8196-c8963263f00f",
 "Name": "オトだけのセカイ～SoundOnlyWorld～",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1c37737f-fa3f-4867-b9bb-d5baf5d64a79",
+"Name": "空島の旅（Sky Island Journey）",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -548,6 +558,11 @@
 {
 "ID": "wrld_90ec3ef5-4249-485f-b03b-571b06d0cf55",
 "Name": "VR鍛冶屋「バーチャルスミス」",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_719c973f-943b-475a-93f7-41bfa87d2ac2",
+"Name": "Forest Magic Shop ～森の魔法雑貨店～",
 "ReleaseStatus": "public"
 }
 ]
