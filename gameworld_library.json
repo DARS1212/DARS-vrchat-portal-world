@@ -89,6 +89,16 @@
 "ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
 "Name": "漂泊ノ海-Wandering Sea-",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_05aaf547-79ad-42c9-83e1-7126db0921bb",
+"Name": "ゆく夏の憶那-okurina-",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1f99d192-3329-482e-bbf4-6450286d91e2",
+"Name": "Sakura Sunset （Youtube Search）",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -173,6 +183,21 @@
 {
 "ID": "wrld_a936236c-c9a4-4e99-bd05-532a2d6e1a50",
 "Name": "天気雨の部屋 -sun shower room-",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6ed1604c-56f6-40df-a98e-9f47587651c7",
+"Name": "ON THE SEA",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_41d599dd-4db3-48a9-a4ea-242a1180502d",
+"Name": "いるぬこるーむ2",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+"Name": "旅館「待宵」-inn matuyoi-",
 "ReleaseStatus": "public"
 }
 ]
@@ -273,6 +298,11 @@
 {
 "ID": "wrld_83df77c2-e785-4330-9733-17f7a5652f2a",
 "Name": "Osaka Bar",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_bf82862c-17ba-4509-a5fe-147e8eeab84a",
+"Name": "DJ BAR Yamamura",
 "ReleaseStatus": "public"
 }
 ]
@@ -623,6 +653,11 @@
 {
 "ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
 "Name": "キロバイトのうみ - Sea of KB",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_dfbecb47-7f43-4dbd-8192-3bb007748c46",
+"Name": "Happy Hill Dog Park",
 "ReleaseStatus": "public"
 }
 ]
