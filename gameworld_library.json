@@ -79,6 +79,16 @@
 "ID": "wrld_793b4b69-31c6-4061-a67c-aae3da130b0f",
 "Name": "Golden Wasteland",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
+"Name": "Sushi Aquarium 海洋棟",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
+"Name": "漂泊ノ海-Wandering Sea-",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -608,6 +618,11 @@
 {
 "ID": "wrld_6642e15f-97b3-40e6-ba62-ee7dad48ded4",
 "Name": "G-SHOCK THE RIDE",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
+"Name": "キロバイトのうみ - Sea of KB",
 "ReleaseStatus": "public"
 }
 ]
