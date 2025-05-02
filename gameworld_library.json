@@ -99,6 +99,11 @@
 "ID": "wrld_1f99d192-3329-482e-bbf4-6450286d91e2",
 "Name": "Sakura Sunset （Youtube Search）",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
+"Name": "ひなげし坂_HinageshiZaka",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -303,6 +308,11 @@
 {
 "ID": "wrld_bf82862c-17ba-4509-a5fe-147e8eeab84a",
 "Name": "DJ BAR Yamamura",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6bdd6512-9f08-4ade-bb1b-4a4bd3fba021",
+"Name": "coil's Den ［Towser Whisker］",
 "ReleaseStatus": "public"
 }
 ]
