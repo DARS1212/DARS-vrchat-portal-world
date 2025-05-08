@@ -104,6 +104,21 @@
 "ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
 "Name": "ひなげし坂_HinageshiZaka",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_42749608-7b80-41f4-b05c-f73064b3e7c1",
+"Name": "Forgotten shrine",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_0ec9ff73-67ac-43f4-afb6-bb777a36531e",
+"Name": "あなたへ",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_f97a7085-0314-4423-b9cc-fde990472366",
+"Name": "天空の鏡 ~Sky Mirror~",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -203,6 +218,16 @@
 {
 "ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
 "Name": "旅館「待宵」-inn matuyoi-",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_4e4b59a5-7464-4fff-aa4a-495c4acb14db",
+"Name": "プール授業後の教室⁄Slumber Me with the Classroom",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6d94340a-cf41-42f9-97f9-d94667e5cba0",
+"Name": "水鏡 Mizukagami",
 "ReleaseStatus": "public"
 }
 ]
