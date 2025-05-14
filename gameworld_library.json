@@ -604,6 +604,16 @@
 "ID": "wrld_ab6dd772-3ad5-49cf-a0e9-d4679b0048c9",
 "Name": "Hidden Famichiki",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_963b0e93-fd3f-417b-9f86-b6a7bafbc8ab",
+"Name": "シンメトリーで遊ぼ",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_fc508b18-2161-4cb4-8e04-c59d101f62b9",
+"Name": "徹底ムダ討論会議室",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -718,6 +728,11 @@
 {
 "ID": "wrld_dfbecb47-7f43-4dbd-8192-3bb007748c46",
 "Name": "Happy Hill Dog Park",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_42287232-c9fc-4e43-83db-a165f092e9e6",
+"Name": "Snell's Pool",
 "ReleaseStatus": "public"
 }
 ]
