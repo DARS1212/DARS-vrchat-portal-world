@@ -554,6 +554,16 @@
 "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
 "Name": "CODENAMES 2023［JP］",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_fe6999d2-2372-42b0-bc96-43b7851947ba",
+"Name": "ねこはかり",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
+"Name": "Anomaly Detection",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -623,6 +633,16 @@
 {
 "ID": "wrld_ad7a6490-292d-4461-8d9a-f0b8aeecea95",
 "Name": "The Platform",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_6325c346-2ea9-4bc5-8d65-59cd7e700d06",
+"Name": "Terra Cotta Valley",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_700cf786-0b95-4b5f-870f-0dc319ab1871",
+"Name": "Moonlit Forest",
 "ReleaseStatus": "public"
 }
 ]
@@ -748,6 +768,26 @@
 {
 "ID": "wrld_bfeb8131-6324-4950-80bf-9fbb2c7cad43",
 "Name": "Butter Of Terror",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_fe107196-bf7f-4dfb-bd7f-54b226d233f6",
+"Name": "Wait",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_8061fc5a-d3a4-4b94-9df9-4f81cd6120ba",
+"Name": "Wait Again",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_62f43e6a-f6eb-4425-9249-eff4c25f2353",
+"Name": "The Ocean",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_158fc489-72c1-450e-bcc1-d43a8ad7ae14",
+"Name": "みんなで応援！楽しいホラー",
 "ReleaseStatus": "public"
 }
 ]
