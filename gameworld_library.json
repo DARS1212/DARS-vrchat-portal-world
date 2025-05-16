@@ -124,6 +124,21 @@
 "ID": "wrld_350b2044-3882-4ccb-bb2c-c34a6eb7cea0",
 "Name": "Color Shower",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
+"Name": "東雲風船 - SHINONOME BALLOON -",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_da251d7a-2c3a-4ff3-b71c-fac93c62d4ad",
+"Name": "寂夜之梦Miss Rabbit's Night",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
+"Name": "夏の忘れ物",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -233,6 +248,16 @@
 {
 "ID": "wrld_6d94340a-cf41-42f9-97f9-d94667e5cba0",
 "Name": "水鏡 Mizukagami",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_57522a18-0ac0-48fe-b04d-8f955d7b701a",
+"Name": "Everlasting Days",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_f6759aa2-20d8-4ef5-8b96-c8498f1142c6",
+"Name": "Sensory Loft",
 "ReleaseStatus": "public"
 }
 ]
@@ -564,6 +589,21 @@
 "ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
 "Name": "Anomaly Detection",
 "ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1fac23d3-a5bd-424d-8feb-def024ff1a50",
+"Name": "EXPLOSION BALLOON YAMANOTE LINE GAME",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_1bd4e883-df50-4ad0-9658-d3bb95b0ba28",
+"Name": "花札が遊べる教室",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_65d62c8d-64c8-4de6-8f88-2b0f4593a797",
+"Name": "たった今考えたプロポーズの言葉を君に捧げるぐよバトルロワイアル",
+"ReleaseStatus": "public"
 }
 ]
 },
@@ -803,6 +843,16 @@
 {
 "ID": "wrld_158fc489-72c1-450e-bcc1-d43a8ad7ae14",
 "Name": "みんなで応援！楽しいホラー",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_24e4e1b6-6fed-45ce-84f5-a6f9891eb75b",
+"Name": "ホラワトレーニング ～Horror World Training～",
+"ReleaseStatus": "public"
+},
+{
+"ID": "wrld_4c74908a-d68f-4401-af1b-2db9ecfd396c",
+"Name": "繧™繧ケ繧帙Λ繝ショキング??",
 "ReleaseStatus": "public"
 }
 ]
