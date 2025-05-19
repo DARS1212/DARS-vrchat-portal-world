@@ -7,118 +7,111 @@
 "Worlds": [
 {
 "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
-"Name": "お彼岸",
+"Name": "お彼岸"
 },
 {
 "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
-"Name": "月に君影",
+"Name": "月に君影"
 },
 {
 "ID": "wrld_eaf4b0cc-84c4-4567-aec3-50dc59d7953e",
-"Name": "海に至る道-Road to the sea",
+"Name": "海に至る道-Road to the sea"
 },
 {
 "ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
-"Name": "青天霹靂",
+"Name": "青天霹靂"
 },
 {
 "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
-"Name": "青天霹靂（夕）",
+"Name": "青天霹靂（夕）"
 },
 {
 "ID": "wrld_d39c32b6-f7fb-4bb1-978b-0b1660193160",
-"Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-",
+"Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-"
 },
 {
 "ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
-"Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-",
+"Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-"
 },
 {
 "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
-"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-"
 },
 {
 "ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
-"Name": "紺瑠璃の間 -Azure Blue Rooms-",
+"Name": "紺瑠璃の間 -Azure Blue Rooms-"
 },
 {
 "ID": "wrld_47bed915-0cce-4c6f-8337-0d31931d6230",
-"Name": "春色の列車～Train with spring scenery～",
+"Name": "春色の列車～Train with spring scenery～"
 },
 {
 "ID": "wrld_f64e036d-dd5c-49df-ac12-8dc2ee7ed56a",
-"Name": "秋色の列車～秋の景色を楽しむ列車～",
+"Name": "秋色の列車～秋の景色を楽しむ列車～"
 },
 {
 "ID": "wrld_4d45d9ac-3159-47d3-9631-c302571952ca",
-"Name": "黎明に咲く華 flower blooming at dawn",
+"Name": "黎明に咲く華 flower blooming at dawn"
 },
 {
 "ID": "wrld_e38e682c-79d2-46cc-bde3-9f9fb123571b",
-"Name": "日本の祭",
+"Name": "日本の祭"
 },
 {
 "ID": "wrld_486691aa-08d1-4fd8-a86f-44556e08a807",
-"Name": "Float in the Sky-ケセドの空に浮かぶ家-",
+"Name": "Float in the Sky-ケセドの空に浮かぶ家-"
 },
 {
 "ID": "wrld_793b4b69-31c6-4061-a67c-aae3da130b0f",
-"Name": "Golden Wasteland",
+"Name": "Golden Wasteland"
 },
 {
 "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
-"Name": "Sushi Aquarium 海洋棟",
+"Name": "Sushi Aquarium 海洋棟"
 },
 {
 "ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
-"Name": "漂泊ノ海-Wandering Sea-",
+"Name": "漂泊ノ海-Wandering Sea-"
 },
 {
 "ID": "wrld_05aaf547-79ad-42c9-83e1-7126db0921bb",
-"Name": "ゆく夏の憶那-okurina-",
+"Name": "ゆく夏の憶那-okurina-"
 },
 {
 "ID": "wrld_1f99d192-3329-482e-bbf4-6450286d91e2",
-"Name": "Sakura Sunset （Youtube Search）",
+"Name": "Sakura Sunset （Youtube Search）"
 },
 {
 "ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
-"Name": "ひなげし坂_HinageshiZaka",
+"Name": "ひなげし坂_HinageshiZaka"
 },
 {
 "ID": "wrld_42749608-7b80-41f4-b05c-f73064b3e7c1",
-"Name": "Forgotten shrine",
-"ReleaseStatus": "public"
+"Name": "Forgotten shrine"
 },
 {
 "ID": "wrld_0ec9ff73-67ac-43f4-afb6-bb777a36531e",
-"Name": "あなたへ",
-"ReleaseStatus": "public"
+"Name": "あなたへ"
 },
 {
 "ID": "wrld_f97a7085-0314-4423-b9cc-fde990472366",
-"Name": "天空の鏡 ~Sky Mirror~",
-"ReleaseStatus": "public"
+"Name": "天空の鏡 ~Sky Mirror~"
 },
 {
 "ID": "wrld_350b2044-3882-4ccb-bb2c-c34a6eb7cea0",
-"Name": "Color Shower",
-"ReleaseStatus": "public"
+"Name": "Color Shower"
 },
 {
 "ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
-"Name": "東雲風船 - SHINONOME BALLOON -",
-"ReleaseStatus": "public"
+"Name": "東雲風船 - SHINONOME BALLOON -"
 },
 {
 "ID": "wrld_da251d7a-2c3a-4ff3-b71c-fac93c62d4ad",
-"Name": "寂夜之梦Miss Rabbit's Night",
-"ReleaseStatus": "public"
+"Name": "寂夜之梦Miss Rabbit's Night"
 },
 {
 "ID": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
-"Name": "夏の忘れ物",
-"ReleaseStatus": "public"
+"Name": "夏の忘れ物"
 }
 ]
 },
@@ -127,33 +120,27 @@
 "Worlds": [
 {
 "ID": "wrld_80d1c7b7-202a-4427-9678-1f3e791e5acf",
-"Name": "Quiet room",
-"ReleaseStatus": "public"
+"Name": "Quiet room"
 },
 {
 "ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
-"Name": "別邸 天満月-villa amamitutuki-",
-"ReleaseStatus": "public"
+"Name": "別邸 天満月-villa amamitutuki-"
 },
 {
 "ID": "wrld_2d4618ff-f255-4d5a-9f04-4ef8d83506d6",
-"Name": "Monitoring",
-"ReleaseStatus": "public"
+"Name": "Monitoring"
 },
 {
 "ID": "wrld_17937f22-0751-40f7-be2b-579e3c890dfd",
-"Name": "Life",
-"ReleaseStatus": "public"
+"Name": "Life"
 },
 {
 "ID": "wrld_627f7723-27e1-48ba-b262-588668815106",
-"Name": "海の底、マ女の家 - The Witch's Hideaway",
-"ReleaseStatus": "public"
+"Name": "海の底、マ女の家 - The Witch's Hideaway"
 },
 {
 "ID": "wrld_3cfce79a-ba30-4346-b4dc-2ba288c7c820",
-"Name": "Mushroom Loft",
-"ReleaseStatus": "public"
+"Name": "Mushroom Loft"
 },
 {
 "ID": "wrld_946dadc7-122f-4f95-a34c-248f9732ec73",
