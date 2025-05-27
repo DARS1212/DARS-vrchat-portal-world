@@ -3,7 +3,7 @@
 "ShowPrivateWorld": false,
 "Categorys": [
 {
-"Category": "景観",
+"Category": "きれい",
 "Worlds": [
 {
 "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
@@ -112,6 +112,22 @@
 {
 "ID": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
 "Name": "夏の忘れ物"
+},
+{
+"ID": "wrld_9396edc7-2580-4350-98cb-4d0f963bb685",
+"Name": "sanctuary"
+},
+{
+"ID": "wrld_fbb77316-a301-499b-a4f6-5f676c5a1b08",
+"Name": "Crystal Nest"
+},
+{
+"ID": "wrld_74b0e92d-c3c9-463a-9782-b3878fb89a8c",
+"Name": "Fallen Books"
+},
+{
+"ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4",
+"Name": "Monet Gallery モネ展"
 }
 ]
 },
@@ -209,6 +225,10 @@
 {
 "ID": "wrld_f6759aa2-20d8-4ef5-8b96-c8498f1142c6",
 "Name": "Sensory Loft"
+},
+{
+"ID": "wrld_57915bce-a311-4e43-9acb-8cbe5f9882fb",
+"Name": "ヒュリハウス ／ Hyuri House"
 }
 ]
 },
@@ -528,6 +548,10 @@
 {
 "ID": "wrld_fc508b18-2161-4cb4-8e04-c59d101f62b9",
 "Name": "徹底ムダ討論会議室"
+},
+{
+"ID": "wrld_dfe04bda-bcf6-49a7-97fd-f4812c6ea646",
+"Name": "お砂糖甘々ルーム（おじさん乱入機能あり）"
 }
 ]
 },
@@ -561,6 +585,10 @@
 {
 "ID": "wrld_700cf786-0b95-4b5f-870f-0dc319ab1871",
 "Name": "Moonlit Forest"
+},
+{
+"ID": "wrld_6f23cdc6-be51-49e6-bdf8-b71de828d413",
+"Name": "SCP RP˸ Site-97"
 }
 ]
 },
