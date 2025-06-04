@@ -208,6 +208,18 @@
 {
 "ID": "wrld_f95068a0-4565-435f-a2be-b5ea0dc1e0b7",
 "Name": "ケセドの星空キャンプ-CHESED's Starry Sky Camp-"
+},
+{
+"ID": "wrld_f2b8a64b-36c2-4645-8cfb-9a63a463890a",
+"Name": "Mondstadt City V1․4（Genshin RP）"
+},
+{
+"ID": "wrld_42c4f9cb-ff3b-435a-9000-9c1fc914aa8d",
+"Name": "Mondstadt City Night（Genshin RP）"
+},
+{
+"ID": "wrld_ffea6ab4-bb7b-49d5-84c1-0e0615934ab3",
+"Name": "ZZZ ｜ Zenless Zone Zero ｜ New Eridu City"
 }
 ]
 },
@@ -345,6 +357,10 @@
 {
 "ID": "wrld_0c051dc1-1000-461a-bf17-ba48d4b3898d",
 "Name": "みりはうす"
+},
+{
+"ID": "wrld_90eba8d6-d4d3-4a96-be42-fa9081c1345a",
+"Name": "暗涼"
 }
 ]
 },
