@@ -856,6 +856,10 @@
 {
 "ID": "wrld_5c51de44-c101-4d6f-901b-4392adb17f84",
 "Name": "Just キノコ （Just Mushroom）"
+},
+{
+"ID": "wrld_c7106b64-08bd-4db2-a2e5-b29b22c5e3e3",
+"Name": "でんじろう先生のはぴエネǃを観るワールド"
 }
 ]
 },
@@ -1002,6 +1006,22 @@
 {
 "ID": "wrld_42930816-c882-4ed6-ac02-8582380c9dbe",
 "Name": "Clam Digging（潮干狩り）"
+},
+{
+"ID": "wrld_8d71260f-7485-4a41-91d8-e550652674a1",
+"Name": "WorldGimmickJam Vol4"
+},
+{
+"ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
+"Name": "Udon Bird Sanctuary"
+},
+{
+"ID": "wrld_75a667c7-1151-4fba-b391-fcc82c8af03d",
+"Name": "Rokuro Master"
+},
+{
+"ID": "wrld_a23a67da-4dd8-4d26-ab3f-0ae870d990d6",
+"Name": "mmd home"
 }
 ]
 },
