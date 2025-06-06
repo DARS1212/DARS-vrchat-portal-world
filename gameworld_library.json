@@ -236,6 +236,10 @@
 {
 "ID": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
 "Name": "Absence"
+},
+{
+"ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+"Name": "夏宙の休息地 -Summer Starrysky Rest-"
 }
 ]
 },
@@ -401,6 +405,18 @@
 {
 "ID": "wrld_12c89f0b-81c4-4d8f-9184-eb07143e961a",
 "Name": "Cyanaria"
+},
+{
+"ID": "wrld_cccee80a-e3b0-42a3-8e5c-be1f6676bb9a",
+"Name": "Piano Lounge"
+},
+{
+"ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
+"Name": "メゾン荘 201号室"
+},
+{
+"ID": "wrld_3e0903d9-7572-4530-a96c-cea251992062",
+"Name": "ATTO HOME -Usual-"
 }
 ]
 },
@@ -731,6 +747,10 @@
 {
 "ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
 "Name": "Time Motel"
+},
+{
+"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+"Name": "Idle Home"
 }
 ]
 },
@@ -926,6 +946,14 @@
 {
 "ID": "wrld_2054fa71-8e72-4c93-9040-f174f71fab2e",
 "Name": "カラオケワールド JP KARAOKE"
+},
+{
+"ID": "wrld_83f3d517-f453-4363-9370-7d827bd1c838",
+"Name": "Summer Drum Reflection"
+},
+{
+"ID": "wrld_5d31504f-a537-441a-972e-ede18ce28f13",
+"Name": "私人画室（Painting Studio）"
 }
 ]
 },
@@ -1036,6 +1064,14 @@
 {
 "ID": "wrld_17777e91-3c5f-4079-9291-9b0cd3d636a1",
 "Name": "［JP］Quest Kemono 集会場"
+},
+{
+"ID": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
+"Name": "【JP】Qじゃぱん横丁 -Q Japan Street-"
+},
+{
+"ID": "wrld_b8cbc920-bb6a-49d6-a2e0-5de5213ffc85",
+"Name": "ぶいあ～る横丁-VR Yokocho-"
 }
 ]
 },
