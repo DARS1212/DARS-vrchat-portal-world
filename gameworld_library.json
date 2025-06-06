@@ -240,6 +240,10 @@
 {
 "ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
 "Name": "夏宙の休息地 -Summer Starrysky Rest-"
+},
+{
+"ID": "wrld_0255bfa4-61fc-40fb-bdea-b9400fa487f9",
+"Name": "SheepTopia"
 }
 ]
 },
@@ -429,6 +433,14 @@
 {
 "ID": "wrld_3dbdd288-1aba-4202-bf6b-211b47429f59",
 "Name": "nekoroom"
+},
+{
+"ID": "wrld_c33c4fc4-fc38-4eef-8f93-1577c849ffd5",
+"Name": "ぽんるーむ"
+},
+{
+"ID": "wrld_3710d064-7c42-411d-95b1-0185a33804d7",
+"Name": "POTEROOM"
 }
 ]
 },
@@ -840,6 +852,10 @@
 {
 "ID": "wrld_bc4e37e8-923c-4166-b6e3-5013281e92d0",
 "Name": "Park Cleaning"
+},
+{
+"ID": "wrld_5c51de44-c101-4d6f-901b-4392adb17f84",
+"Name": "Just キノコ （Just Mushroom）"
 }
 ]
 },
@@ -974,6 +990,18 @@
 {
 "ID": "wrld_5cfc3226-96fb-447b-8b78-d39e062c6045",
 "Name": "After-school classroom （include playable guitar and more）"
+},
+{
+"ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
+"Name": "Fantasy Airport 秘境、ルアフォートにて"
+},
+{
+"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
+"Name": "舟屋 Boathouse"
+},
+{
+"ID": "wrld_42930816-c882-4ed6-ac02-8582380c9dbe",
+"Name": "Clam Digging（潮干狩り）"
 }
 ]
 },
