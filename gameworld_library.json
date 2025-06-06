@@ -417,6 +417,18 @@
 {
 "ID": "wrld_3e0903d9-7572-4530-a96c-cea251992062",
 "Name": "ATTO HOME -Usual-"
+},
+{
+"ID": "wrld_ac9414e5-003d-4b0c-8d07-1a50043fe534",
+"Name": "Goodnight Sleep（Cabin）"
+},
+{
+"ID": "wrld_393f76de-86aa-4c02-b20a-8435c23a4e9f",
+"Name": "のなの寝床"
+},
+{
+"ID": "wrld_3dbdd288-1aba-4202-bf6b-211b47429f59",
+"Name": "nekoroom"
 }
 ]
 },
@@ -518,6 +530,10 @@
 {
 "ID": "wrld_8dd15abb-3df8-4924-bf37-c4592d433a06",
 "Name": "Coffee Talk"
+},
+{
+"ID": "wrld_797cb0ba-425b-46f1-ba03-c471881dfb0f",
+"Name": "Caketail Home Party！"
 }
 ]
 },
@@ -954,6 +970,10 @@
 {
 "ID": "wrld_5d31504f-a537-441a-972e-ede18ce28f13",
 "Name": "私人画室（Painting Studio）"
+},
+{
+"ID": "wrld_5cfc3226-96fb-447b-8b78-d39e062c6045",
+"Name": "After-school classroom （include playable guitar and more）"
 }
 ]
 },
