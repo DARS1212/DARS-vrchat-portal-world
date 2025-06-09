@@ -779,6 +779,10 @@
 {
 "ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
 "Name": "Idle Home"
+},
+{
+"ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
+"Name": "ユーロアの隠れ家 Euroa's Hideout"
 }
 ]
 },
@@ -860,6 +864,26 @@
 {
 "ID": "wrld_c7106b64-08bd-4db2-a2e5-b29b22c5e3e3",
 "Name": "でんじろう先生のはぴエネǃを観るワールド"
+},
+{
+"ID": "wrld_8ec08d31-29a7-4ce8-a3f5-37e8762a5d93",
+"Name": "鰻重牧場"
+},
+{
+"ID": "wrld_432b6cb1-977d-45a3-99b9-bb4271ba03ff",
+"Name": "Just 新紙幣"
+},
+{
+"ID": "wrld_24353a13-0d9b-424f-997e-ac57c7c0d183",
+"Name": "Usual suspects"
+},
+{
+"ID": "wrld_21a20061-7d30-4d17-bba5-9790872913b8",
+"Name": "君に決めるあのアングルワールド"
+},
+{
+"ID": "wrld_7b9b46dd-eaa7-4a2c-9ab1-8c2f0e601c80",
+"Name": "気分の良くなる階段"
 }
 ]
 },
@@ -1103,6 +1127,10 @@
 {
 "ID": "wrld_1009d559-bf8e-4e0d-b967-a0d90bc47427",
 "Name": "Lost Backrooms"
+},
+{
+"ID": "wrld_7e4210ce-c470-458d-85fa-2f85b641d42d",
+"Name": "The Forgotten Gallery -忘れられた画廊"
 }
 ]
 },
