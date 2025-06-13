@@ -248,6 +248,18 @@
 {
 "ID": "wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
 "Name": "Hanami Onsen"
+},
+{
+"ID": "wrld_151d93d1-e917-4643-a97b-e459775b12c8",
+"Name": "Rooftop Canvas"
+},
+{
+"ID": "wrld_58296ffd-2dd0-4cf3-8090-9fa5d5649533",
+"Name": "The Camelot Castle"
+},
+{
+"ID": "wrld_5c9de902-a669-42bc-8527-a427dfe3ae0c",
+"Name": "Ever After"
 }
 ]
 },
@@ -449,6 +461,22 @@
 {
 "ID": "wrld_b4ca2d88-092d-4a12-99d2-2f342b9b8c17",
 "Name": "おつぶハウス"
+},
+{
+"ID": "wrld_1197e456-be55-46cc-8b94-e1dad2640e86",
+"Name": "Winter Dream"
+},
+{
+"ID": "wrld_9c422f4b-931d-4106-86e2-d14c3d9f6210",
+"Name": "漂う時間 ⁄ Drifting Time"
+},
+{
+"ID": "wrld_6a79455b-4985-4eb5-93bd-71a138dce0a9",
+"Name": "Cave House ⁄ ほらあなハウス"
+},
+{
+"ID": "wrld_4ba77646-5d4b-4620-9747-82d65280644b",
+"Name": "ケセドの黄昏教室-CHESED's Sunset Japan ClassRoom-"
 }
 ]
 },
@@ -1086,6 +1114,10 @@
 {
 "ID": "wrld_7dd405e0-8b05-49d5-b1ab-0600b10eb61e",
 "Name": "TSUUP体験ワールド"
+},
+{
+"ID": "wrld_8713b920-64e3-409b-ae07-299256223872",
+"Name": "自由に成形できる雪だるまわーるど（Free molding of snowmen）"
 }
 ]
 },
