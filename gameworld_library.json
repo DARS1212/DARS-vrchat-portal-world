@@ -288,6 +288,10 @@
 {
 "ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
 "Name": "Kagaribi Onsen ［Cave］"
+},
+{
+"ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
+"Name": "田村酒造場 Japanese sake brewery"
 }
 ]
 },
@@ -1053,6 +1057,14 @@
 {
 "ID": "wrld_93150901-85b5-4d30-9625-ac48bc2e7625",
 "Name": "WIP"
+},
+{
+"ID": "wrld_69805e9d-094f-4b5e-82b3-1f6801b73ab4",
+"Name": "光の聖域 - Sanctuary"
+},
+{
+"ID": "wrld_aeed4cf4-fefd-477f-9db9-7f44e6e561fd",
+"Name": "Hotel Cthonia"
 }
 ]
 },
@@ -1210,6 +1222,10 @@
 {
 "ID": "wrld_0bf4c896-b11b-44b4-820e-741eb5baf297",
 "Name": "Dream Sweet"
+},
+{
+"ID": "wrld_bd3a0a4f-8074-4415-b49b-ffa24ef0fe05",
+"Name": "Justǃǃ UFOCatcher"
 }
 ]
 },
