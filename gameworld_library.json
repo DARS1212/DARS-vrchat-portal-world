@@ -292,6 +292,18 @@
 {
 "ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
 "Name": "田村酒造場 Japanese sake brewery"
+},
+{
+"ID": "wrld_c8e8fdc2-681b-4916-8511-8f691861e384",
+"Name": "日向荘（ひなたそう）"
+},
+{
+"ID": "wrld_1cd445f6-6d23-4831-9982-3170fd21eb85",
+"Name": "Town Moss ［MapAWeek］ pt․19"
+},
+{
+"ID": "wrld_58a2cd3b-02d2-488e-9de0-83bb871516ea",
+"Name": "305 Miami"
 }
 ]
 },
@@ -529,6 +541,26 @@
 {
 "ID": "wrld_4a41c522-fc84-4cc0-aee4-ab2fddee73f1",
 "Name": "Amayadokari -あまやどかり-"
+},
+{
+"ID": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
+"Name": "Popcorn Palace"
+},
+{
+"ID": "wrld_4a11d4a3-232b-48a2-bada-b0f903c3b3f2",
+"Name": "君はチンチロ会を信じるか？"
+},
+{
+"ID": "wrld_7db73bca-3e6d-4985-9033-3bec4b8084d9",
+"Name": "木片隅 - KiNook"
+},
+{
+"ID": "wrld_d840ae37-4b42-467f-8d7f-5486951b781c",
+"Name": "だいふくほーむ"
+},
+{
+"ID": "wrld_235cd0a2-791a-4c6a-8596-f62b9c446c8f",
+"Name": "start"
 }
 ]
 },
@@ -887,6 +919,10 @@
 {
 "ID": "wrld_a323f41a-26e1-4bfd-942b-becc5777fa57",
 "Name": "これゲッサー"
+},
+{
+"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム"
 }
 ]
 },
@@ -1065,6 +1101,10 @@
 {
 "ID": "wrld_aeed4cf4-fefd-477f-9db9-7f44e6e561fd",
 "Name": "Hotel Cthonia"
+},
+{
+"ID": "wrld_89d75c87-f3d5-4c61-b725-03a1d3a5493d",
+"Name": "Voxel Moon"
 }
 ]
 },
