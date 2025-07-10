@@ -324,6 +324,10 @@
 {
 "ID": "wrld_feca916d-bd73-4214-ad65-880930fea3dc",
 "Name": "Piano Hall -Bird's Memory-"
+},
+{
+"ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
+"Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-"
 }
 ]
 },
@@ -991,6 +995,26 @@
 {
 "ID": "wrld_e1d12b89-ef97-4715-b7e1-4c1f61fd0a84",
 "Name": "鷲巣麻雀 Washizu Mahjong"
+},
+{
+"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
+"Name": "Harisen Champǃ ハリセンチャンプ！"
+},
+{
+"ID": "wrld_5f6fc095-ffb5-436e-84fe-4499581a1d28",
+"Name": "Bangǃ Beanǃ Ballǃ"
+},
+{
+"ID": "wrld_374bfc35-1c46-4609-86f5-1a8865c47709",
+"Name": "DevilMarker - デビルマーカー"
+},
+{
+"ID": "wrld_2b690342-8aaa-41eb-81d9-4271a38f2283",
+"Name": "Ghost Bites You"
+},
+{
+"ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
+"Name": "Barrage TD"
 }
 ]
 },
@@ -1116,6 +1140,10 @@
 {
 "ID": "wrld_2e19e521-f61f-40f3-9d58-5a3a41685e60",
 "Name": "私は誕生日です~Happy Birthday To Me~"
+},
+{
+"ID": "wrld_b3a73b43-a0e5-4835-91f1-2dfd75a11fcc",
+"Name": "Just 100の質問"
 }
 ]
 },
@@ -1185,6 +1213,10 @@
 {
 "ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
 "Name": "R․E․P․O․ VRC"
+},
+{
+"ID": "wrld_de426d82-41bd-43c2-aacc-0956bc7bb5fb",
+"Name": "Subspace"
 }
 ]
 },
