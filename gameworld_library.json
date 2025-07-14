@@ -601,6 +601,18 @@
 {
 "ID": "wrld_231b9bc4-237c-4ddc-9a06-b6f8227f3bf7",
 "Name": "Calm Ocean"
+},
+{
+"ID": "wrld_d2f334cc-9d6f-4cf7-a09b-773302cbb56b",
+"Name": "夜潮の宿"
+},
+{
+"ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+"Name": "Tiharuum - ちはるーむ"
+},
+{
+"ID": "wrld_db02c09a-6ddd-4ddf-a961-4d2523bb1c3e",
+"Name": "Floating In the sea"
 }
 ]
 },
@@ -1471,6 +1483,10 @@
 {
 "ID": "wrld_4504bf40-404b-4240-92c9-857fb8d9c8e2",
 "Name": "［JPT］ Develop ver․"
+},
+{
+"ID": "wrld_fe130422-0782-435f-9dde-f87eee1d9ca6",
+"Name": "The Nestled Glade"
 }
 ]
 },
