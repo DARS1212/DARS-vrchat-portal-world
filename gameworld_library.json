@@ -328,6 +328,14 @@
 {
 "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
 "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-"
+},
+{
+"ID": "wrld_dbdc35bd-ff54-4e78-ba4b-e6816b0446f9",
+"Name": "Kagutsuchi Port 9 PM"
+},
+{
+"ID": "wrld_814489a1-3420-453f-908e-d7e260e31fb8",
+"Name": "春の山見温泉・夜 Yamami Hot Spring （Spring Night）"
 }
 ]
 },
@@ -726,6 +734,10 @@
 {
 "ID": "wrld_609c0168-dfe2-429a-8597-4832e79e71e3",
 "Name": "IW Beer Garden"
+},
+{
+"ID": "wrld_1fdd5eed-7e00-4440-9790-156bf7f2574f",
+"Name": "弾き語りバー Hikigatari Bar"
 }
 ]
 },
@@ -1156,6 +1168,10 @@
 {
 "ID": "wrld_b3a73b43-a0e5-4835-91f1-2dfd75a11fcc",
 "Name": "Just 100の質問"
+},
+{
+"ID": "wrld_27e68060-730a-439e-9332-acda8f5d3547",
+"Name": "みんなの懺悔展"
 }
 ]
 },
@@ -1394,6 +1410,10 @@
 {
 "ID": "wrld_c2c0a30b-51d8-46d1-a62f-d17b0ca28911",
 "Name": "Cosmos"
+},
+{
+"ID": "wrld_1677752b-1b29-4871-a740-7e418bb30e78",
+"Name": "Monument"
 }
 ]
 },
@@ -1487,6 +1507,10 @@
 {
 "ID": "wrld_fe130422-0782-435f-9dde-f87eee1d9ca6",
 "Name": "The Nestled Glade"
+},
+{
+"ID": "wrld_c5586ae4-0a47-470f-989e-5f6e2bb1ad18",
+"Name": "Room 312 （Silent Hill 2 Remake）"
 }
 ]
 },
