@@ -6,10 +6,6 @@
 "Category": "きれい",
 "Worlds": [
 {
-"ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
-"Name": "お彼岸"
-},
-{
 "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
 "Name": "月に君影"
 },
@@ -26,36 +22,12 @@
 "Name": "青天霹靂（夕）"
 },
 {
-"ID": "wrld_d39c32b6-f7fb-4bb1-978b-0b1660193160",
-"Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-"
-},
-{
-"ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
-"Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-"
-},
-{
-"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
-"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-"
-},
-{
-"ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
-"Name": "紺瑠璃の間 -Azure Blue Rooms-"
-},
-{
 "ID": "wrld_47bed915-0cce-4c6f-8337-0d31931d6230",
 "Name": "春色の列車～Train with spring scenery～"
 },
 {
 "ID": "wrld_f64e036d-dd5c-49df-ac12-8dc2ee7ed56a",
-"Name": "秋色の列車～秋の景色を楽しむ列車～"
-},
-{
-"ID": "wrld_4d45d9ac-3159-47d3-9631-c302571952ca",
-"Name": "黎明に咲く華 flower blooming at dawn"
-},
-{
-"ID": "wrld_e38e682c-79d2-46cc-bde3-9f9fb123571b",
-"Name": "日本の祭"
+"Name": "秋色の列車～Train with Autumn scenery～"
 },
 {
 "ID": "wrld_486691aa-08d1-4fd8-a86f-44556e08a807",
@@ -74,20 +46,8 @@
 "Name": "漂泊ノ海-Wandering Sea-"
 },
 {
-"ID": "wrld_05aaf547-79ad-42c9-83e1-7126db0921bb",
-"Name": "ゆく夏の憶那-okurina-"
-},
-{
 "ID": "wrld_1f99d192-3329-482e-bbf4-6450286d91e2",
 "Name": "Sakura Sunset （Youtube Search）"
-},
-{
-"ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
-"Name": "ひなげし坂_HinageshiZaka"
-},
-{
-"ID": "wrld_42749608-7b80-41f4-b05c-f73064b3e7c1",
-"Name": "Forgotten shrine"
 },
 {
 "ID": "wrld_0ec9ff73-67ac-43f4-afb6-bb777a36531e",
@@ -136,10 +96,6 @@
 {
 "ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
 "Name": "Vault of Horizons"
-},
-{
-"ID": "wrld_10b90f10-f8c1-43a7-a77a-807d00674d18",
-"Name": "Entertainment District - Demon Slayer˸ -KNY- HC"
 },
 {
 "ID": "wrld_081d3773-7567-4544-b63f-980de9e64c6f",
@@ -202,10 +158,6 @@
 "Name": "Night Church"
 },
 {
-"ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
-"Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk"
-},
-{
 "ID": "wrld_f95068a0-4565-435f-a2be-b5ea0dc1e0b7",
 "Name": "ケセドの星空キャンプ-CHESED's Starry Sky Camp-"
 },
@@ -246,10 +198,6 @@
 "Name": "SheepTopia"
 },
 {
-"ID": "wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
-"Name": "Hanami Onsen"
-},
-{
 "ID": "wrld_151d93d1-e917-4643-a97b-e459775b12c8",
 "Name": "Rooftop Canvas"
 },
@@ -262,20 +210,8 @@
 "Name": "Ever After"
 },
 {
-"ID": "wrld_dbbbbd78-cc9c-4647-9676-60876d6eb667",
-"Name": "ケセドの花見舟-CHESED's JAPAN SAKURA SHIP-"
-},
-{
-"ID": "wrld_14241f0e-56b1-4f83-b672-d3d546e321c5",
-"Name": "SAKURA hiroba"
-},
-{
 "ID": "wrld_2549b5ff-c18d-48b8-9450-01dc7fb5c706",
 "Name": "Ocean's Spirit"
-},
-{
-"ID": "wrld_d3ceae79-287a-4ea3-9508-e07efca88288",
-"Name": "どんの雲上桜庭園-＝DonK＝'s Sakura Sky Garden-"
 },
 {
 "ID": "wrld_2d71ccee-efd7-4fc8-a20c-3bdcfaf6af37",
@@ -284,14 +220,6 @@
 {
 "ID": "wrld_f8e252e0-9bbc-4973-b6a5-9cf6f2478810",
 "Name": "Church of His Immaculate Seed"
-},
-{
-"ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
-"Name": "Kagaribi Onsen ［Cave］"
-},
-{
-"ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
-"Name": "田村酒造場 Japanese sake brewery"
 },
 {
 "ID": "wrld_c8e8fdc2-681b-4916-8511-8f691861e384",
@@ -332,10 +260,6 @@
 {
 "ID": "wrld_dbdc35bd-ff54-4e78-ba4b-e6816b0446f9",
 "Name": "Kagutsuchi Port 9 PM"
-},
-{
-"ID": "wrld_814489a1-3420-453f-908e-d7e260e31fb8",
-"Name": "春の山見温泉・夜 Yamami Hot Spring （Spring Night）"
 }
 ]
 },
@@ -345,10 +269,6 @@
 {
 "ID": "wrld_80d1c7b7-202a-4427-9678-1f3e791e5acf",
 "Name": "Quiet room"
-},
-{
-"ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
-"Name": "別邸 天満月-villa amamitutuki-"
 },
 {
 "ID": "wrld_2d4618ff-f255-4d5a-9f04-4ef8d83506d6",
@@ -415,16 +335,8 @@
 "Name": "いるぬこるーむ2"
 },
 {
-"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
-"Name": "旅館「待宵」-inn matuyoi-"
-},
-{
 "ID": "wrld_4e4b59a5-7464-4fff-aa4a-495c4acb14db",
 "Name": "プール授業後の教室⁄Slumber Me with the Classroom"
-},
-{
-"ID": "wrld_6d94340a-cf41-42f9-97f9-d94667e5cba0",
-"Name": "水鏡 Mizukagami"
 },
 {
 "ID": "wrld_57522a18-0ac0-48fe-b04d-8f955d7b701a",
@@ -437,10 +349,6 @@
 {
 "ID": "wrld_57915bce-a311-4e43-9acb-8cbe5f9882fb",
 "Name": "ヒュリハウス ／ Hyuri House"
-},
-{
-"ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
-"Name": "本能寺【和風チルワ】"
 },
 {
 "ID": "wrld_4b5416df-cc4a-4efc-8db8-e9286260845a",
@@ -621,6 +529,103 @@
 {
 "ID": "wrld_db02c09a-6ddd-4ddf-a961-4d2523bb1c3e",
 "Name": "Floating In the sea"
+}
+]
+},
+{
+"Category": "和風チルワ",
+"Worlds": [
+{
+"ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
+"Name": "お彼岸"
+},
+{
+"ID": "wrld_d39c32b6-f7fb-4bb1-978b-0b1660193160",
+"Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-"
+},
+{
+"ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
+"Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-"
+},
+{
+"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-"
+},
+{
+"ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
+"Name": "紺瑠璃の間 -Azure Blue Rooms-"
+},
+{
+"ID": "wrld_4d45d9ac-3159-47d3-9631-c302571952ca",
+"Name": "黎明に咲く華 flower blooming at dawn"
+},
+{
+"ID": "wrld_e38e682c-79d2-46cc-bde3-9f9fb123571b",
+"Name": "日本の祭"
+},
+{
+"ID": "wrld_05aaf547-79ad-42c9-83e1-7126db0921bb",
+"Name": "ゆく夏の憶那-okurina-"
+},
+{
+"ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
+"Name": "ひなげし坂_HinageshiZaka"
+},
+{
+"ID": "wrld_42749608-7b80-41f4-b05c-f73064b3e7c1",
+"Name": "Forgotten shrine"
+},
+{
+"ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
+"Name": "田村酒造場 Japanese sake brewery"
+},
+{
+"ID": "wrld_d3ceae79-287a-4ea3-9508-e07efca88288",
+"Name": "どんの雲上桜庭園-＝DonK＝'s Sakura Sky Garden-"
+},
+{
+"ID": "wrld_14241f0e-56b1-4f83-b672-d3d546e321c5",
+"Name": "SAKURA hiroba"
+},
+{
+"ID": "wrld_dbbbbd78-cc9c-4647-9676-60876d6eb667",
+"Name": "ケセドの花見舟-CHESED's JAPAN SAKURA SHIP-"
+},
+{
+"ID": "wrld_wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
+"Name": "Hanami Onsen"
+},
+{
+"ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
+"Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk"
+},
+{
+"ID": "wrld_10b90f10-f8c1-43a7-a77a-807d00674d18",
+"Name": "Entertainment District - Demon Slayer˸ -KNY- HC"
+},
+{
+"ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
+"Name": "Kagaribi Onsen ［Cave］"
+},
+{
+"ID": "wrld_814489a1-3420-453f-908e-d7e260e31fb8",
+"Name": "春の山見温泉・夜 Yamami Hot Spring （Spring Night）"
+},
+{
+"ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
+"Name": "別邸 天満月-villa amamitutuki-"
+},
+{
+"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+"Name": "旅館「待宵」-inn matuyoi-"
+},
+{
+"ID": "wrld_6d94340a-cf41-42f9-97f9-d94667e5cba0",
+"Name": "水鏡 Mizukagami"
+},
+{
+"ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
+"Name": "本能寺【和風チルワ】"
 }
 ]
 },
