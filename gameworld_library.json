@@ -34,10 +34,6 @@
 "Name": "Float in the Sky-ケセドの空に浮かぶ家-"
 },
 {
-"ID": "wrld_793b4b69-31c6-4061-a67c-aae3da130b0f",
-"Name": "Golden Wasteland"
-},
-{
 "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
 "Name": "Sushi Aquarium 海洋棟"
 },
@@ -90,10 +86,6 @@
 "Name": "Monet Gallery モネ展"
 },
 {
-"ID": "wrld_6a5f5dfd-6146-4d18-b2ac-8bc2193c365c",
-"Name": "Fallen Down"
-},
-{
 "ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
 "Name": "Vault of Horizons"
 },
@@ -116,10 +108,6 @@
 {
 "ID": "wrld_984c1cf6-242e-4671-97c3-7eee82778493",
 "Name": "The Throne"
-},
-{
-"ID": "wrld_d22ca932-a4dd-424c-a733-97d1cfb15a52",
-"Name": "Undernet HUB"
 },
 {
 "ID": "wrld_0561818b-d0fd-4037-addc-9d4e54b9a7fc",
@@ -160,18 +148,6 @@
 {
 "ID": "wrld_f95068a0-4565-435f-a2be-b5ea0dc1e0b7",
 "Name": "ケセドの星空キャンプ-CHESED's Starry Sky Camp-"
-},
-{
-"ID": "wrld_f2b8a64b-36c2-4645-8cfb-9a63a463890a",
-"Name": "Mondstadt City V1․4（Genshin RP）"
-},
-{
-"ID": "wrld_42c4f9cb-ff3b-435a-9000-9c1fc914aa8d",
-"Name": "Mondstadt City Night（Genshin RP）"
-},
-{
-"ID": "wrld_ffea6ab4-bb7b-49d5-84c1-0e0615934ab3",
-"Name": "ZZZ ｜ Zenless Zone Zero ｜ New Eridu City"
 },
 {
 "ID": "wrld_d8f09a60-e55a-4c38-b978-edc1705173db",
@@ -958,10 +934,6 @@
 "Name": "おしゃべりダイス⁄Chatty DICE ［JP EN］"
 },
 {
-"ID": "wrld_9699fdf9-6ec1-4116-b5bc-a45773dd0142",
-"Name": "Undertale Demo ≺v0․322≻"
-},
-{
 "ID": "wrld_12ffd772-bee0-492a-b570-3a9285cce32f",
 "Name": "JUST謎解き［JUSTNazotoki］⁄JP"
 },
@@ -1244,10 +1216,6 @@
 "Name": "UGE Fallen Venator˸ Kashyyyk"
 },
 {
-"ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-"Name": "R․E․P․O․ VRC"
-},
-{
 "ID": "wrld_de426d82-41bd-43c2-aacc-0956bc7bb5fb",
 "Name": "Subspace"
 }
@@ -1512,10 +1480,6 @@
 {
 "ID": "wrld_fe130422-0782-435f-9dde-f87eee1d9ca6",
 "Name": "The Nestled Glade"
-},
-{
-"ID": "wrld_c5586ae4-0a47-470f-989e-5f6e2bb1ad18",
-"Name": "Room 312 （Silent Hill 2 Remake）"
 }
 ]
 },
@@ -1649,16 +1613,73 @@
 "Name": "Cil's avi world"
 },
 {
-"ID": "wrld_57514404-7f4e-4aee-a50a-57f55d3084bf",
-"Name": "Prismic's Avatar Search"
-},
-{
 "ID": "wrld_2dee8e5f-1bda-4a31-a90d-fa29a2f08ef5",
 "Name": "The Akademiya （Avatar World）"
 },
 {
 "ID": "wrld_3fa149a0-20ee-417c-a3c3-b9fa04758cb7",
 "Name": "mio3io Avatar World"
+},
+{
+"ID": "wrld_57514404-7f4e-4aee-a50a-57f55d3084bf",
+"Name": "Prismic's Avatar Search"
+}
+]
+},
+{
+"Category": "版権 (再現)",
+"Worlds": [
+{
+"ID": "wrld_793b4b69-31c6-4061-a67c-aae3da130b0f",
+"Name": "Golden Wasteland"
+},
+{
+"ID": "wrld_f2b8a64b-36c2-4645-8cfb-9a63a463890a",
+"Name": "Mondstadt City V1․4（Genshin RP）"
+},
+{
+"ID": "wrld_42c4f9cb-ff3b-435a-9000-9c1fc914aa8d",
+"Name": "Mondstadt City Night（Genshin RP）"
+},
+{
+"ID": "wrld_ffea6ab4-bb7b-49d5-84c1-0e0615934ab3",
+"Name": "ZZZ ｜ Zenless Zone Zero ｜ New Eridu City"
+},
+{
+"ID": "wrld_cd5ee400-79bc-433a-95da-6353611104dc",
+"Name": "ZZZ ｜ Zenless Zone Zero ｜ Reverb Arena"
+},
+{
+"ID": "wrld_81e0394f-4eaa-47b7-bcbe-7068b6fad51a",
+"Name": "ZZZ ｜ Zenless Zone Zero ｜ H․A․N․D Headquarters"
+},
+{
+"ID": "wrld_6a5f5dfd-6146-4d18-b2ac-8bc2193c365c",
+"Name": "Fallen Down"
+},
+{
+"ID": "wrld_d22ca932-a4dd-424c-a733-97d1cfb15a52",
+"Name": "Undernet HUB"
+},
+{
+"ID": "wrld_9699fdf9-6ec1-4116-b5bc-a45773dd0142",
+"Name": "Undertale Demo ≺v0․322≻"
+},
+{
+"ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
+"Name": "R․E․P․O․ VRC"
+},
+{
+"ID": "wrld_c5586ae4-0a47-470f-989e-5f6e2bb1ad18",
+"Name": "Room 312 （Silent Hill 2 Remake）"
+},
+{
+"ID": "wrld_477f8668-dee3-40e6-9215-a5f3a84f469e",
+"Name": "Power Starsǃ - パワースター"
+},
+{
+"ID": "wrld_80571f6e-75e8-44d9-a93c-a36e9366e5ad",
+"Name": "Power Stars 2ǃ - パワースター2"
 }
 ]
 }
