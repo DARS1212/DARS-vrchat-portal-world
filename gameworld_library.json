@@ -517,6 +517,34 @@
 {
 "ID": "wrld_271f5df7-0a6c-4cad-9652-bd36332a1411",
 "Name": "月海の家-つきうみのいえ- Moonlit Shorehouse"
+},
+{
+"ID": "wrld_08bf2fca-16f5-445a-af92-d7cc59a93b1b",
+"Name": "P L A N T"
+},
+{
+"ID": "wrld_424e4033-db3d-4817-b081-8a16e41708c5",
+"Name": "ハイム荘 401号室"
+},
+{
+"ID": "wrld_c303c9a5-bb18-4790-99b9-1c245adfd4aa",
+"Name": "Stellar Nest -summer-"
+},
+{
+"ID": "wrld_c32244ce-b9c0-4371-983d-0d0867bdfde9",
+"Name": "薄暮"
+},
+{
+"ID": "wrld_a729bf90-1220-423a-9630-7e60851e7475",
+"Name": "Rainy Daze"
+},
+{
+"ID": "wrld_5ae6e3c3-9394-4bc1-a2ac-779143741cca",
+"Name": "あたしの部屋を宇宙にして"
+},
+{
+"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+"Name": "Tiny Life Room"
 }
 ]
 },
@@ -1040,6 +1068,10 @@
 {
 "ID": "wrld_49c2dacb-32c0-4dca-9d40-f952b6872278",
 "Name": "釣り堀VR"
+},
+{
+"ID": "wrld_74882eb4-3edf-4782-88b3-3833b61923b5",
+"Name": "FILLIT"
 }
 ]
 },
