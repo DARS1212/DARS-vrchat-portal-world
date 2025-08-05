@@ -1088,6 +1088,22 @@
 {
 "ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
 "Name": "謎解きゲーム アンサーパネル"
+},
+{
+"ID": "wrld_22a0207e-3dff-4b89-a107-4f7c3ecf069b",
+"Name": "ライフステージすごろく"
+},
+{
+"ID": "wrld_78bc485a-60be-4a3d-ac0a-7252a8bad929",
+"Name": "ふしぎっぽいダンジョン - A mysterious dungeon -"
+},
+{
+"ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464",
+"Name": "Archery Time Trial"
+},
+{
+"ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
+"Name": "Spirit Speak Game"
 }
 ]
 },
@@ -1298,6 +1314,10 @@
 {
 "ID": "wrld_688e7cfc-e260-455b-862b-f2172b96cf5c",
 "Name": "幽霊のいるところ - wake"
+},
+{
+"ID": "wrld_d703eefc-feac-4379-8a76-50d975597ef9",
+"Name": "Glass"
 }
 ]
 },
@@ -1734,6 +1754,10 @@
 "Name": "Mondstadt City Night（Genshin RP）"
 },
 {
+"ID": "wrld_fa8795da-0429-4ce3-a242-851406ce65d2",
+"Name": "Winter Mondstadt City"
+},
+{
 "ID": "wrld_ffea6ab4-bb7b-49d5-84c1-0e0615934ab3",
 "Name": "ZZZ ｜ Zenless Zone Zero ｜ New Eridu City"
 },
@@ -1772,6 +1796,14 @@
 {
 "ID": "wrld_80571f6e-75e8-44d9-a93c-a36e9366e5ad",
 "Name": "Power Stars 2ǃ - パワースター2"
+},
+{
+"ID": "wrld_3e5922dd-48b7-4824-9462-3146591961db",
+"Name": "Oliver's Home - Ni No Kuni˸ Wrath of the White Witch"
+},
+{
+"ID": "wrld_0389e969-28b0-449b-93d3-a2e7704c0a11",
+"Name": "Evermore Throne - Ni No Kuni II"
 }
 ]
 }
