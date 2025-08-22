@@ -244,6 +244,14 @@
 {
 "ID": "wrld_c2c6c4b0-6f6d-4d22-a03b-76965be34420",
 "Name": "Star Trek Andoria"
+},
+{
+"ID": "wrld_d7178ae3-f597-4ea6-a185-d1f26d348cd7",
+"Name": "夏の駅、空の夢 - The Summer Station and a Sky Dream"
+},
+{
+"ID": "wrld_fabef57d-3d01-4883-a923-f087f86d20ef",
+"Name": "夏の向こう側"
 }
 ]
 },
@@ -767,6 +775,14 @@
 {
 "ID": "wrld_5089d89c-be74-4824-8919-c8b0cd3d2204",
 "Name": "Usagi Empire Bakery ＆ Cafe"
+},
+{
+"ID": "wrld_4af12495-636e-4107-b7b7-638437c69450",
+"Name": "フレンドで焼肉するワールド"
+},
+{
+"ID": "wrld_c8bedb93-9d4f-45c0-ad2a-aa369230317e",
+"Name": "和食レストラン もりりぃどんや-Restaurant Morilly Donya-"
 }
 ]
 },
@@ -1104,6 +1120,10 @@
 {
 "ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
 "Name": "Spirit Speak Game"
+},
+{
+"ID": "wrld_29f860ac-e44b-4c93-b089-221829bce30b",
+"Name": "叫べ！急婚バトルロワイアル"
 }
 ]
 },
@@ -1237,6 +1257,10 @@
 {
 "ID": "wrld_27e68060-730a-439e-9332-acda8f5d3547",
 "Name": "みんなの懺悔展"
+},
+{
+"ID": "wrld_03d1de35-482a-423d-b89c-30018827d07c",
+"Name": "米津玄師の曲を聴くためだけのワールド"
 }
 ]
 },
@@ -1318,6 +1342,10 @@
 {
 "ID": "wrld_d703eefc-feac-4379-8a76-50d975597ef9",
 "Name": "Glass"
+},
+{
+"ID": "wrld_4e7b0176-68fc-471c-98a9-5bd10148c333",
+"Name": "Evermist Manor"
 }
 ]
 },
