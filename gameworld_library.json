@@ -252,6 +252,10 @@
 {
 "ID": "wrld_fabef57d-3d01-4883-a923-f087f86d20ef",
 "Name": "夏の向こう側"
+},
+{
+"ID": "wrld_adb40ebf-2b59-42e0-880a-46db521cefee",
+"Name": "星のふる夜"
 }
 ]
 },
@@ -557,6 +561,26 @@
 {
 "ID": "wrld_ba2e931c-63dc-4243-9e82-9eef00d706fb",
 "Name": "Boothの商品動画をたれながしてチルする部屋"
+},
+{
+"ID": "wrld_e2eff783-27c6-4c2b-9ce7-334dedc7f1bd",
+"Name": "Minimalism"
+},
+{
+"ID": "wrld_1ae65cb-46e0-4522-969f-3f10ed39d58c",
+"Name": "朝霧"
+},
+{
+"ID": "wrld_4e985f9b-aa03-4d25-8198-547609ee3c89",
+"Name": "June"
+},
+{
+"ID": "wrld_f4791153-7018-4311-98e2-1330de8c9eed",
+"Name": "RELIEF - 安息の夜 -"
+},
+{
+"ID": "wrld_8be97d3f-0890-4474-bcf3-fe317b3283a7",
+"Name": "流星海流"
 }
 ]
 },
@@ -654,6 +678,10 @@
 {
 "ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
 "Name": "本能寺【和風チルワ】"
+},
+{
+"ID": "wrld_6adf67f2-9d0d-41bc-a087-04619c255bbc",
+"Name": "星今宵"
 }
 ]
 },
@@ -1124,6 +1152,10 @@
 {
 "ID": "wrld_29f860ac-e44b-4c93-b089-221829bce30b",
 "Name": "叫べ！急婚バトルロワイアル"
+},
+{
+"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
+"Name": "JUSTETRIS"
 }
 ]
 },
@@ -1657,6 +1689,10 @@
 {
 "ID": "wrld_b8cbc920-bb6a-49d6-a2e0-5de5213ffc85",
 "Name": "ぶいあ～る横丁-VR Yokocho-"
+},
+{
+"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+"Name": "なでなでマッチング【PC Desktop＆VR両対応】"
 }
 ]
 },
