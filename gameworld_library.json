@@ -276,6 +276,26 @@
 {
 "ID": "wrld_69fb8795-c639-4c09-8aea-4d5140e6e365",
 "Name": "＃響鳴花火 やっさんの花火大会 KyomeiHanabi yassann's Fireworks"
+},
+{
+"ID": "wrld_ffb969b5-f3b5-4c4b-9052-783304c81c64",
+"Name": "The Jellyfish"
+},
+{
+"ID": "wrld_c80f74db-9c8d-4db1-9575-1df606d0cbbb",
+"Name": "Podcast․"
+},
+{
+"ID": "wrld_ef6cb0de-1cfb-4458-a1e0-32f518e0cc13",
+"Name": "Venice Immersive 2025"
+},
+{
+"ID": "wrld_243f79a3-09c5-44f3-a038-e014217b1f85",
+"Name": "ケセドの藤棚-CHESED's Wisteria Trellis-"
+},
+{
+"ID": "wrld_250918f7-ffdc-4b38-ac1b-c65b3df90773",
+"Name": "落陽の帰り道 -The Road Home at Sunset-"
 }
 ]
 },
@@ -843,6 +863,10 @@
 {
 "ID": "wrld_c8bedb93-9d4f-45c0-ad2a-aa369230317e",
 "Name": "和食レストラン もりりぃどんや-Restaurant Morilly Donya-"
+},
+{
+"ID": "wrld_dacea014-c335-45fb-b24d-2b4050eedde7",
+"Name": "牧場Cafe ほしくさ"
 }
 ]
 },
@@ -1204,6 +1228,26 @@
 {
 "ID": "wrld_a61d7b77-256b-4f20-8540-c84d57a0c5c2",
 "Name": "Color Clues"
+},
+{
+"ID": "wrld_eeb1d51a-3f5a-42e3-a1d8-7c9fcba58033",
+"Name": "積み木でゲッサー"
+},
+{
+"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
+"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
+},
+{
+"ID": "wrld_e2ddaadd-2e5d-4c03-902c-c293ecbf43ba",
+"Name": "おもしろことばあそびげーむ"
+},
+{
+"ID": "wrld_abdde73e-5d31-4802-aeb5-fcca8a94bc65",
+"Name": "ちょっと殺風景なクリスマス部屋からの脱出！！"
+},
+{
+"ID": "wrld_4adb757a-9776-44d3-a129-cd871c3ee71d",
+"Name": "Last One Running"
 }
 ]
 },
@@ -1345,6 +1389,18 @@
 {
 "ID": "wrld_56ee68a1-166d-464e-81c6-12adb1b4b26c",
 "Name": "米津玄師との生活"
+},
+{
+"ID": "wrld_e24a6e91-a424-44e6-b7cc-81a79e993823",
+"Name": "ミセスのライブの騒音が聞こえる部屋"
+},
+{
+"ID": "wrld_fd8029ba-55df-4292-bb1a-6ec34a36a6f6",
+"Name": "ランダムに特殊部隊が突入してくるチルワールド"
+},
+{
+"ID": "wrld_bc0e545c-4ea1-4592-9a02-c4e35c87838c",
+"Name": "おへやのおそうじ-Cleaning the room-"
 }
 ]
 },
@@ -1603,6 +1659,14 @@
 {
 "ID": "wrld_95d99272-1530-4c0e-94a4-18c87671a359",
 "Name": "Grandma's Basement"
+},
+{
+"ID": "wrld_3d8fd35c-8505-42f7-bb77-619ae6de93b4",
+"Name": "V Home"
+},
+{
+"ID": "wrld_dc671129-70cf-40a4-b0f4-356c561389b3",
+"Name": "Neuron"
 }
 ]
 },
@@ -1708,6 +1772,10 @@
 {
 "ID": "wrld_0ad12f37-f7d2-4c3e-8d09-219cfe9292e8",
 "Name": "We're On Observation Duty"
+},
+{
+"ID": "wrld_4d3ed6cf-714c-43e6-b712-063e580954d0",
+"Name": "VrChat PT"
 }
 ]
 },
