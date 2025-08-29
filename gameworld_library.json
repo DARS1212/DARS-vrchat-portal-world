@@ -296,6 +296,22 @@
 {
 "ID": "wrld_250918f7-ffdc-4b38-ac1b-c65b3df90773",
 "Name": "落陽の帰り道 -The Road Home at Sunset-"
+},
+{
+"ID": "wrld_af1d903e-9e79-4b04-93b0-dfa5c7e11163",
+"Name": "ケセドの海の夏フェス-CHESED's Seaside Summer Fest-"
+},
+{
+"ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
+"Name": "波打ち際と"
+},
+{
+"ID": "wrld_36117d86-d759-4b9c-962e-eb25c8caebdf",
+"Name": "Sunset Bay"
+},
+{
+"ID": "wrld_c8418572-d4f9-4eef-b52a-73c73852341d",
+"Name": "small QUEST Beach"
 }
 ]
 },
@@ -629,6 +645,10 @@
 {
 "ID": "wrld_9aef847c-28ed-4029-9841-9c04aaa5bae6",
 "Name": "終末世界 君と二人"
+},
+{
+"ID": "wrld_757dd2d3-ad61-4eb5-928e-8682712ed267",
+"Name": "KTNK_ClassicSalon"
 }
 ]
 },
@@ -1521,10 +1541,6 @@
 "Name": "The Avatar Studio ｜ Avatown"
 },
 {
-"ID": "wrld_01b62965-1b3c-4062-bc22-0b339b8063ca",
-"Name": "VRCraft"
-},
-{
 "ID": "wrld_5321a1a3-ebb3-48b7-9e78-43943395292d",
 "Name": "NPC わんわんルーム Wanwan Room"
 },
@@ -1667,6 +1683,18 @@
 {
 "ID": "wrld_dc671129-70cf-40a4-b0f4-356c561389b3",
 "Name": "Neuron"
+},
+{
+"ID": "wrld_2a0ca0a3-6bc6-425c-9cc2-4b1eec4b5289",
+"Name": "密林グランピング Tropical Glamping Site"
+},
+{
+"ID": "wrld_6a1d3936-c4dc-4719-bc75-ec07a8a05cfb",
+"Name": "MMD Fight Club"
+},
+{
+"ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
+"Name": "THE Swimming Pool"
 }
 ]
 },
