@@ -312,6 +312,14 @@
 {
 "ID": "wrld_c8418572-d4f9-4eef-b52a-73c73852341d",
 "Name": "small QUEST Beach"
+},
+{
+"ID": "wrld_69cdfb46-6949-445f-83f4-8d88446bd0e1",
+"Name": "明鏡"
+},
+{
+"ID": "wrld_b8131227-4402-46cc-8236-30c3dcf4ed04",
+"Name": "Aurora"
 }
 ]
 },
@@ -649,6 +657,10 @@
 {
 "ID": "wrld_757dd2d3-ad61-4eb5-928e-8682712ed267",
 "Name": "KTNK_ClassicSalon"
+},
+{
+"ID": "wrld_eeea10f6-ab75-438d-8ee5-f8b3f1a92a1a",
+"Name": "＃000142"
 }
 ]
 },
@@ -887,6 +899,10 @@
 {
 "ID": "wrld_dacea014-c335-45fb-b24d-2b4050eedde7",
 "Name": "牧場Cafe ほしくさ"
+},
+{
+"ID": "wrld_72b985c7-9163-45db-900e-1f2892058c5b",
+"Name": "和風Bar＂幽霊花＂ ～Japanese Bar Ghost Flower＂～"
 }
 ]
 },
@@ -1506,6 +1522,10 @@
 {
 "ID": "wrld_ad171e41-3737-4042-b0ac-e6561a1229af",
 "Name": "Distant Memory"
+},
+{
+"ID": "wrld_c0ffc7d7-93b7-4f76-b982-0892ed66f9a2",
+"Name": "The Clockworks"
 }
 ]
 },
@@ -1695,6 +1715,10 @@
 {
 "ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
 "Name": "THE Swimming Pool"
+},
+{
+"ID": "wrld_60aab7c7-614a-4085-85af-5f427858de8f",
+"Name": "JAPAN自然災害観測所＝JP earthquake observation post＝"
 }
 ]
 },
