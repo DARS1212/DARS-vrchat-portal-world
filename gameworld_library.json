@@ -1353,6 +1353,26 @@
 {
 "ID": "wrld_ba2e931c-63dc-4243-9e82-9eef00d706fb",
 "Name": "Boothの商品動画をたれながしてチルする部屋"
+},
+{
+"ID": "wrld_538edfbb-e36c-480b-92bf-744d12c671f3",
+"Name": "陣内智則の動画を見るためだけのワールド"
+},
+{
+"ID": "wrld_5e60153e-bf06-4336-9617-9133aed2102c",
+"Name": "バーバパパを楽しむワールド"
+},
+{
+"ID": "wrld_37ea901e-fc4a-4225-a6fa-d92ccee99d72",
+"Name": "きんに君と筋トレできる部屋"
+},
+{
+"ID": "wrld_c7106b64-08bd-4db2-a2e5-b29b22c5e3e3",
+"Name": "でんじろう先生のはぴエネǃを観るワールド"
+},
+{
+"ID": "wrld_03d1de35-482a-423d-b89c-30018827d07c",
+"Name": "米津玄師の曲を聴くためだけのワールド"
 }
 ]
 },
@@ -1364,24 +1384,16 @@
 "Name": "ジャパニーズパリピ体育館"
 },
 {
-"ID": "wrld_538edfbb-e36c-480b-92bf-744d12c671f3",
-"Name": "陣内智則の動画を見るためだけのワールド"
-},
-{
 "ID": "wrld_2340af4d-fa69-417d-95ca-f95f33bd9a63",
 "Name": "落ちつかない和室"
 },
 {
 "ID": "wrld_c0bc0e9c-aa52-4992-baaf-8c0054f1b895",
 "Name": "クッソあったかい部屋"
-}
+},
 {
 "ID": "wrld_c87049e4-50f3-4b96-951e-7952b6d637b2",
 "Name": "ジャパニーズパリピクリスマス -Japanese Paripi Christmas -"
-},
-{
-"ID": "wrld_5e60153e-bf06-4336-9617-9133aed2102c",
-"Name": "バーバパパを楽しむワールド"
 },
 {
 "ID": "wrld_ab6dd772-3ad5-49cf-a0e9-d4679b0048c9",
@@ -1412,16 +1424,12 @@
 "Name": "PROTOTYPE PARK"
 },
 {
-"ID": "wrld_37ea901e-fc4a-4225-a6fa-d92ccee99d72",
-"Name": "きんに君と筋トレできる部屋"
-},
-{
 "ID": "wrld_c31d228a-76c2-4246-a62c-1dd1d02c17aa",
 "Name": "杉刈り-No More Pollen-"
 },
 {
 "ID": "wrld_185c124e-986d-48c8-9fe0-4c0401182fdd",
-"Name": "ねこあつめ（ねこあつめではない"
+"Name": "ねこあつめ（ねこあつめではない）"
 },
 {
 "ID": "wrld_bc4e37e8-923c-4166-b6e3-5013281e92d0",
@@ -1430,10 +1438,6 @@
 {
 "ID": "wrld_5c51de44-c101-4d6f-901b-4392adb17f84",
 "Name": "Just キノコ （Just Mushroom）"
-},
-{
-"ID": "wrld_c7106b64-08bd-4db2-a2e5-b29b22c5e3e3",
-"Name": "でんじろう先生のはぴエネǃを観るワールド"
 },
 {
 "ID": "wrld_8ec08d31-29a7-4ce8-a3f5-37e8762a5d93",
@@ -1464,10 +1468,6 @@
 "Name": "【I․C․】Subconscious Test"
 },
 {
-"ID": "wrld_21f8b0d9-bb73-4e9e-80c8-631db2fe2086",
-"Name": "Twilight Princess - Master Sword Shrine"
-},
-{
 "ID": "wrld_ff7f8995-5e97-426a-a4d1-7542ed7ecefd",
 "Name": "お布団から出たくないワールド"
 },
@@ -1486,10 +1486,6 @@
 {
 "ID": "wrld_27e68060-730a-439e-9332-acda8f5d3547",
 "Name": "みんなの懺悔展"
-},
-{
-"ID": "wrld_03d1de35-482a-423d-b89c-30018827d07c",
-"Name": "米津玄師の曲を聴くためだけのワールド"
 },
 {
 "ID": "wrld_56ee68a1-166d-464e-81c6-12adb1b4b26c",
