@@ -1385,6 +1385,10 @@
 {
 "ID": "wrld_195790c5-6124-46b4-b206-9151cbbf0aa8",
 "Name": "360° Journey"
+},
+{
+"ID": "wrld_60aab7c7-614a-4085-85af-5f427858de8f",
+"Name": "JAPAN自然災害観測所＝JP earthquake observation post＝"
 }
 ]
 },
@@ -1788,10 +1792,6 @@
 {
 "ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
 "Name": "THE Swimming Pool"
-},
-{
-"ID": "wrld_60aab7c7-614a-4085-85af-5f427858de8f",
-"Name": "JAPAN自然災害観測所＝JP earthquake observation post＝"
 }
 ]
 },
