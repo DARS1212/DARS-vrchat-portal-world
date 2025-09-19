@@ -46,10 +46,6 @@
 "Name": "Sakura Sunset （Youtube Search）"
 },
 {
-"ID": "wrld_0ec9ff73-67ac-43f4-afb6-bb777a36531e",
-"Name": "あなたへ"
-},
-{
 "ID": "wrld_f97a7085-0314-4423-b9cc-fde990472366",
 "Name": "天空の鏡 ~Sky Mirror~"
 },
@@ -94,16 +90,8 @@
 "Name": "夏の孤島の浜辺"
 },
 {
-"ID": "wrld_d2c3aa32-46b1-4525-8ba3-8498649c226a",
-"Name": "Waddle Dee Town"
-},
-{
 "ID": "wrld_c50d4bb1-d7ef-438b-8706-cd7377342df5",
 "Name": "Autumn Leaves"
-},
-{
-"ID": "wrld_d64ecf25-aae8-42e7-a2ce-b62dcaa5185e",
-"Name": "Realm of the Giants"
 },
 {
 "ID": "wrld_984c1cf6-242e-4671-97c3-7eee82778493",
@@ -128,10 +116,6 @@
 {
 "ID": "wrld_bd515bf9-77b8-46f0-8975-362f79fe0e71",
 "Name": "Bubble"
-},
-{
-"ID": "wrld_4aaedbad-8d02-4163-bbe1-268a52ec5432",
-"Name": "Emerald Valley"
 },
 {
 "ID": "wrld_c63c511e-b605-40d5-ba5b-08ff191c5e46",
@@ -2103,6 +2087,10 @@
 "Name": "Golden Wasteland"
 },
 {
+"ID": "wrld_4aaedbad-8d02-4163-bbe1-268a52ec5432",
+"Name": "Emerald Valley"
+},
+{
 "ID": "wrld_f2b8a64b-36c2-4645-8cfb-9a63a463890a",
 "Name": "Mondstadt City V1․4（Genshin RP）"
 },
@@ -2159,12 +2147,20 @@
 "Name": "Mario's Pipe House - Super Mario RPG Remake"
 },
 {
+"ID": "wrld_d2c3aa32-46b1-4525-8ba3-8498649c226a",
+"Name": "Waddle Dee Town"
+},
+{
 "ID": "wrld_3e5922dd-48b7-4824-9462-3146591961db",
 "Name": "Oliver's Home - Ni No Kuni˸ Wrath of the White Witch"
 },
 {
 "ID": "wrld_0389e969-28b0-449b-93d3-a2e7704c0a11",
 "Name": "Evermore Throne - Ni No Kuni II"
+},
+{
+"ID": "wrld_d64ecf25-aae8-42e7-a2ce-b62dcaa5185e",
+"Name": "Realm of the Giants"
 }
 ]
 }
