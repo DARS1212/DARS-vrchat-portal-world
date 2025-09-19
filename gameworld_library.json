@@ -663,10 +663,6 @@
 "Name": "Tiny Life Room"
 },
 {
-"ID": "wrld_ba2e931c-63dc-4243-9e82-9eef00d706fb",
-"Name": "Boothの商品動画をたれながしてチルする部屋"
-},
-{
 "ID": "wrld_e2eff783-27c6-4c2b-9ce7-334dedc7f1bd",
 "Name": "Minimalism"
 },
@@ -1367,8 +1363,8 @@
 "Category": "動画、音楽鑑賞",
 "Worlds": [
 {
-"ID": "",
-"Name": ""
+"ID": "wrld_ba2e931c-63dc-4243-9e82-9eef00d706fb",
+"Name": "Boothの商品動画をたれながしてチルする部屋"
 }
 ]
 },
