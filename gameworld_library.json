@@ -822,6 +822,10 @@
 {
 "ID": "wrld_243f79a3-09c5-44f3-a038-e014217b1f85",
 "Name": "ケセドの藤棚-CHESED's Wisteria Trellis-"
+},
+{
+"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
+"Name": "舟屋 Boathouse"
 }
 ]
 },
@@ -1373,6 +1377,14 @@
 {
 "ID": "wrld_03d1de35-482a-423d-b89c-30018827d07c",
 "Name": "米津玄師の曲を聴くためだけのワールド"
+},
+{
+"ID": "wrld_033b9f75-49be-4213-9218-a540dd2be60a",
+"Name": "Tanuki Tunesǃ - タヌキトゥーンズ"
+},
+{
+"ID": "wrld_195790c5-6124-46b4-b206-9151cbbf0aa8",
+"Name": "360° Journey"
 }
 ]
 },
@@ -1610,10 +1622,6 @@
 "Name": "Realtime Farm ⁄ リアルタイム農業ワールド - リアルVRChat2"
 },
 {
-"ID": "wrld_033b9f75-49be-4213-9218-a540dd2be60a",
-"Name": "Tanuki Tunesǃ - タヌキトゥーンズ"
-},
-{
 "ID": "wrld_6075be77-2fa3-44c2-8204-95905bb3fd53",
 "Name": "MyAvatarGoods"
 },
@@ -1624,10 +1632,6 @@
 {
 "ID": "wrld_7bfc89a1-aa68-49a7-90c0-65fb3e1d93c4",
 "Name": "Vket2024W Parareal Central"
-},
-{
-"ID": "wrld_195790c5-6124-46b4-b206-9151cbbf0aa8",
-"Name": "360° Journey"
 },
 {
 "ID": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
@@ -1696,10 +1700,6 @@
 {
 "ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
 "Name": "Fantasy Airport 秘境、ルアフォートにて"
-},
-{
-"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
-"Name": "舟屋 Boathouse"
 },
 {
 "ID": "wrld_42930816-c882-4ed6-ac02-8582380c9dbe",
