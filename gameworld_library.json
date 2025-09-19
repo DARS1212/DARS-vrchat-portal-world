@@ -266,10 +266,6 @@
 "Name": "Venice Immersive 2025"
 },
 {
-"ID": "wrld_243f79a3-09c5-44f3-a038-e014217b1f85",
-"Name": "ケセドの藤棚-CHESED's Wisteria Trellis-"
-},
-{
 "ID": "wrld_250918f7-ffdc-4b38-ac1b-c65b3df90773",
 "Name": "落陽の帰り道 -The Road Home at Sunset-"
 },
@@ -838,6 +834,10 @@
 {
 "ID": "wrld_b99558e0-98e3-4c44-bf8d-545f13bc3db9",
 "Name": "Kuluの家"
+},
+{
+"ID": "wrld_243f79a3-09c5-44f3-a038-e014217b1f85",
+"Name": "ケセドの藤棚-CHESED's Wisteria Trellis-"
 }
 ]
 },
