@@ -870,6 +870,14 @@
 {
 "ID": "wrld_5d044df3-b4fc-4b0b-8946-a268b1b669cf",
 "Name": "朝日が昇る天空温泉 -SOLDAWN ONSEN-"
+},
+{
+"ID": "wrld_861f932e-cc8e-4c9f-8a87-94dbd3a852e5",
+"Name": "和風ドス本家"
+},
+{
+"ID": "wrld_76045cdd-a948-4a87-8227-bacde3daa3f5",
+"Name": "しおさい街道 - Siosai Highway -"
 }
 ]
 },
@@ -1362,6 +1370,10 @@
 "Name": "8番マグロ"
 },
 {
+"ID": "wrld_e277997f-1375-49f9-8c19-941897efa95c",
+"Name": "8番マグロ2"
+},
+{
 "ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
 "Name": "脱出ゲーム「無実の罪からの脱出」"
 },
@@ -1408,6 +1420,22 @@
 {
 "ID": "wrld_b9bfd500-6e59-4066-82b6-099ee68e71c3",
 "Name": "THE MIND"
+},
+{
+"ID": "wrld_88ed0bb1-3bc6-466e-945d-0fc5b2b4b448",
+"Name": "ビードロ"
+},
+{
+"ID": "wrld_b4318d21-6a0d-4a52-8f7d-35358e285d05",
+"Name": "時すでにお寿司_VR版"
+},
+{
+"ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
+"Name": "ガンナガン ⁄ GUN AND GUN"
+},
+{
+"ID": "wrld_88058f45-731b-4ca0-bf7f-b143f6a16e66",
+"Name": "ぼくのかんがえたさいきょうのひっさつわざǃǃ"
 }
 ]
 },
