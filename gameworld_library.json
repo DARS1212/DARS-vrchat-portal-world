@@ -751,12 +751,44 @@
 "Name": "夏宵に、さよならを。"
 },
 {
+"ID": "wrld_6f450e8d-fc66-4810-8987-c29091b71b55",
+"Name": "日なたのぽんハウス"
+},
+{
 "ID": "wrld_7112d5fe-3a30-497e-805c-34d2cbe497bc",
 "Name": "花火の見えるぽんハウス -Private Fireworks-"
 },
 {
 "ID": "wrld_fe3a31b0-13be-435e-bc80-60b3763cf90f",
 "Name": "In My Dreams"
+},
+{
+"ID": "wrld_8bd5b49e-7690-4e71-8c87-15a4660ee5b3",
+"Name": "BEBE Salon"
+},
+{
+"ID": "wrld_f0f7faf7-f56e-4898-8256-1dbcda9e6da7",
+"Name": "SkyScraper"
+},
+{
+"ID": "wrld_79ac2912-d2c1-4ba7-b17e-bf4bd4e46f38",
+"Name": "chill ＆ yt"
+},
+{
+"ID": "wrld_6f465c47-17c8-4eb2-8fa5-ec18e68a645e",
+"Name": "distant_"
+},
+{
+"ID": "wrld_627b74ad-191b-4ac2-8979-179b41ca1bf8",
+"Name": "日照雨 - sobae"
+},
+{
+"ID": "wrld_02847e0f-f5ce-4567-8749-d63238c3123f",
+"Name": "potage"
+},
+{
+"ID": "wrld_356b274a-7361-4bc8-ba0e-fd91c5ba01a2",
+"Name": "Repose"
 }
 ]
 },
@@ -878,6 +910,14 @@
 {
 "ID": "wrld_76045cdd-a948-4a87-8227-bacde3daa3f5",
 "Name": "しおさい街道 - Siosai Highway -"
+},
+{
+"ID": "wrld_d3bf5a81-4e7e-44d5-830c-4755dfc5a0c9",
+"Name": "Kangetsu Lake"
+},
+{
+"ID": "wrld_bce23d07-7e19-4018-8652-34fa30b7308b",
+"Name": "Kitsunebi Teahouse ˸˸˸ 狐火茶屋"
 }
 ]
 },
