@@ -2241,6 +2241,18 @@
 {
 "ID": "wrld_8364cbd6-819b-4737-acc3-6279e07cf0f6",
 "Name": "The Tenth Floor"
+},
+{
+"ID": "wrld_8b156087-f69f-416e-9d80-5740effd6d0b",
+"Name": "8番マグロTHE・HORROR"
+},
+{
+"ID": "wrld_ea1c31e8-e2b2-40a4-b994-21012a8e0421",
+"Name": "［HORROR］回廊 ⁄ She is in the Hallway ［JP⁄EN］"
+},
+{
+"ID": "wrld_43ae60c3-f951-4868-92af-d9a016e36dd4",
+"Name": "青い、青い空-Sky Blue Sky ＃SCP-8900"
 }
 ]
 },
@@ -2286,6 +2298,10 @@
 {
 "ID": "wrld_70ca77f8-cb78-42f9-bbf8-a82cc9a9db6a",
 "Name": "やかん横丁"
+},
+{
+"ID": "wrld_d619675d-139d-4e58-bcda-da26a3c75c0e",
+"Name": "ヘヤタテ型交流ワールド「ひまり旅館」-Himari Ryokan- ［JP］"
 }
 ]
 },
