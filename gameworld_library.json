@@ -873,6 +873,42 @@
 {
 "ID": "wrld_34dcd007-23fb-4794-95c9-4f0f132a7299",
 "Name": "Isolate"
+},
+{
+"ID": "wrld_1f92d98e-1c3a-469f-a9d1-1c7257c75c35",
+"Name": "僕たちの秘密基地"
+},
+{
+"ID": "wrld_c1b2bfcf-9032-43a1-a355-0408f6114561",
+"Name": "終末の静寂基地"
+},
+{
+"ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
+"Name": "Seclusion"
+},
+{
+"ID": "wrld_aec44823-1e26-4cfd-b0d8-0622288c8f51",
+"Name": "Twilight"
+},
+{
+"ID": "wrld_d9adfa6c-00db-4d89-b919-be4196cf9f0b",
+"Name": "UrbanSolitude"
+},
+{
+"ID": "wrld_2c3a67c0-0c09-47f9-9303-59e534a81dbd",
+"Name": "Protocol 0 「残響」"
+},
+{
+"ID": "wrld_f7d7ad7f-3edb-40ee-b470-f97c2bee92e3",
+"Name": "Aqueous"
+},
+{
+"ID": "wrld_d5487700-7179-4c4e-bf34-ed3cb2ce383f",
+"Name": "Midnight Magic"
+},
+{
+"ID": "wrld_3c7fc4f1-7768-4ae9-af1c-a5effeed3462",
+"Name": "空室"
 }
 ]
 },
