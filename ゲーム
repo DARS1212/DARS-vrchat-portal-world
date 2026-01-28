@@ -3,1595 +3,112 @@
 "ShowPrivateWorld": false,
 "Categorys": [
 {
-"Category": "ゲーム",
+"Category": "パーティーゲーム",
 "Worlds": [
-{
-"ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
-"Name": "月に君影"
-},
-{
-"ID": "wrld_eaf4b0cc-84c4-4567-aec3-50dc59d7953e",
-"Name": "海に至る道-Road to the sea"
-},
-{
-"ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
-"Name": "青天霹靂"
-},
-{
-"ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
-"Name": "青天霹靂（夕）"
-},
-{
-"ID": "wrld_47bed915-0cce-4c6f-8337-0d31931d6230",
-"Name": "春色の列車～Train with spring scenery～"
-},
-{
-"ID": "wrld_f64e036d-dd5c-49df-ac12-8dc2ee7ed56a",
-"Name": "秋色の列車～Train with Autumn scenery～"
-},
-{
-"ID": "wrld_486691aa-08d1-4fd8-a86f-44556e08a807",
-"Name": "Float in the Sky-ケセドの空に浮かぶ家-"
-},
-{
-"ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
-"Name": "Sushi Aquarium 海洋棟"
-},
-{
-"ID": "wrld_43c9cf46-c66c-4e18-98f5-e479e58f99e8",
-"Name": "漂泊ノ海-Wandering Sea-"
-},
-{
-"ID": "wrld_1f99d192-3329-482e-bbf4-6450286d91e2",
-"Name": "Sakura Sunset （Youtube Search）"
-},
-{
-"ID": "wrld_f97a7085-0314-4423-b9cc-fde990472366",
-"Name": "天空の鏡 ~Sky Mirror~"
-},
-{
-"ID": "wrld_350b2044-3882-4ccb-bb2c-c34a6eb7cea0",
-"Name": "Color Shower"
-},
-{
-"ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
-"Name": "東雲風船 - SHINONOME BALLOON -"
-},
-{
-"ID": "wrld_da251d7a-2c3a-4ff3-b71c-fac93c62d4ad",
-"Name": "寂夜之梦Miss Rabbit's Night"
-},
-{
-"ID": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
-"Name": "夏の忘れ物"
-},
-{
-"ID": "wrld_9396edc7-2580-4350-98cb-4d0f963bb685",
-"Name": "sanctuary"
-},
-{
-"ID": "wrld_fbb77316-a301-499b-a4f6-5f676c5a1b08",
-"Name": "Crystal Nest"
-},
-{
-"ID": "wrld_74b0e92d-c3c9-463a-9782-b3878fb89a8c",
-"Name": "Fallen Books"
-},
-{
-"ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4",
-"Name": "Monet Gallery モネ展"
-},
-{
-"ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
-"Name": "Vault of Horizons"
-},
-{
-"ID": "wrld_081d3773-7567-4544-b63f-980de9e64c6f",
-"Name": "夏の孤島の浜辺"
-},
-{
-"ID": "wrld_c50d4bb1-d7ef-438b-8706-cd7377342df5",
-"Name": "Autumn Leaves"
-},
-{
-"ID": "wrld_984c1cf6-242e-4671-97c3-7eee82778493",
-"Name": "The Throne"
-},
-{
-"ID": "wrld_0561818b-d0fd-4037-addc-9d4e54b9a7fc",
-"Name": "終末の天文台（軽量版）⁄ Abandoned Observatory（Lite Ver․）"
-},
-{
-"ID": "wrld_9dfad817-b44c-4631-8545-5ff2c8cac879",
-"Name": "WindHaven"
-},
-{
-"ID": "wrld_edcf8188-5da2-4c3d-827c-0eddeb10e531",
-"Name": "Ruins on the Hill ～丘の上の廃墟～"
-},
-{
-"ID": "wrld_c1be400b-197b-4d32-825e-c785f112aab2",
-"Name": "Last Departure"
-},
-{
-"ID": "wrld_bd515bf9-77b8-46f0-8975-362f79fe0e71",
-"Name": "Bubble"
-},
-{
-"ID": "wrld_c63c511e-b605-40d5-ba5b-08ff191c5e46",
-"Name": "floating castle flower garden ~ 浮城の花園 ~"
-},
-{
-"ID": "wrld_6ae24d40-2fa8-4e6e-88df-c979a5db7653",
-"Name": "星屑の原"
-},
-{
-"ID": "wrld_f98ef072-86eb-4431-9505-212345650dbb",
-"Name": "Night Church"
-},
-{
-"ID": "wrld_f95068a0-4565-435f-a2be-b5ea0dc1e0b7",
-"Name": "ケセドの星空キャンプ-CHESED's Starry Sky Camp-"
-},
-{
-"ID": "wrld_d8f09a60-e55a-4c38-b978-edc1705173db",
-"Name": "Of Azure‚ Stars Shine"
-},
-{
-"ID": "wrld_a2ae3565-c419-48b5-bd65-aed4d3b4a361",
-"Name": "The Oasis‚ Ancients Hide"
-},
-{
-"ID": "wrld_35d9e982-fcdb-4b85-951d-fa7db8b11119",
-"Name": "輝く未来 I see the light"
-},
-{
-"ID": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
-"Name": "Absence"
-},
-{
-"ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
-"Name": "夏宙の休息地 -Summer Starrysky Rest-"
-},
-{
-"ID": "wrld_0255bfa4-61fc-40fb-bdea-b9400fa487f9",
-"Name": "SheepTopia"
-},
-{
-"ID": "wrld_151d93d1-e917-4643-a97b-e459775b12c8",
-"Name": "Rooftop Canvas"
-},
-{
-"ID": "wrld_2549b5ff-c18d-48b8-9450-01dc7fb5c706",
-"Name": "Ocean's Spirit"
-},
-{
-"ID": "wrld_2d71ccee-efd7-4fc8-a20c-3bdcfaf6af37",
-"Name": "めっちゃ花あるとこ"
-},
-{
-"ID": "wrld_f8e252e0-9bbc-4973-b6a5-9cf6f2478810",
-"Name": "Church of His Immaculate Seed"
-},
-{
-"ID": "wrld_c8e8fdc2-681b-4916-8511-8f691861e384",
-"Name": "日向荘（ひなたそう）"
-},
-{
-"ID": "wrld_1cd445f6-6d23-4831-9982-3170fd21eb85",
-"Name": "Town Moss ［MapAWeek］ pt․19"
-},
-{
-"ID": "wrld_58a2cd3b-02d2-488e-9de0-83bb871516ea",
-"Name": "305 Miami"
-},
-{
-"ID": "wrld_9c70844d-aace-4ce8-af08-bd26fe23bbaf",
-"Name": "習作_光の回廊"
-},
-{
-"ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
-"Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-"
-},
-{
-"ID": "wrld_200dc801-f658-44cd-a775-d9c33c8efcd0",
-"Name": "星空に憧れて ~Longing for the starry sky~"
-},
-{
-"ID": "wrld_c161e21f-f7af-41ef-bdb1-be3683f964e3",
-"Name": "朝風の坪庭 - Morning Iris Garden -"
-},
-{
-"ID": "wrld_feca916d-bd73-4214-ad65-880930fea3dc",
-"Name": "Piano Hall -Bird's Memory-"
-},
-{
-"ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
-"Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-"
-},
-{
-"ID": "wrld_dbdc35bd-ff54-4e78-ba4b-e6816b0446f9",
-"Name": "Kagutsuchi Port 9 PM"
-},
-{
-"ID": "wrld_bc82f14b-9ce9-445f-8295-29f0c9f5ac76",
-"Name": "2261号室 -おもいで-16㎆"
-},
-{
-"ID": "wrld_c2c6c4b0-6f6d-4d22-a03b-76965be34420",
-"Name": "Star Trek Andoria"
-},
-{
-"ID": "wrld_d7178ae3-f597-4ea6-a185-d1f26d348cd7",
-"Name": "夏の駅、空の夢 - The Summer Station and a Sky Dream"
-},
-{
-"ID": "wrld_fabef57d-3d01-4883-a923-f087f86d20ef",
-"Name": "夏の向こう側"
-},
-{
-"ID": "wrld_adb40ebf-2b59-42e0-880a-46db521cefee",
-"Name": "星のふる夜"
-},
-{
-"ID": "wrld_2676386a-7c68-44bc-bce9-7692b72bfd30",
-"Name": "Sky High Apartment"
-},
-{
-"ID": "wrld_7cead4eb-165d-46a1-bbe7-76c3f99d85bc",
-"Name": "Aero House"
-},
-{
-"ID": "wrld_c6bdd772-d43a-4e44-aaee-9a9d07bd9695",
-"Name": "EriHomeWorld"
-},
-{
-"ID": "wrld_58bb29af-4b1e-42b0-b40c-507dbbd952fe",
-"Name": "white․3"
-},
-{
-"ID": "wrld_69fb8795-c639-4c09-8aea-4d5140e6e365",
-"Name": "＃響鳴花火 やっさんの花火大会 KyomeiHanabi yassann's Fireworks"
-},
-{
-"ID": "wrld_ffb969b5-f3b5-4c4b-9052-783304c81c64",
-"Name": "The Jellyfish"
-},
-{
-"ID": "wrld_c80f74db-9c8d-4db1-9575-1df606d0cbbb",
-"Name": "Podcast․"
-},
-{
-"ID": "wrld_ef6cb0de-1cfb-4458-a1e0-32f518e0cc13",
-"Name": "Venice Immersive 2025"
-},
-{
-"ID": "wrld_250918f7-ffdc-4b38-ac1b-c65b3df90773",
-"Name": "落陽の帰り道 -The Road Home at Sunset-"
-},
-{
-"ID": "wrld_af1d903e-9e79-4b04-93b0-dfa5c7e11163",
-"Name": "ケセドの海の夏フェス-CHESED's Seaside Summer Fest-"
-},
-{
-"ID": "wrld_af46b672-1ade-4de9-b4b1-a86f7b79ee90",
-"Name": "波打ち際と"
-},
-{
-"ID": "wrld_36117d86-d759-4b9c-962e-eb25c8caebdf",
-"Name": "Sunset Bay"
-},
-{
-"ID": "wrld_c8418572-d4f9-4eef-b52a-73c73852341d",
-"Name": "small QUEST Beach"
-},
-{
-"ID": "wrld_69cdfb46-6949-445f-83f4-8d88446bd0e1",
-"Name": "明鏡"
-},
-{
-"ID": "wrld_b8131227-4402-46cc-8236-30c3dcf4ed04",
-"Name": "Aurora"
-},
-{
-"ID": "wrld_cc2e04ab-67a9-4094-aa30-d5dc6103a755",
-"Name": "The Park"
-},
-{
-"ID": "wrld_9fa78065-c0dc-4a09-988b-0c8a1a38dd38",
-"Name": "Silver Falls"
-},
-{
-"ID": "wrld_1b01ace1-7a64-464c-8598-7cad3bee361d",
-"Name": "Lake Metsä"
-},
-{
-"ID": "wrld_194e0785-d085-496a-989f-1a1eae7f4355",
-"Name": "四水归堂 ［Chinese Traditional Courtyard］"
-},
-{
-"ID": "wrld_aee08c40-692d-43d9-92e8-3e56d266b709",
-"Name": "Grass ＆ Wind place Quest"
-},
-{
-"ID": "wrld_18494c78-5205-404a-8c2e-58cf1f80622f",
-"Name": "KUROINU Safe House"
-},
-{
-"ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
-"Name": "春空の休息地 -BloomingSky Rest-"
-},
-{
-"ID": "wrld_db4b3fc6-a937-4b32-b636-5f7dc98439e0",
-"Name": "風吹く空の家 両対応ver"
-},
-{
-"ID": "wrld_04e513e4-ef42-42d6-942e-0e51af206490",
-"Name": "白日夢"
-},
-{
-"ID": "wrld_6e5a0cf2-9ea4-4ccd-a165-c4b53d2945d1",
-"Name": "Inokashira-kōen Station（井の頭公園駅）"
-},
-{
-"ID": "wrld_664e4355-8488-4439-b246-e531ba7e2c82",
-"Name": "舞踏会を抜け出して"
-},
-{
-"ID": "wrld_46012581-b6b0-4efc-8002-554baeeed2cb",
-"Name": "ねこと星の木 -Neko and the Star Tree-"
-},
-{
-"ID": "wrld_e1c5f183-a424-4d0b-9d36-30d25f31c43e",
-"Name": "Xíyún Rock"
-},
-{
-"ID": "wrld_d8087719-4a0b-4683-be4a-1b1f3ecfa632",
-"Name": "Twilight Glass Bridge ~ 薄明のガラス橋 ~"
-},
-{
-"ID": "wrld_88c5bb1e-29e4-4db3-b5bd-dad9f1da9b75",
-"Name": "Once upon a time"
-},
-{
-"ID": "wrld_591b22e6-c45c-47c0-8627-f923aec7bd2f",
-"Name": "Anohi"
-},
-{
-"ID": "wrld_c8129e77-5bde-42ad-a90b-1ecb02a8d090",
-"Name": "ARONA"
-},
-{
-"ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
-"Name": "おいてけぼりの夏-Summer left behind-"
-},
-{
-"ID": "wrld_c55fe71d-3854-4734-8f3d-3a5757a111b4",
-"Name": "誰も知らない願いの墓標ーA gravestone for wishes no one knows aboutー"
-},
-{
-"ID": "wrld_e1768421-a066-478a-ba26-af1f679ba04d",
-"Name": "AKA7EXHY"
-},
-{
-"ID": "wrld_72b76a03-4694-41b2-a95d-0369390f8ec8",
-"Name": "涼風幻至 ⁄ Sealed Cyanine"
-},
-{
-"ID": "wrld_3a12daeb-f0b9-4178-a412-72d35eb0674c",
-"Name": "SummerSky"
-},
-{
-"ID": "wrld_710d62b5-2443-44c5-b56f-7aca37680c5d",
-"Name": "Konakovo Beach"
-},
-{
-"ID": "wrld_db883fb1-f1a7-47fe-aedd-4c24119a35d3",
-"Name": "Konakovo SUNSET"
-},
-{
-"ID": "wrld_a570b9c0-9079-4501-bed5-62de15076967",
-"Name": "Midnight Ship Deck"
-},
-{
-"ID": "wrld_e980868e-7eb3-404e-8dd0-4513014d12ea",
-"Name": "暮色の孤島_Twilight Solitary Island"
-},
-{
-"ID": "wrld_7909df0a-d8aa-4314-8c1e-f7fb02a0451c",
-"Name": "AURIEL by Deryvier - World for Kamila_b"
-},
-{
-"ID": "wrld_240d670e-82bb-4afa-85b3-783af657b81d",
-"Name": "Tranquil Lodge"
-},
-{
-"ID": "wrld_1900f95c-fb9b-4c04-9473-6fc1cea92348",
-"Name": "ひとりの夜に"
-},
-{
-"ID": "wrld_5b786184-c3e0-4c05-bcf1-c6f81503abf5",
-"Name": "蝶恋花 - Whispers of the Blossom Valley"
-},
-{
-"ID": "wrld_21ce338e-0c16-46c7-9ac4-f663db6c4dfb",
-"Name": "ソヨカゼ荘 -SOYOKAZESO"
-},
-{
-"ID": "wrld_5b9e64ac-07d5-4307-ba9b-8cd5b9682cda",
-"Name": "沖ノ鳥公園 （Okinotori park）"
-},
-{
-"ID": "wrld_837a5a4c-4281-480d-bb6c-0830940a3090",
-"Name": "Memory Terrarium"
-},
-{
-"ID": "wrld_bb704e46-78c1-4785-85c0-24339e0ed788",
-"Name": "The Forgotten Bloom"
-},
-{
-"ID": "wrld_1538ba4d-9f00-410e-ab70-d54cbaa863e9",
-"Name": "WaterCave"
-},
-{
-"ID": "wrld_3d96d36d-f979-45af-b870-56f20e5e581a",
-"Name": "CityScape"
-},
-{
-"ID": "wrld_fb14d00f-b237-46f6-8943-4f02fe72fe05",
-"Name": "ケセドのエルフの隠れ家-CHESED's Elf Lair-"
-},
-{
-"ID": "wrld_0cd81e80-d749-4d1a-8f0f-a4d3addd039c",
-"Name": "Moonlit Night Halloween"
-},
-{
-"ID": "wrld_fd93b7e2-8108-4b11-b1ea-ff3022160432",
-"Name": "Within"
-},
-{
-"ID": "wrld_ec5223b8-3b9c-4d37-898a-b6df5564abe7",
-"Name": "夕方屋上から -Evening- 36․5m JAPANCITY SKYBOX"
-},
-{
-"ID": "wrld_e28a3677-3c60-41bb-a106-f5704058237e",
-"Name": "あの夏に閉ざされて-Chronostasis-"
-}
-]
-},
-{
-"Category": "お部屋",
-"Worlds": [
-{
-"ID": "wrld_80d1c7b7-202a-4427-9678-1f3e791e5acf",
-"Name": "Quiet room"
-},
-{
-"ID": "wrld_2d4618ff-f255-4d5a-9f04-4ef8d83506d6",
-"Name": "Monitoring"
-},
-{
-"ID": "wrld_17937f22-0751-40f7-be2b-579e3c890dfd",
-"Name": "Life"
-},
-{
-"ID": "wrld_627f7723-27e1-48ba-b262-588668815106",
-"Name": "海の底、マ女の家 - The Witch's Hideaway"
-},
-{
-"ID": "wrld_3cfce79a-ba30-4346-b4dc-2ba288c7c820",
-"Name": "Mushroom Loft"
-},
-{
-"ID": "wrld_946dadc7-122f-4f95-a34c-248f9732ec73",
-"Name": "at Home Chill by Ourai Inc․"
-},
-{
-"ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404",
-"Name": "群青コントレイル ~Blue Contrail ''Gunjo''~"
-},
-{
-"ID": "wrld_845a0a4c-2739-4803-ac84-ca1d34b242ab",
-"Name": "Canvas"
-},
-{
-"ID": "wrld_b3c848cd-af56-44fd-86b2-0a1cd0fec3a9",
-"Name": "OneRoom Light -F-"
-},
-{
-"ID": "wrld_929b4bbc-c1da-4891-a65d-c2db1a2ce2f6",
-"Name": "机の中は夢いっぱい"
-},
-{
-"ID": "wrld_5bcfc5a8-c3cc-4ebf-8113-d26d98dc5060",
-"Name": "Sunny Side"
-},
-{
-"ID": "wrld_1aac6783-56b3-4e9e-b4ea-037cfa1261f2",
-"Name": "夜と、共に。"
-},
-{
-"ID": "wrld_96203704-8a95-4cb2-a047-794b6b029807",
-"Name": "N o n e ․"
-},
-{
-"ID": "wrld_78b2f1fe-622d-4556-8401-aa90921b31c1",
-"Name": "Nest ネスト"
-},
-{
-"ID": "wrld_a936236c-c9a4-4e99-bd05-532a2d6e1a50",
-"Name": "天気雨の部屋 -sun shower room-"
-},
-{
-"ID": "wrld_6ed1604c-56f6-40df-a98e-9f47587651c7",
-"Name": "ON THE SEA"
-},
-{
-"ID": "wrld_41d599dd-4db3-48a9-a4ea-242a1180502d",
-"Name": "いるぬこるーむ2"
-},
-{
-"ID": "wrld_4e4b59a5-7464-4fff-aa4a-495c4acb14db",
-"Name": "プール授業後の教室⁄Slumber Me with the Classroom"
-},
-{
-"ID": "wrld_57522a18-0ac0-48fe-b04d-8f955d7b701a",
-"Name": "Everlasting Days"
-},
-{
-"ID": "wrld_f6759aa2-20d8-4ef5-8b96-c8498f1142c6",
-"Name": "Sensory Loft"
-},
-{
-"ID": "wrld_57915bce-a311-4e43-9acb-8cbe5f9882fb",
-"Name": "ヒュリハウス ／ Hyuri House"
-},
-{
-"ID": "wrld_4b5416df-cc4a-4efc-8db8-e9286260845a",
-"Name": "Bis Malam （Night Bus）"
-},
-{
-"ID": "wrld_833819ca-b28d-4741-b55a-a2837b6ebb39",
-"Name": "Post Apocalyptic"
-},
-{
-"ID": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf",
-"Name": "溺死の夢 - Dream of Drowning"
-},
-{
-"ID": "wrld_f6445b27-037d-4926-b51f-d79ada716b31",
-"Name": "2000s Classroom"
-},
-{
-"ID": "wrld_e43e0e2d-24c4-40d4-91ef-5be812efbea7",
-"Name": "家賃14万くらいしそうな家 v1․21 ｜Rent 140‚000 house"
-},
-{
-"ID": "wrld_9da1349e-470b-47fd-a9b5-bd57d49255e2",
-"Name": "Spirits of the Sea 海の幽霊"
-},
-{
-"ID": "wrld_c27c9d52-355f-4e38-8d71-0477270f8dd6",
-"Name": "水平線"
-},
-{
-"ID": "wrld_0c051dc1-1000-461a-bf17-ba48d4b3898d",
-"Name": "みりはうす"
-},
-{
-"ID": "wrld_90eba8d6-d4d3-4a96-be42-fa9081c1345a",
-"Name": "暗涼"
-},
-{
-"ID": "wrld_b6d79769-91bb-4416-abbc-797e1598dcec",
-"Name": "うたた寝の庭先 - Early summer gardens -"
-},
-{
-"ID": "wrld_a0347715-6291-4b0f-a3bc-32bb2bd1a1ac",
-"Name": "Steam Punk Apartment M size"
-},
-{
-"ID": "wrld_951d163e-844c-4374-8f92-aad9187d9f4d",
-"Name": "海底コンテナ⁄submarine container"
-},
-{
-"ID": "wrld_b0748170-ed80-4544-8c0f-d5c9f8a1d764",
-"Name": "最終バス（LastBus）"
-},
-{
-"ID": "wrld_044ff475-5250-4bd7-a853-13dedce19d55",
-"Name": "Library"
-},
-{
-"ID": "wrld_12c89f0b-81c4-4d8f-9184-eb07143e961a",
-"Name": "Cyanaria"
-},
-{
-"ID": "wrld_cccee80a-e3b0-42a3-8e5c-be1f6676bb9a",
-"Name": "Piano Lounge"
-},
-{
-"ID": "wrld_a1c1d9a3-d8ea-4852-a8f5-5c72f0b98653",
-"Name": "メゾン荘 201号室"
-},
-{
-"ID": "wrld_3e0903d9-7572-4530-a96c-cea251992062",
-"Name": "ATTO HOME -Usual-"
-},
-{
-"ID": "wrld_ac9414e5-003d-4b0c-8d07-1a50043fe534",
-"Name": "Goodnight Sleep（Cabin）"
-},
-{
-"ID": "wrld_393f76de-86aa-4c02-b20a-8435c23a4e9f",
-"Name": "のなの寝床"
-},
-{
-"ID": "wrld_3dbdd288-1aba-4202-bf6b-211b47429f59",
-"Name": "nekoroom"
-},
-{
-"ID": "wrld_c33c4fc4-fc38-4eef-8f93-1577c849ffd5",
-"Name": "ぽんるーむ"
-},
-{
-"ID": "wrld_3710d064-7c42-411d-95b1-0185a33804d7",
-"Name": "POTEROOM"
-},
-{
-"ID": "wrld_b4ca2d88-092d-4a12-99d2-2f342b9b8c17",
-"Name": "おつぶハウス"
-},
-{
-"ID": "wrld_1197e456-be55-46cc-8b94-e1dad2640e86",
-"Name": "Winter Dream"
-},
-{
-"ID": "wrld_9c422f4b-931d-4106-86e2-d14c3d9f6210",
-"Name": "漂う時間 ⁄ Drifting Time"
-},
-{
-"ID": "wrld_6a79455b-4985-4eb5-93bd-71a138dce0a9",
-"Name": "Cave House ⁄ ほらあなハウス"
-},
-{
-"ID": "wrld_4ba77646-5d4b-4620-9747-82d65280644b",
-"Name": "ケセドの黄昏教室-CHESED's Sunset Japan ClassRoom-"
-},
-{
-"ID": "wrld_d2a51ae9-ec5f-4b0b-97ce-709f27e03ba7",
-"Name": "HD Japanese School"
-},
-{
-"ID": "wrld_69670f13-8b10-4b62-a8da-d8e48b2646b6",
-"Name": "よあそびのうた"
-},
-{
-"ID": "wrld_2f236984-01de-483c-ac4f-5d88c15c0973",
-"Name": "深海の眠り-Deep Sea Sleep"
-},
-{
-"ID": "wrld_afb19c9e-9e32-4d4e-8940-58afa74d1536",
-"Name": "夏時雨"
-},
-{
-"ID": "wrld_4a41c522-fc84-4cc0-aee4-ab2fddee73f1",
-"Name": "Amayadokari -あまやどかり-"
-},
-{
-"ID": "wrld_266523e8-9161-40da-acd0-6bd82e075833",
-"Name": "Popcorn Palace"
-},
-{
-"ID": "wrld_4a11d4a3-232b-48a2-bada-b0f903c3b3f2",
-"Name": "君はチンチロ会を信じるか？"
-},
-{
-"ID": "wrld_7db73bca-3e6d-4985-9033-3bec4b8084d9",
-"Name": "木片隅 - KiNook"
-},
-{
-"ID": "wrld_d840ae37-4b42-467f-8d7f-5486951b781c",
-"Name": "だいふくほーむ"
-},
-{
-"ID": "wrld_235cd0a2-791a-4c6a-8596-f62b9c446c8f",
-"Name": "start"
-},
-{
-"ID": "wrld_f059f2ed-6566-4a9d-93f2-9dd21b934d0f",
-"Name": "ぬくぬくでんしゃ"
-},
-{
-"ID": "wrld_748c61bf-92c5-4443-a3d4-76f36590d3d3",
-"Name": "Axis"
-},
-{
-"ID": "wrld_230dc3c3-8a0d-4242-a58d-db8e0cda37b3",
-"Name": "In the middle of nowhere~"
-},
-{
-"ID": "wrld_231b9bc4-237c-4ddc-9a06-b6f8227f3bf7",
-"Name": "Calm Ocean"
-},
-{
-"ID": "wrld_d2f334cc-9d6f-4cf7-a09b-773302cbb56b",
-"Name": "夜潮の宿"
-},
-{
-"ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
-"Name": "Tiharuum - ちはるーむ"
-},
-{
-"ID": "wrld_db02c09a-6ddd-4ddf-a961-4d2523bb1c3e",
-"Name": "Floating In the sea"
-},
-{
-"ID": "wrld_271f5df7-0a6c-4cad-9652-bd36332a1411",
-"Name": "月海の家-つきうみのいえ- Moonlit Shorehouse"
-},
-{
-"ID": "wrld_08bf2fca-16f5-445a-af92-d7cc59a93b1b",
-"Name": "P L A N T"
-},
-{
-"ID": "wrld_424e4033-db3d-4817-b081-8a16e41708c5",
-"Name": "ハイム荘 401号室"
-},
-{
-"ID": "wrld_c303c9a5-bb18-4790-99b9-1c245adfd4aa",
-"Name": "Stellar Nest -summer-"
-},
-{
-"ID": "wrld_c32244ce-b9c0-4371-983d-0d0867bdfde9",
-"Name": "薄暮"
-},
-{
-"ID": "wrld_a729bf90-1220-423a-9630-7e60851e7475",
-"Name": "Rainy Daze"
-},
-{
-"ID": "wrld_5ae6e3c3-9394-4bc1-a2ac-779143741cca",
-"Name": "あたしの部屋を宇宙にして"
-},
-{
-"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
-"Name": "Tiny Life Room"
-},
-{
-"ID": "wrld_e2eff783-27c6-4c2b-9ce7-334dedc7f1bd",
-"Name": "Minimalism"
-},
-{
-"ID": "wrld_4e985f9b-aa03-4d25-8198-547609ee3c89",
-"Name": "June"
-},
-{
-"ID": "wrld_f4791153-7018-4311-98e2-1330de8c9eed",
-"Name": "RELIEF - 安息の夜 -"
-},
-{
-"ID": "wrld_8be97d3f-0890-4474-bcf3-fe317b3283a7",
-"Name": "流星海流"
-},
-{
-"ID": "wrld_20522f38-a6d8-4561-a6fe-518cd8f3b947",
-"Name": "ceramic shelter［new life］"
-},
-{
-"ID": "wrld_9aef847c-28ed-4029-9841-9c04aaa5bae6",
-"Name": "終末世界 君と二人"
-},
-{
-"ID": "wrld_757dd2d3-ad61-4eb5-928e-8682712ed267",
-"Name": "KTNK_ClassicSalon"
-},
-{
-"ID": "wrld_eeea10f6-ab75-438d-8ee5-f8b3f1a92a1a",
-"Name": "＃000142"
-},
-{
-"ID": "wrld_1aef2817-3d8a-43dc-a496-3e0abdd81eb5",
-"Name": "秋霖 ⁄ Herbstregen"
-},
-{
-"ID": "wrld_f69f567f-78ec-417f-8156-562662ed83d2",
-"Name": "Cozy Winter -雪灯りのひととき-"
-},
-{
-"ID": "wrld_ccd417cb-d16e-43be-8d24-181f3c4d29bf",
-"Name": "レトロな晩しゃく部屋「ああ人生ろくなもんじゃない」"
-},
-{
-"ID": "wrld_d09c206c-a22b-4d8b-bb78-e1af805fe057",
-"Name": "PM 3˸00"
-},
-{
-"ID": "wrld_67ad684c-44e8-41e5-bcfd-ed62dae80962",
-"Name": "夏宵に、さよならを。"
-},
-{
-"ID": "wrld_6f450e8d-fc66-4810-8987-c29091b71b55",
-"Name": "日なたのぽんハウス"
-},
-{
-"ID": "wrld_7112d5fe-3a30-497e-805c-34d2cbe497bc",
-"Name": "花火の見えるぽんハウス -Private Fireworks-"
-},
-{
-"ID": "wrld_fe3a31b0-13be-435e-bc80-60b3763cf90f",
-"Name": "In My Dreams"
-},
-{
-"ID": "wrld_8bd5b49e-7690-4e71-8c87-15a4660ee5b3",
-"Name": "BEBE Salon"
-},
-{
-"ID": "wrld_f0f7faf7-f56e-4898-8256-1dbcda9e6da7",
-"Name": "SkyScraper"
-},
-{
-"ID": "wrld_79ac2912-d2c1-4ba7-b17e-bf4bd4e46f38",
-"Name": "chill ＆ yt"
-},
-{
-"ID": "wrld_6f465c47-17c8-4eb2-8fa5-ec18e68a645e",
-"Name": "distant_"
-},
-{
-"ID": "wrld_627b74ad-191b-4ac2-8979-179b41ca1bf8",
-"Name": "日照雨 - sobae"
-},
-{
-"ID": "wrld_02847e0f-f5ce-4567-8749-d63238c3123f",
-"Name": "potage"
-},
-{
-"ID": "wrld_356b274a-7361-4bc8-ba0e-fd91c5ba01a2",
-"Name": "Repose"
-},
-{
-"ID": "wrld_8be86467-e58c-49d6-979c-5631983ba599",
-"Name": "draft"
-},
-{
-"ID": "wrld_1e316d54-100c-4044-8a34-480985ce0165",
-"Name": "五月雨 - Rainy Room -"
-},
-{
-"ID": "wrld_1787606e-1105-4179-ab29-03c70d17aa3f",
-"Name": "_Noctilux"
-},
-{
-"ID": "wrld_81217ec8-2a0e-4e0b-870c-ef2a8c218c14",
-"Name": "Luxury Condo"
-},
-{
-"ID": "wrld_856d7176-26e2-4529-94e8-c8fa971636cd",
-"Name": "Whispering Night"
-},
-{
-"ID": "wrld_34dcd007-23fb-4794-95c9-4f0f132a7299",
-"Name": "Isolate"
-},
-{
-"ID": "wrld_1f92d98e-1c3a-469f-a9d1-1c7257c75c35",
-"Name": "僕たちの秘密基地"
-},
-{
-"ID": "wrld_c1b2bfcf-9032-43a1-a355-0408f6114561",
-"Name": "終末の静寂基地"
-},
-{
-"ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
-"Name": "Seclusion"
-},
-{
-"ID": "wrld_aec44823-1e26-4cfd-b0d8-0622288c8f51",
-"Name": "Twilight"
-},
-{
-"ID": "wrld_d9adfa6c-00db-4d89-b919-be4196cf9f0b",
-"Name": "UrbanSolitude"
-},
-{
-"ID": "wrld_2c3a67c0-0c09-47f9-9303-59e534a81dbd",
-"Name": "Protocol 0 「残響」"
-},
-{
-"ID": "wrld_f7d7ad7f-3edb-40ee-b470-f97c2bee92e3",
-"Name": "Aqueous"
-},
-{
-"ID": "wrld_d5487700-7179-4c4e-bf34-ed3cb2ce383f",
-"Name": "Midnight Magic"
-},
-{
-"ID": "wrld_3c7fc4f1-7768-4ae9-af1c-a5effeed3462",
-"Name": "空室"
-}
-]
-},
-{
-"Category": "和風チルワ",
-"Worlds": [
-{
-"ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
-"Name": "お彼岸"
-},
-{
-"ID": "wrld_d39c32b6-f7fb-4bb1-978b-0b1660193160",
-"Name": "懐郷の秋澄む処 -Nostalgic Autumn Riverside-"
-},
-{
-"ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
-"Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-"
-},
-{
-"ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
-"Name": "遠郷の冬めく夜 -Nostalgic Winter Night-"
-},
-{
-"ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
-"Name": "紺瑠璃の間 -Azure Blue Rooms-"
-},
-{
-"ID": "wrld_4d45d9ac-3159-47d3-9631-c302571952ca",
-"Name": "黎明に咲く華 flower blooming at dawn"
-},
-{
-"ID": "wrld_e38e682c-79d2-46cc-bde3-9f9fb123571b",
-"Name": "日本の祭"
-},
-{
-"ID": "wrld_05aaf547-79ad-42c9-83e1-7126db0921bb",
-"Name": "ゆく夏の憶那-okurina-"
-},
-{
-"ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
-"Name": "ひなげし坂_HinageshiZaka"
-},
-{
-"ID": "wrld_42749608-7b80-41f4-b05c-f73064b3e7c1",
-"Name": "Forgotten shrine"
-},
-{
-"ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
-"Name": "田村酒造場 Japanese sake brewery"
-},
-{
-"ID": "wrld_d3ceae79-287a-4ea3-9508-e07efca88288",
-"Name": "どんの雲上桜庭園-＝DonK＝'s Sakura Sky Garden-"
-},
-{
-"ID": "wrld_14241f0e-56b1-4f83-b672-d3d546e321c5",
-"Name": "SAKURA hiroba"
-},
-{
-"ID": "wrld_dbbbbd78-cc9c-4647-9676-60876d6eb667",
-"Name": "ケセドの花見舟-CHESED's JAPAN SAKURA SHIP-"
-},
-{
-"ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
-"Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk"
-},
-{
-"ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
-"Name": "Kagaribi Onsen ［Cave］"
-},
-{
-"ID": "wrld_814489a1-3420-453f-908e-d7e260e31fb8",
-"Name": "春の山見温泉・夜 Yamami Hot Spring （Spring Night）"
-},
-{
-"ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
-"Name": "別邸 天満月-villa amamitutuki-"
-},
-{
-"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
-"Name": "旅館「待宵」-inn matuyoi-"
-},
-{
-"ID": "wrld_6d94340a-cf41-42f9-97f9-d94667e5cba0",
-"Name": "水鏡 Mizukagami"
-},
-{
-"ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
-"Name": "本能寺【和風チルワ】"
-},
-{
-"ID": "wrld_6adf67f2-9d0d-41bc-a087-04619c255bbc",
-"Name": "星今宵"
-},
-{
-"ID": "wrld_b99558e0-98e3-4c44-bf8d-545f13bc3db9",
-"Name": "Kuluの家"
-},
-{
-"ID": "wrld_243f79a3-09c5-44f3-a038-e014217b1f85",
-"Name": "ケセドの藤棚-CHESED's Wisteria Trellis-"
-},
-{
-"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
-"Name": "舟屋 Boathouse"
-},
-{
-"ID": "wrld_b2029c0c-7d81-41a6-ad38-18d1807b7152",
-"Name": "BAROOM"
-},
-{
-"ID": "wrld_5d044df3-b4fc-4b0b-8946-a268b1b669cf",
-"Name": "朝日が昇る天空温泉 -SOLDAWN ONSEN-"
-},
-{
-"ID": "wrld_861f932e-cc8e-4c9f-8a87-94dbd3a852e5",
-"Name": "和風ドス本家"
-},
-{
-"ID": "wrld_76045cdd-a948-4a87-8227-bacde3daa3f5",
-"Name": "しおさい街道 - Siosai Highway -"
-},
-{
-"ID": "wrld_d3bf5a81-4e7e-44d5-830c-4755dfc5a0c9",
-"Name": "Kangetsu Lake"
-},
-{
-"ID": "wrld_bce23d07-7e19-4018-8652-34fa30b7308b",
-"Name": "Kitsunebi Teahouse ˸˸˸ 狐火茶屋"
-}
-]
-},
-{
-"Category": "お店・飲食ギミック",
-"Worlds": [
-{
-"ID": "wrld_0cac12b7-dec7-422f-9195-f9fa1a4202fe",
-"Name": "caferoom"
-},
-{
-"ID": "wrld_5f3ffd49-8ac4-4802-ac8e-7dc7163d1f24",
-"Name": "BarRoom"
-},
-{
-"ID": "wrld_6bbec40a-e4c8-45f3-bfec-dc7a91104693",
-"Name": "くれに寿司 -Sushi Chill-"
-},
-{
-"ID": "wrld_09efad68-5447-4ecf-98de-d851dbcbfe48",
-"Name": "夕雨のカフェ Evening rain cafe"
-},
-{
-"ID": "wrld_548f5568-beba-4c63-99f9-83c1d6304bfa",
-"Name": "レストラン モグモグモーレ～Restaurant Mogu Mogu Mole～"
-},
-{
-"ID": "wrld_930ae963-aee0-48db-9f70-ca1b5877ac88",
-"Name": "ラーメン屋けせど-CHESED's Ramen Shop-"
-},
-{
-"ID": "wrld_67813a82-b33a-4aab-9a2e-2c6f105058d2",
-"Name": "混ざるドリンク StrangeGlass テスト用ワールド"
-},
-{
-"ID": "wrld_a4ff552d-1b51-410e-9bc0-52aaaf4442aa",
-"Name": "焼肉～YAKINIKU～2025Ver"
-},
-{
-"ID": "wrld_84560bd3-b2b5-4095-842b-ce49ce6519a5",
-"Name": "Managerless Onigiri Shop ~店長不在のおにぎり屋 ~"
-},
-{
-"ID": "wrld_4ad7c206-e571-49e1-bbb2-622e99e0ddab",
-"Name": "Bird Cafe -HIDAMARI-"
-},
-{
-"ID": "wrld_836dbc04-b7a8-4e3a-b483-585649e09060",
-"Name": "JellyfishBlueBar"
-},
-{
-"ID": "wrld_a9132737-fd00-40aa-ab46-5afe3dac2b65",
-"Name": "FUTURE 20th SQUARE（フューチャー 20th スクエア）"
-},
-{
-"ID": "wrld_298c4667-5a1d-4fed-85ad-e9412f729faf",
-"Name": "らぁめん 混豚（Ramen shop Chaos）"
-},
-{
-"ID": "wrld_452320e3-e07b-463a-835c-9f6c50cae934",
-"Name": "悠久の隠れ家～The Eternal Hideaway～"
-},
-{
-"ID": "wrld_eadae3a9-b294-4d9c-9e1f-ce42391a6b66",
-"Name": "Bar 鳥の巣 ⁄ Torinosu"
-},
-{
-"ID": "wrld_7038d739-e5a8-42b0-b645-aae4d36f993f",
-"Name": "Papa Mongi Dog Cafe ｜ 파파멍이 강아지 카페"
-},
-{
-"ID": "wrld_69261de6-ff79-4271-8ac9-35c835aa00e8",
-"Name": "SEAsideBar -Rainy night-"
-},
-{
-"ID": "wrld_6bda8294-8f85-4a3b-a6e4-4ecc69250b12",
-"Name": "MOS BURGER ON THE MOON"
-},
-{
-"ID": "wrld_83df77c2-e785-4330-9733-17f7a5652f2a",
-"Name": "Osaka Bar"
-},
-{
-"ID": "wrld_bf82862c-17ba-4509-a5fe-147e8eeab84a",
-"Name": "DJ BAR Yamamura"
-},
-{
-"ID": "wrld_6bdd6512-9f08-4ade-bb1b-4a4bd3fba021",
-"Name": "coil's Den ［Towser Whisker］"
-},
-{
-"ID": "wrld_7b4fb6dd-4343-4eed-9d3a-d5d39cf8bd0d",
-"Name": "第1へのごはんワールド henoGohan world 1"
-},
-{
-"ID": "wrld_d2eb260e-10e5-4447-9d7d-56e9b81c8ca3",
-"Name": "第2へのごはんワールド henoGohan world 2"
-},
-{
-"ID": "wrld_8dd15abb-3df8-4924-bf37-c4592d433a06",
-"Name": "Coffee Talk"
-},
-{
-"ID": "wrld_797cb0ba-425b-46f1-ba03-c471881dfb0f",
-"Name": "Caketail Home Party！"
-},
-{
-"ID": "wrld_e8c1c6e1-ad04-47b5-9438-a934a7752b07",
-"Name": "じゃむじゃむべいかー"
-},
-{
-"ID": "wrld_609c0168-dfe2-429a-8597-4832e79e71e3",
-"Name": "IW Beer Garden"
-},
-{
-"ID": "wrld_1fdd5eed-7e00-4440-9790-156bf7f2574f",
-"Name": "弾き語りバー Hikigatari Bar"
-},
-{
-"ID": "wrld_5089d89c-be74-4824-8919-c8b0cd3d2204",
-"Name": "Usagi Empire Bakery ＆ Cafe"
-},
-{
-"ID": "wrld_4af12495-636e-4107-b7b7-638437c69450",
-"Name": "フレンドで焼肉するワールド"
-},
-{
-"ID": "wrld_c8bedb93-9d4f-45c0-ad2a-aa369230317e",
-"Name": "和食レストラン もりりぃどんや-Restaurant Morilly Donya-"
-},
-{
-"ID": "wrld_dacea014-c335-45fb-b24d-2b4050eedde7",
-"Name": "牧場Cafe ほしくさ"
-},
-{
-"ID": "wrld_72b985c7-9163-45db-900e-1f2892058c5b",
-"Name": "和風Bar＂幽霊花＂ ～Japanese Bar Ghost Flower＂～"
-},
-{
-"ID": "wrld_e28ba206-602f-4325-8c02-e0a848ed0b91",
-"Name": "fastfood"
-},
-{
-"ID": "wrld_25fc96e4-28fb-419f-b880-4e7c7daf79bc",
-"Name": "海中列車Bar"
-},
-{
-"ID": "wrld_2e32f6bc-423c-46fa-91d1-4ef532a0be4e",
-"Name": "お餅が焼けるチルワ"
-},
-{
-"ID": "wrld_7a52609f-691d-4c5f-9238-10dd68e2f7bc",
-"Name": "Bakery House たっち de ぱんちょす～touch de panchos～"
-}
-]
-},
-{
-"Category": "ゲーム",
-"Worlds": [
-{
-"ID": "wrld_e2bbfa76-854c-47db-9f68-03b826f3cbee",
-"Name": "脱出ゲーム「仮想牢獄からの脱出」"
-},
-{
-"ID": "wrld_8f97ee11-e713-4a5c-8c54-e075f05384c4",
-"Name": "ごきぽ"
-},
-{
-"ID": "wrld_8be08902-6cb2-43f5-a978-b12d9310b26a",
-"Name": "Grapnel Gun Playground"
-},
-{
-"ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
-"Name": "［JP］UDON-SABER QUEST うどんせいばーQ"
-},
 {
 "ID": "wrld_df2776a3-8c84-45e3-bbf1-30ac8422911b",
 "Name": "Kitchen Cooksǃ"
-},
-{
-"ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
-"Name": "Super VR Ball"
-},
-{
-"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
-"Name": "A Simple Fishing World"
-},
-{
-"ID": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
-"Name": "'Among Us' game"
-},
-{
-"ID": "wrld_d0a1588b-e62a-4ac0-8b75-efc34de04075",
-"Name": "あべこべワードバトル"
-},
-{
-"ID": "wrld_001c753e-8b81-4543-a938-3e1420134e89",
-"Name": "FPS Team Battle Simulator"
 },
 {
 "ID": "wrld_e13524a6-ee7f-4dfc-8928-44526d6ef70c",
 "Name": "Friend or Feast? -ゾンビになったフレンドに食べられたい人のためのゲームワールド-"
 },
 {
-"ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
-"Name": "Elite's RNG Land"
-},
-{
 "ID": "wrld_0dafc162-30af-4ce8-a354-f36b10f1dc5e",
 "Name": "The Road To The Mirror"
-},
-{
-"ID": "wrld_de716924-2f58-4f6f-9631-f52fc96ab01a",
-"Name": "トークゲーム【すこスコアǃ】"
-},
-{
-"ID": "wrld_9702a1fd-53ba-42d6-878a-665790104047",
-"Name": "Udon Exploding Kittens"
-},
-{
-"ID": "wrld_a79e6d51-f035-465e-97c3-2c1b29f6fc77",
-"Name": "生活記憶力 Kioku"
-},
-{
-"ID": "wrld_ecf709f6-b656-45fe-b29c-aa67e243235c",
-"Name": "CottonFox Billiards"
-},
-{
-"ID": "wrld_0889332e-17fc-4a3c-8d62-74dc39ad9ad5",
-"Name": "ポケモン図鑑の説明だけでポケモンの絵を描けるっていったんだよǃǃ"
 },
 {
 "ID": "wrld_107869ee-ee7e-4332-aed2-9d0fd5bc5f31",
 "Name": "Prop Hunt"
 },
 {
-"ID": "wrld_93df33e0-9bd8-4639-bf2f-9263e11e37d6",
-"Name": "Killer Night"
-},
-{
-"ID": "wrld_cfe149ed-4152-44de-9bf8-36a0107524c7",
-"Name": "ネーマブル 名目必称義務令 Namable"
-},
-{
 "ID": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
 "Name": "Trash Compactor"
-},
-{
-"ID": "wrld_75fae49a-3f54-4811-ad23-de430d582b8f",
-"Name": "Draw Bridge VR"
-},
-{
-"ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
-"Name": "Tanksǃ"
-},
-{
-"ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
-"Name": "Blackoutǃ"
-},
-{
-"ID": "wrld_9c24068c-ba40-4921-9b85-9e6149e26eb2",
-"Name": "大富豪-Daihugo-"
-},
-{
-"ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
-"Name": "Voxel Phone"
-},
-{
-"ID": "wrld_7180f8f1-cc1f-4ee6-b595-db4b9632a4f8",
-"Name": "ウェザラーズバイツ-天候者達は喰らい合う-"
-},
-{
-"ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
-"Name": "Murder 4"
-},
-{
-"ID": "wrld_c1a43e8f-5652-461d-a7c6-ea98063746f7",
-"Name": "釣り堀 - Fishing"
-},
-{
-"ID": "wrld_f1273541-94aa-4d3c-b936-aa5947627e0b",
-"Name": "MrDummy_NL UNO World"
-},
-{
-"ID": "wrld_6910309b-1b75-473d-8196-c8963263f00f",
-"Name": "オトだけのセカイ～SoundOnlyWorld～"
-},
-{
-"ID": "wrld_1c37737f-fa3f-4867-b9bb-d5baf5d64a79",
-"Name": "空島の旅（Sky Island Journey）"
 },
 {
 "ID": "wrld_d5658267-c965-4dbf-b58f-6f50104e9f24",
 "Name": "Spook Em Up"
 },
 {
-"ID": "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7",
-"Name": "R4 Xross Discs"
-},
-{
-"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
-"Name": "Ghost Hunters"
-},
-{
-"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
-"Name": "Melon ＆ Chill Suika Game"
-},
-{
-"ID": "wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83",
-"Name": "Ludo"
-},
-{
-"ID": "wrld_52b0ade5-3993-48a5-9a8a-6fe1ba127b6c",
-"Name": "全知全能"
-},
-{
-"ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
-"Name": "Zombie Survival"
-},
-{
-"ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
-"Name": "CODENAMES 2023［JP］"
-},
-{
 "ID": "wrld_fe6999d2-2372-42b0-bc96-43b7851947ba",
 "Name": "ねこはかり"
-},
-{
-"ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
-"Name": "Anomaly Detection"
-},
-{
-"ID": "wrld_1fac23d3-a5bd-424d-8feb-def024ff1a50",
-"Name": "EXPLOSION BALLOON YAMANOTE LINE GAME"
-},
-{
-"ID": "wrld_1bd4e883-df50-4ad0-9658-d3bb95b0ba28",
-"Name": "花札が遊べる教室"
-},
-{
-"ID": "wrld_11b152ae-5413-48da-bcea-c3ab30fa8091",
-"Name": "不思議な駐車場 Anomaly Parking"
-},
-{
-"ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
-"Name": "VRbomber"
-},
-{
-"ID": "wrld_53bc6709-3c1c-4ddf-a6d6-d6a40c78e86e",
-"Name": "Bomb Battle"
 },
 {
 "ID": "wrld_0c893838-48d6-4174-8c98-5bd84b73ae4f",
 "Name": "タイタンクラッシュ -TITAN CRASH- Ver․2․1"
 },
 {
-"ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
-"Name": "Rocket Assy Simulator"
+"ID": "wrld_fd0b27fd-a615-42c9-84a8-1de78054069b",
+"Name": "Color Drop"
 },
 {
-"ID": "wrld_00a70834-924e-4688-a67c-e7995b8dc5e2",
-"Name": "おしゃべりダイス⁄Chatty DICE ［JP EN］"
+"ID": "wrld_22a0207e-3dff-4b89-a107-4f7c3ecf069b",
+"Name": "ライフステージすごろく"
+}
+]
 },
 {
-"ID": "wrld_12ffd772-bee0-492a-b570-3a9285cce32f",
-"Name": "JUST謎解き［JUSTNazotoki］⁄JP"
+"Category": "カード・ボードゲーム",
+"Worlds": [
+{
+"ID": "wrld_9702a1fd-53ba-42d6-878a-665790104047",
+"Name": "Udon Exploding Kittens"
 },
 {
-"ID": "wrld_0ffcca2e-cfa0-4bf9-b42f-966ec52074b1",
-"Name": "JUST謎解き2［JUSTNazotoki2］⁄JP"
+"ID": "wrld_9c24068c-ba40-4921-9b85-9e6149e26eb2",
+"Name": "大富豪-Daihugo-"
 },
 {
-"ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
-"Name": "Time Motel"
+"ID": "wrld_f1273541-94aa-4d3c-b936-aa5947627e0b",
+"Name": "MrDummy_NL UNO World"
 },
 {
-"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
-"Name": "Idle Home"
+"ID": "wrld_8f97ee11-e713-4a5c-8c54-e075f05384c4",
+"Name": "ごきぽ"
 },
 {
-"ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
-"Name": "ユーロアの隠れ家 Euroa's Hideout"
+"ID": "wrld_7180f8f1-cc1f-4ee6-b595-db4b9632a4f8",
+"Name": "ウェザラーズバイツ-天候者達は喰らい合う-"
+},
+{
+"ID": "wrld_96a3dbd6-15f6-4eb4-98c3-b9c7f993ff83",
+"Name": "Ludo"
+},
+{
+"ID": "wrld_1bd4e883-df50-4ad0-9658-d3bb95b0ba28",
+"Name": "花札が遊べる教室"
 },
 {
 "ID": "wrld_9898922f-9b89-47ce-b9f3-e47f1bc79560",
 "Name": "財宝シーカー - Treasure Seeker"
 },
 {
-"ID": "wrld_a323f41a-26e1-4bfd-942b-becc5777fa57",
-"Name": "これゲッサー"
-},
-{
-"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
-"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム"
-},
-{
-"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
-"Name": "Navy Blue"
-},
-{
-"ID": "wrld_fd0b27fd-a615-42c9-84a8-1de78054069b",
-"Name": "Color Drop"
-},
-{
 "ID": "wrld_cfa96a21-5d1c-4fd8-9f07-6677142acbd7",
 "Name": "超能力な麻雀部屋"
-},
-{
-"ID": "wrld_a7ec3a51-c520-41e7-931b-8824e3d02b6b",
-"Name": "Snowball Fight"
-},
-{
-"ID": "wrld_e2a6c155-629c-4253-97c2-19bf6f1ca43f",
-"Name": "Strategic Battlefront - Early Access"
-},
-{
-"ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
-"Name": "Floor Smasherǃ （Game）"
-},
-{
-"ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
-"Name": "Yeet Party v1․5․1"
 },
 {
 "ID": "wrld_e1d12b89-ef97-4715-b7e1-4c1f61fd0a84",
 "Name": "鷲巣麻雀 Washizu Mahjong"
 },
 {
-"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
-"Name": "Harisen Champǃ ハリセンチャンプ！"
-},
-{
-"ID": "wrld_5f6fc095-ffb5-436e-84fe-4499581a1d28",
-"Name": "Bangǃ Beanǃ Ballǃ"
-},
-{
 "ID": "wrld_374bfc35-1c46-4609-86f5-1a8865c47709",
 "Name": "DevilMarker - デビルマーカー"
-},
-{
-"ID": "wrld_2b690342-8aaa-41eb-81d9-4271a38f2283",
-"Name": "Ghost Bites You"
-},
-{
-"ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
-"Name": "Barrage TD"
-},
-{
-"ID": "wrld_ad6e67b7-4ba4-4ac7-84fd-ae3e31067761",
-"Name": "お気持ちツイートバトル Okimochi Tweet Battle"
-},
-{
-"ID": "wrld_49c2dacb-32c0-4dca-9d40-f952b6872278",
-"Name": "釣り堀VR"
 },
 {
 "ID": "wrld_74882eb4-3edf-4782-88b3-3833b61923b5",
 "Name": "FILLIT"
 },
 {
-"ID": "wrld_38c1cdc9-10e7-4b49-adee-a63a9ea9aaf2",
-"Name": "Nom Nom Hole"
-},
-{
 "ID": "wrld_08c1e227-dc22-433d-90c6-37f29534497a",
 "Name": "テストビルドなんてしてないよ"
-},
-{
-"ID": "wrld_e10b7e73-0cf9-40ac-a97a-30c1eaaf62fd",
-"Name": "NGワード＆名付けてドン！"
-},
-{
-"ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
-"Name": "謎解きゲーム アンサーパネル"
-},
-{
-"ID": "wrld_22a0207e-3dff-4b89-a107-4f7c3ecf069b",
-"Name": "ライフステージすごろく"
-},
-{
-"ID": "wrld_78bc485a-60be-4a3d-ac0a-7252a8bad929",
-"Name": "ふしぎっぽいダンジョン - A mysterious dungeon -"
-},
-{
-"ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464",
-"Name": "Archery Time Trial"
-},
-{
-"ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
-"Name": "Spirit Speak Game"
-},
-{
-"ID": "wrld_29f860ac-e44b-4c93-b089-221829bce30b",
-"Name": "叫べ！急婚バトルロワイアル"
-},
-{
-"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
-"Name": "JUSTETRIS"
-},
-{
-"ID": "wrld_8c60c871-3a1a-4b93-90a5-38ad48c21f2f",
-"Name": "JUST 心理戦じゃんけん"
-},
-{
-"ID": "wrld_7f92b9b6-f609-45f9-b0e1-483f2e2f8d80",
-"Name": "8番マグロ"
-},
-{
-"ID": "wrld_e277997f-1375-49f9-8c19-941897efa95c",
-"Name": "8番マグロ2"
-},
-{
-"ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
-"Name": "脱出ゲーム「無実の罪からの脱出」"
-},
-{
-"ID": "wrld_a61d7b77-256b-4f20-8540-c84d57a0c5c2",
-"Name": "Color Clues"
-},
-{
-"ID": "wrld_eeb1d51a-3f5a-42e3-a1d8-7c9fcba58033",
-"Name": "積み木でゲッサー"
-},
-{
-"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
-"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
-},
-{
-"ID": "wrld_e2ddaadd-2e5d-4c03-902c-c293ecbf43ba",
-"Name": "おもしろことばあそびげーむ"
-},
-{
-"ID": "wrld_abdde73e-5d31-4802-aeb5-fcca8a94bc65",
-"Name": "ちょっと殺風景なクリスマス部屋からの脱出！！"
 },
 {
 "ID": "wrld_4adb757a-9776-44d3-a129-cd871c3ee71d",
 "Name": "Last One Running"
 },
 {
-"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
-"Name": "RINK SLIDER in VRChat"
-},
-{
-"ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
-"Name": "BABELǃ"
-},
-{
 "ID": "wrld_2ff340b9-06d3-4641-9c64-e4c0d3689b8f",
 "Name": "荒野のお家でアニマルバトル！"
-},
-{
-"ID": "wrld_c2929426-538e-4fd7-ba3d-cfecab219f1e",
-"Name": "シンプルパターゴルフ コース3"
 },
 {
 "ID": "wrld_b9bfd500-6e59-4066-82b6-099ee68e71c3",
@@ -1614,12 +131,287 @@
 "Name": "ぼくのかんがえたさいきょうのひっさつわざǃǃ"
 },
 {
-"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
-"Name": "Spy Check?ǃ"
+"ID": "wrld_e10b7e73-0cf9-40ac-a97a-30c1eaaf62fd",
+"Name": "NGワード＆名付けてドン！"
+}
+]
 },
 {
-"ID": "wrld_9684787e-fb70-46ea-874c-545a116430cf",
-"Name": "SugarLove～ドキドキ相性診断～ ver․2"
+"Category": "人狼系",
+"Worlds": [
+{
+"ID": "wrld_dd036610-a246-4f52-bf01-9d7cea3405d7",
+"Name": "'Among Us' game"
+},
+{
+"ID": "wrld_e9093447-5e69-4eec-8262-358a4ad72db9",
+"Name": "Blackoutǃ"
+},
+{
+"ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
+"Name": "Murder 4"
+},
+{
+"ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
+"Name": "Spy Check?ǃ"
+}
+]
+},
+{
+"Category": "アクション",
+"Worlds": [
+{
+"ID": "wrld_93df33e0-9bd8-4639-bf2f-9263e11e37d6",
+"Name": "Killer Night"
+},
+{
+"ID": "wrld_75fae49a-3f54-4811-ad23-de430d582b8f",
+"Name": "Draw Bridge VR"
+},
+{
+"ID": "wrld_1c37737f-fa3f-4867-b9bb-d5baf5d64a79",
+"Name": "空島の旅（Sky Island Journey）"
+},
+{
+"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
+"Name": "Ghost Hunters"
+},
+{
+"ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
+"Name": "VRbomber"
+},
+{
+"ID": "wrld_53bc6709-3c1c-4ddf-a6d6-d6a40c78e86e",
+"Name": "Bomb Battle"
+},
+{
+"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
+"Name": "Harisen Champǃ ハリセンチャンプ！"
+},
+{
+"ID": "wrld_2b690342-8aaa-41eb-81d9-4271a38f2283",
+"Name": "Ghost Bites You"
+},
+{
+"ID": "wrld_38c1cdc9-10e7-4b49-adee-a63a9ea9aaf2",
+"Name": "Nom Nom Hole"
+},
+{
+"ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
+"Name": "Yeet Party v1․5․1"
+}
+]
+},
+{
+"Category": "シューティング",
+"Worlds": [
+{
+"ID": "wrld_001c753e-8b81-4543-a938-3e1420134e89",
+"Name": "FPS Team Battle Simulator"
+},
+{
+"ID": "wrld_8be08902-6cb2-43f5-a978-b12d9310b26a",
+"Name": "Grapnel Gun Playground"
+},
+{
+"ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
+"Name": "Tanksǃ"
+},
+{
+"ID": "wrld_ee209ad4-fa3c-4daf-bd0d-4fb901a9a3b7",
+"Name": "R4 Xross Discs"
+},
+{
+"ID": "wrld_f557959f-6fde-4164-be36-31f1d40bb9a5",
+"Name": "Zombie Survival"
+},
+{
+"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+"Name": "Navy Blue"
+},
+{
+"ID": "wrld_a7ec3a51-c520-41e7-931b-8824e3d02b6b",
+"Name": "Snowball Fight"
+},
+{
+"ID": "wrld_e2a6c155-629c-4253-97c2-19bf6f1ca43f",
+"Name": "Strategic Battlefront - Early Access"
+},
+{
+"ID": "wrld_5f6fc095-ffb5-436e-84fe-4499581a1d28",
+"Name": "Bangǃ Beanǃ Ballǃ"
+},
+{
+"ID": "wrld_62d9de2d-927a-4c34-95dc-af432d433f3e",
+"Name": "Floor Smasherǃ （Game）"
+},
+{
+"ID": "wrld_3dab5fe1-0500-4dce-a291-a37922331c30",
+"Name": "Barrage TD"
+},
+{
+"ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
+"Name": "BABELǃ"
+}
+]
+},
+{
+"Category": "スポーツ・レース",
+"Worlds": [
+{
+"ID": "wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6",
+"Name": "Super VR Ball"
+},
+{
+"ID": "wrld_ecf709f6-b656-45fe-b29c-aa67e243235c",
+"Name": "CottonFox Billiards"
+},
+{
+"ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464",
+"Name": "Archery Time Trial"
+},
+{
+"ID": "wrld_c2929426-538e-4fd7-ba3d-cfecab219f1e",
+"Name": "シンプルパターゴルフ コース3"
+}
+]
+},
+{
+"Category": "パズル・謎解き",
+"Worlds": [
+{
+"ID": "wrld_e2bbfa76-854c-47db-9f68-03b826f3cbee",
+"Name": "脱出ゲーム「仮想牢獄からの脱出」"
+},
+{
+"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+"Name": "Melon ＆ Chill Suika Game"
+},
+{
+"ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
+"Name": "Anomaly Detection"
+},
+{
+"ID": "wrld_11b152ae-5413-48da-bcea-c3ab30fa8091",
+"Name": "不思議な駐車場 Anomaly Parking"
+},
+{
+"ID": "wrld_12ffd772-bee0-492a-b570-3a9285cce32f",
+"Name": "JUST謎解き［JUSTNazotoki］⁄JP"
+},
+{
+"ID": "wrld_0ffcca2e-cfa0-4bf9-b42f-966ec52074b1",
+"Name": "JUST謎解き2［JUSTNazotoki2］⁄JP"
+},
+{
+"ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
+"Name": "Time Motel"
+},
+{
+"ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
+"Name": "謎解きゲーム アンサーパネル"
+},
+{
+"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
+"Name": "JUSTETRIS"
+},
+{
+"ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
+"Name": "脱出ゲーム「無実の罪からの脱出」"
+},
+{
+"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
+"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
+},
+{
+"ID": "wrld_abdde73e-5d31-4802-aeb5-fcca8a94bc65",
+"Name": "ちょっと殺風景なクリスマス部屋からの脱出！！"
+},
+{
+"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
+"Name": "RINK SLIDER in VRChat"
+},
+{
+"ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
+"Name": "Vault of Horizons"
+},
+{
+"ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
+"Name": "Rocket Assy Simulator"
+}
+]
+},
+{
+"Category": "お絵かき系",
+"Worlds": [
+{
+"ID": "wrld_a79e6d51-f035-465e-97c3-2c1b29f6fc77",
+"Name": "生活記憶力 Kioku"
+},
+{
+"ID": "wrld_0889332e-17fc-4a3c-8d62-74dc39ad9ad5",
+"Name": "ポケモン図鑑の説明だけでポケモンの絵を描けるっていったんだよǃǃ"
+},
+{
+"ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
+"Name": "Voxel Phone"
+},
+{
+"ID": "wrld_eeb1d51a-3f5a-42e3-a1d8-7c9fcba58033",
+"Name": "積み木でゲッサー"
+}
+]
+},
+{
+"Category": "トークゲーム",
+"Worlds": [
+{
+"ID": "wrld_d0a1588b-e62a-4ac0-8b75-efc34de04075",
+"Name": "あべこべワードバトル"
+},
+{
+"ID": "wrld_de716924-2f58-4f6f-9631-f52fc96ab01a",
+"Name": "トークゲーム【すこスコアǃ】"
+},
+{
+"ID": "wrld_cfe149ed-4152-44de-9bf8-36a0107524c7",
+"Name": "ネーマブル 名目必称義務令 Namable"
+},
+{
+"ID": "wrld_52b0ade5-3993-48a5-9a8a-6fe1ba127b6c",
+"Name": "全知全能"
+},
+{
+"ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
+"Name": "CODENAMES 2023［JP］"
+},
+{
+"ID": "wrld_1fac23d3-a5bd-424d-8feb-def024ff1a50",
+"Name": "EXPLOSION BALLOON YAMANOTE LINE GAME"
+},
+{
+"ID": "wrld_a323f41a-26e1-4bfd-942b-becc5777fa57",
+"Name": "これゲッサー"
+},
+{
+"ID": "wrld_ad6e67b7-4ba4-4ac7-84fd-ae3e31067761",
+"Name": "お気持ちツイートバトル Okimochi Tweet Battle"
+},
+{
+"ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
+"Name": "Spirit Speak Game"
+},
+{
+"ID": "wrld_29f860ac-e44b-4c93-b089-221829bce30b",
+"Name": "叫べ！急婚バトルロワイアル"
+},
+{
+"ID": "wrld_a61d7b77-256b-4f20-8540-c84d57a0c5c2",
+"Name": "Color Clues"
+},
+{
+"ID": "wrld_e2ddaadd-2e5d-4c03-902c-c293ecbf43ba",
+"Name": "おもしろことばあそびげーむ"
 },
 {
 "ID": "wrld_f4f78007-e75d-4228-9320-ea304237553b",
@@ -1628,6 +420,19 @@
 {
 "ID": "wrld_2c481144-0853-4720-8a08-8c0bec9998b8",
 "Name": "カタカナ語をカタカナなしで説明するゲーム"
+}
+]
+},
+{
+"Category": "ホラー(雰囲気ホラー含む)",
+"Worlds": [
+{
+"ID": "wrld_7f92b9b6-f609-45f9-b0e1-483f2e2f8d80",
+"Name": "8番マグロ"
+},
+{
+"ID": "wrld_e277997f-1375-49f9-8c19-941897efa95c",
+"Name": "8番マグロ2"
 },
 {
 "ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
@@ -1636,947 +441,59 @@
 ]
 },
 {
-"Category": "動画、音楽鑑賞",
+"Category": "その他（放置ゲームなど）",
 "Worlds": [
 {
-"ID": "wrld_ba2e931c-63dc-4243-9e82-9eef00d706fb",
-"Name": "Boothの商品動画をたれながしてチルする部屋"
+"ID": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム"
 },
 {
-"ID": "wrld_538edfbb-e36c-480b-92bf-744d12c671f3",
-"Name": "陣内智則の動画を見るためだけのワールド"
+"ID": "wrld_50a4de63-927a-4d7e-b322-13d715176ef1",
+"Name": "Elite's RNG Land"
 },
 {
-"ID": "wrld_5e60153e-bf06-4336-9617-9133aed2102c",
-"Name": "バーバパパを楽しむワールド"
+"ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
+"Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-"
 },
 {
-"ID": "wrld_37ea901e-fc4a-4225-a6fa-d92ccee99d72",
-"Name": "きんに君と筋トレできる部屋"
+"ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
+"Name": "［JP］UDON-SABER QUEST うどんせいばーQ"
 },
 {
-"ID": "wrld_c7106b64-08bd-4db2-a2e5-b29b22c5e3e3",
-"Name": "でんじろう先生のはぴエネǃを観るワールド"
+"ID": "wrld_ab93c6a0-d158-4e07-88fe-f8f222018faa",
+"Name": "A Simple Fishing World"
 },
 {
-"ID": "wrld_03d1de35-482a-423d-b89c-30018827d07c",
-"Name": "米津玄師の曲を聴くためだけのワールド"
+"ID": "wrld_c1a43e8f-5652-461d-a7c6-ea98063746f7",
+"Name": "釣り堀 - Fishing"
 },
 {
-"ID": "wrld_033b9f75-49be-4213-9218-a540dd2be60a",
-"Name": "Tanuki Tunesǃ - タヌキトゥーンズ"
+"ID": "wrld_49c2dacb-32c0-4dca-9d40-f952b6872278",
+"Name": "釣り堀VR"
 },
 {
-"ID": "wrld_195790c5-6124-46b4-b206-9151cbbf0aa8",
-"Name": "360° Journey"
+"ID": "wrld_6910309b-1b75-473d-8196-c8963263f00f",
+"Name": "オトだけのセカイ～SoundOnlyWorld～"
 },
 {
-"ID": "wrld_60aab7c7-614a-4085-85af-5f427858de8f",
-"Name": "JAPAN自然災害観測所＝JP earthquake observation post＝"
+"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+"Name": "Idle Home"
 },
 {
-"ID": "wrld_4942cb57-e70e-44dd-98e8-110a23d860a6",
-"Name": "just トラウマ"
+"ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
+"Name": "ユーロアの隠れ家 Euroa's Hideout"
 },
 {
-"ID": "wrld_f5cd55ee-6fcf-48af-96ff-f11b98e863ed",
-"Name": "ねこちゃんとOfficial髭男dismを聴く部屋"
+"ID": "wrld_78bc485a-60be-4a3d-ac0a-7252a8bad929",
+"Name": "ふしぎっぽいダンジョン - A mysterious dungeon -"
 },
 {
-"ID": "wrld_7c75859d-a740-428c-8733-380dd9794170",
-"Name": "アニメを見るワールド"
+"ID": "wrld_8c60c871-3a1a-4b93-90a5-38ad48c21f2f",
+"Name": "JUST 心理戦じゃんけん"
 },
 {
-"ID": "wrld_9973d36a-fc50-47a7-9145-f9c7e28fde07",
-"Name": "ちょっと待てぃǃǃプレイヤー"
-},
-{
-"ID": "wrld_93923db0-58eb-4f09-8e8b-8a47f7325b33",
-"Name": "kakuhira's club house"
-},
-{
-"ID": "wrld_1d3f8dcf-bf28-419b-a6d8-5fb205844000",
-"Name": "じっとりホラーを観る部屋"
-},
-{
-"ID": "wrld_d65cb318-3f45-4b2b-b3c1-8a0642390c13",
-"Name": "just 藤井風 just fujii kaze"
-},
-{
-"ID": "wrld_9c297504-c289-44f1-95c4-30a70494c825",
-"Name": "ボカロがたくさん聴けるワールド"
-},
-{
-"ID": "wrld_b682ac61-4f74-4e29-8ed1-28b4d884c3c9",
-"Name": "音楽を聴きながらボドゲする部屋"
-}
-]
-},
-{
-"Category": "ネタ",
-"Worlds": [
-{
-"ID": "wrld_c0666e6e-ec20-432c-8175-74e43ca20ff4",
-"Name": "ジャパニーズパリピ体育館"
-},
-{
-"ID": "wrld_2340af4d-fa69-417d-95ca-f95f33bd9a63",
-"Name": "落ちつかない和室"
-},
-{
-"ID": "wrld_c0bc0e9c-aa52-4992-baaf-8c0054f1b895",
-"Name": "クッソあったかい部屋"
-},
-{
-"ID": "wrld_c87049e4-50f3-4b96-951e-7952b6d637b2",
-"Name": "ジャパニーズパリピクリスマス -Japanese Paripi Christmas -"
-},
-{
-"ID": "wrld_ab6dd772-3ad5-49cf-a0e9-d4679b0048c9",
-"Name": "Hidden Famichiki"
-},
-{
-"ID": "wrld_963b0e93-fd3f-417b-9f86-b6a7bafbc8ab",
-"Name": "シンメトリーで遊ぼ"
-},
-{
-"ID": "wrld_fc508b18-2161-4cb4-8e04-c59d101f62b9",
-"Name": "徹底ムダ討論会議室"
-},
-{
-"ID": "wrld_dfe04bda-bcf6-49a7-97fd-f4812c6ea646",
-"Name": "お砂糖甘々ルーム（おじさん乱入機能あり）"
-},
-{
-"ID": "wrld_3eb15001-3ff3-4d6d-abe1-83a79c815c3f",
-"Name": "柴犬を収穫するためだけのワールド"
-},
-{
-"ID": "wrld_8cc58555-c794-4a60-b4d6-9771a587baca",
-"Name": "特撮ロケ"
-},
-{
-"ID": "wrld_b014fcea-2cd7-4b6c-ac53-f48814ae1cef",
-"Name": "PROTOTYPE PARK"
-},
-{
-"ID": "wrld_c31d228a-76c2-4246-a62c-1dd1d02c17aa",
-"Name": "杉刈り-No More Pollen-"
-},
-{
-"ID": "wrld_185c124e-986d-48c8-9fe0-4c0401182fdd",
-"Name": "ねこあつめ（ねこあつめではない）"
-},
-{
-"ID": "wrld_bc4e37e8-923c-4166-b6e3-5013281e92d0",
-"Name": "Park Cleaning"
-},
-{
-"ID": "wrld_5c51de44-c101-4d6f-901b-4392adb17f84",
-"Name": "Just キノコ （Just Mushroom）"
-},
-{
-"ID": "wrld_8ec08d31-29a7-4ce8-a3f5-37e8762a5d93",
-"Name": "鰻重牧場"
-},
-{
-"ID": "wrld_432b6cb1-977d-45a3-99b9-bb4271ba03ff",
-"Name": "Just 新紙幣"
-},
-{
-"ID": "wrld_24353a13-0d9b-424f-997e-ac57c7c0d183",
-"Name": "Usual suspects"
-},
-{
-"ID": "wrld_21a20061-7d30-4d17-bba5-9790872913b8",
-"Name": "君に決めるあのアングルワールド"
-},
-{
-"ID": "wrld_7b9b46dd-eaa7-4a2c-9ab1-8c2f0e601c80",
-"Name": "気分の良くなる階段"
-},
-{
-"ID": "wrld_ffce68a0-1a7f-4387-b486-dc500effd027",
-"Name": "JUST BLACK HOLE"
-},
-{
-"ID": "wrld_620022fb-c8b2-4329-9117-7888f7473ab6",
-"Name": "【I․C․】Subconscious Test"
-},
-{
-"ID": "wrld_ff7f8995-5e97-426a-a4d1-7542ed7ecefd",
-"Name": "お布団から出たくないワールド"
-},
-{
-"ID": "wrld_286981bb-6f91-47a7-93a9-8e17d2de283d",
-"Name": "Just 決済 - Just Payment -"
-},
-{
-"ID": "wrld_2e19e521-f61f-40f3-9d58-5a3a41685e60",
-"Name": "私は誕生日です~Happy Birthday To Me~"
-},
-{
-"ID": "wrld_b3a73b43-a0e5-4835-91f1-2dfd75a11fcc",
-"Name": "Just 100の質問"
-},
-{
-"ID": "wrld_27e68060-730a-439e-9332-acda8f5d3547",
-"Name": "みんなの懺悔展"
-},
-{
-"ID": "wrld_56ee68a1-166d-464e-81c6-12adb1b4b26c",
-"Name": "米津玄師との生活"
-},
-{
-"ID": "wrld_e24a6e91-a424-44e6-b7cc-81a79e993823",
-"Name": "ミセスのライブの騒音が聞こえる部屋"
-},
-{
-"ID": "wrld_fd8029ba-55df-4292-bb1a-6ec34a36a6f6",
-"Name": "ランダムに特殊部隊が突入してくるチルワールド"
-},
-{
-"ID": "wrld_bc0e545c-4ea1-4592-9a02-c4e35c87838c",
-"Name": "おへやのおそうじ-Cleaning the room-"
-},
-{
-"ID": "wrld_31cebe3d-dde2-44c9-bd49-d0c9389b8694",
-"Name": "プラス50円で豚汁になるワールド"
-},
-{
-"ID": "wrld_c5a33657-e2cb-4a76-adab-6383a4f7bf07",
-"Name": "Birthday Partyǃ -誕生日パーティ-"
-},
-{
-"ID": "wrld_2af41004-6617-406f-abf9-fb80de65b804",
-"Name": "あなたの人生を語る部屋"
-},
-{
-"ID": "wrld_e6948781-9b27-4cf5-a4c4-71294eb7b8b6",
-"Name": "交差点のど真ん中で生活してみたｗｗｗ"
-},
-{
-"ID": "wrld_e663070c-8ff9-454f-9ba6-3aead2dbcb36",
-"Name": "VRメルヘン村"
-},
-{
-"ID": "wrld_de1e25c0-e701-4ca2-826f-21b6509ecbd2",
-"Name": "水に念を込めるワールド"
-},
-{
-"ID": "wrld_679d9eee-f764-4849-810c-420a55199a4c",
-"Name": "美少女ゲームツクール2020 HD版 ADV-Maker 2020 HD Edition"
-}
-]
-},
-{
-"Category": "雰囲気",
-"Worlds": [
-{
-"ID": "wrld_05b3bfdf-f77b-4220-8b02-124799bad999",
-"Name": "Ἀνάμνησις"
-},
-{
-"ID": "wrld_ed90878b-4dd7-4222-b46b-52dc0af4a665",
-"Name": "The Abyss"
-},
-{
-"ID": "wrld_59b59817-50b3-461d-bcb7-a55983ccdcc6",
-"Name": "Asbestos"
-},
-{
-"ID": "wrld_ad7a6490-292d-4461-8d9a-f0b8aeecea95",
-"Name": "The Platform"
-},
-{
-"ID": "wrld_6325c346-2ea9-4bc5-8d65-59cd7e700d06",
-"Name": "Terra Cotta Valley"
-},
-{
-"ID": "wrld_700cf786-0b95-4b5f-870f-0dc319ab1871",
-"Name": "Moonlit Forest"
-},
-{
-"ID": "wrld_6f23cdc6-be51-49e6-bdf8-b71de828d413",
-"Name": "SCP RP˸ Site-97"
-},
-{
-"ID": "wrld_858c5fcf-fae6-4aac-9193-8bb7b63b9201",
-"Name": "In The Snow"
-},
-{
-"ID": "wrld_5b506685-3b4f-4702-b4c7-ba008dd2a1e5",
-"Name": "Trenches of Beaumont"
-},
-{
-"ID": "wrld_93150901-85b5-4d30-9625-ac48bc2e7625",
-"Name": "WIP"
-},
-{
-"ID": "wrld_69805e9d-094f-4b5e-82b3-1f6801b73ab4",
-"Name": "光の聖域 - Sanctuary"
-},
-{
-"ID": "wrld_aeed4cf4-fefd-477f-9db9-7f44e6e561fd",
-"Name": "Hotel Cthonia"
-},
-{
-"ID": "wrld_89d75c87-f3d5-4c61-b725-03a1d3a5493d",
-"Name": "Voxel Moon"
-},
-{
-"ID": "wrld_f86a7a56-1a4c-4ddd-a0c8-4121551a6383",
-"Name": "UGE Fallen Venator˸ Kashyyyk"
-},
-{
-"ID": "wrld_de426d82-41bd-43c2-aacc-0956bc7bb5fb",
-"Name": "Subspace"
-},
-{
-"ID": "wrld_8afc29f9-47f8-4452-b8a9-5d7119fc57c1",
-"Name": "Gothic world"
-},
-{
-"ID": "wrld_688e7cfc-e260-455b-862b-f2172b96cf5c",
-"Name": "幽霊のいるところ - wake"
-},
-{
-"ID": "wrld_d703eefc-feac-4379-8a76-50d975597ef9",
-"Name": "Glass"
-},
-{
-"ID": "wrld_4e7b0176-68fc-471c-98a9-5bd10148c333",
-"Name": "Evermist Manor"
-},
-{
-"ID": "wrld_ad171e41-3737-4042-b0ac-e6561a1229af",
-"Name": "Distant Memory"
-},
-{
-"ID": "wrld_c0ffc7d7-93b7-4f76-b982-0892ed66f9a2",
-"Name": "The Clockworks"
-},
-{
-"ID": "wrld_d7357484-9482-4211-8623-8d1c71f7a66b",
-"Name": "gm_liminal_space"
-},
-{
-"ID": "wrld_e4544c4c-8f5f-414d-b44f-808df4bf5cd8",
-"Name": "dead to the world"
-},
-{
-"ID": "wrld_c9151fdb-2f65-44e9-903c-de6eaf697695",
-"Name": "NODE˸B-4"
-},
-{
-"ID": "wrld_f7210373-f452-4917-b460-969c81e201ef",
-"Name": "After Thought"
-},
-{
-"ID": "wrld_a269d7c3-289e-4dfc-8e7e-0b45e6c985b2",
-"Name": "Never Alone"
-},
-{
-"ID": "wrld_8a8c9cf0-da5f-400d-a29b-9e120dfd9533",
-"Name": "燻る終焉 ～Smoldering Doomsday～"
-},
-{
-"ID": "wrld_97959650-62e7-4ef2-94da-bbcf4d2346c9",
-"Name": "Liminal Dreams˸ The Poolrooms"
-},
-{
-"ID": "wrld_b0da8160-f890-4b4e-873d-674f6aa3b53a",
-"Name": "V O I D S P A C E ․"
-},
-{
-"ID": "wrld_c8bbf838-3bec-49c7-a1e4-8435b8cac887",
-"Name": "暗夜行路 - A Dark Night's Passing"
-}
-]
-},
-{
-"Category": "ギミック",
-"Worlds": [
-{
-"ID": "wrld_358c8602-a6fd-430c-9d56-b9c1e90971aa",
-"Name": "Realtime Farm ⁄ リアルタイム農業ワールド - リアルVRChat2"
-},
-{
-"ID": "wrld_6075be77-2fa3-44c2-8204-95905bb3fd53",
-"Name": "MyAvatarGoods"
-},
-{
-"ID": "wrld_7d9b5fe6-0d0e-4e93-8487-45f9d46782ef",
-"Name": "Vket2024S Summer Parareal Central BOUNDLESSǃ"
-},
-{
-"ID": "wrld_7bfc89a1-aa68-49a7-90c0-65fb3e1d93c4",
-"Name": "Vket2024W Parareal Central"
-},
-{
-"ID": "wrld_96460268-8c89-438f-b8f2-2ea2f1ed1ce7",
-"Name": "The Avatar Studio ｜ Avatown"
-},
-{
-"ID": "wrld_5321a1a3-ebb3-48b7-9e78-43943395292d",
-"Name": "NPC わんわんルーム Wanwan Room"
-},
-{
-"ID": "wrld_90ec3ef5-4249-485f-b03b-571b06d0cf55",
-"Name": "VR鍛冶屋「バーチャルスミス」"
-},
-{
-"ID": "wrld_719c973f-943b-475a-93f7-41bfa87d2ac2",
-"Name": "Forest Magic Shop ～森の魔法雑貨店～"
-},
-{
-"ID": "wrld_6642e15f-97b3-40e6-ba62-ee7dad48ded4",
-"Name": "G-SHOCK THE RIDE"
-},
-{
-"ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
-"Name": "キロバイトのうみ - Sea of KB"
-},
-{
-"ID": "wrld_dfbecb47-7f43-4dbd-8192-3bb007748c46",
-"Name": "Happy Hill Dog Park"
-},
-{
-"ID": "wrld_42287232-c9fc-4e43-83db-a165f092e9e6",
-"Name": "Snell's Pool"
-},
-{
-"ID": "wrld_46f3001d-5e7c-4cda-b68b-0d683211ee45",
-"Name": "ChickenTopia"
-},
-{
-"ID": "wrld_2941a3a1-60bf-4433-a9e1-6d2b5aa08bb0",
-"Name": "DJ - Deryvier PAD - Create Music"
-},
-{
-"ID": "wrld_56f781c0-5d79-40fa-9588-11e7896643fe",
-"Name": "Percussion Set Test World"
-},
-{
-"ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
-"Name": "Astral Bounds"
-},
-{
-"ID": "wrld_2054fa71-8e72-4c93-9040-f174f71fab2e",
-"Name": "カラオケワールド JP KARAOKE"
-},
-{
-"ID": "wrld_83f3d517-f453-4363-9370-7d827bd1c838",
-"Name": "Summer Drum Reflection"
-},
-{
-"ID": "wrld_5d31504f-a537-441a-972e-ede18ce28f13",
-"Name": "私人画室（Painting Studio）"
-},
-{
-"ID": "wrld_5cfc3226-96fb-447b-8b78-d39e062c6045",
-"Name": "After-school classroom （include playable guitar and more）"
-},
-{
-"ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
-"Name": "Fantasy Airport 秘境、ルアフォートにて"
-},
-{
-"ID": "wrld_42930816-c882-4ed6-ac02-8582380c9dbe",
-"Name": "Clam Digging（潮干狩り）"
-},
-{
-"ID": "wrld_8d71260f-7485-4a41-91d8-e550652674a1",
-"Name": "WorldGimmickJam Vol4"
-},
-{
-"ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
-"Name": "Udon Bird Sanctuary"
-},
-{
-"ID": "wrld_75a667c7-1151-4fba-b391-fcc82c8af03d",
-"Name": "Rokuro Master"
-},
-{
-"ID": "wrld_a23a67da-4dd8-4d26-ab3f-0ae870d990d6",
-"Name": "mmd home"
-},
-{
-"ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
-"Name": "［JP］NDC Library"
-},
-{
-"ID": "wrld_ddb58655-9fb6-4f86-9524-4f20a48f8989",
-"Name": "DJ Simulator"
-},
-{
-"ID": "wrld_00352602-587d-4bde-a4b4-8b6227e7cc53",
-"Name": "Pressure Wash Simulator"
-},
-{
-"ID": "wrld_544e7879-d870-42a2-9c7a-99eb95a8e62f",
-"Name": "NeoWorlds"
-},
-{
-"ID": "wrld_bc8b1fa6-fa58-41f2-ab85-377e9376dd4c",
-"Name": "スコフィドッグラン-Scofi's DogPark-"
-},
-{
-"ID": "wrld_7dd405e0-8b05-49d5-b1ab-0600b10eb61e",
-"Name": "TSUUP体験ワールド"
-},
-{
-"ID": "wrld_8713b920-64e3-409b-ae07-299256223872",
-"Name": "自由に成形できる雪だるまわーるど（Free molding of snowmen）"
-},
-{
-"ID": "wrld_0bf4c896-b11b-44b4-820e-741eb5baf297",
-"Name": "Dream Sweet"
-},
-{
-"ID": "wrld_bd3a0a4f-8074-4415-b49b-ffa24ef0fe05",
-"Name": "Justǃǃ UFOCatcher"
-},
-{
-"ID": "wrld_c2c0a30b-51d8-46d1-a62f-d17b0ca28911",
-"Name": "Cosmos"
-},
-{
-"ID": "wrld_1677752b-1b29-4871-a740-7e418bb30e78",
-"Name": "Monument"
-},
-{
-"ID": "wrld_95d99272-1530-4c0e-94a4-18c87671a359",
-"Name": "Grandma's Basement"
-},
-{
-"ID": "wrld_3d8fd35c-8505-42f7-bb77-619ae6de93b4",
-"Name": "V Home"
-},
-{
-"ID": "wrld_dc671129-70cf-40a4-b0f4-356c561389b3",
-"Name": "Neuron"
-},
-{
-"ID": "wrld_2a0ca0a3-6bc6-425c-9cc2-4b1eec4b5289",
-"Name": "密林グランピング Tropical Glamping Site"
-},
-{
-"ID": "wrld_6a1d3936-c4dc-4719-bc75-ec07a8a05cfb",
-"Name": "MMD Fight Club"
-},
-{
-"ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
-"Name": "THE Swimming Pool"
-},
-{
-"ID": "wrld_0fed7b01-ec2a-4704-bea1-bcad73e6e879",
-"Name": "Floating Airship"
-},
-{
-"ID": "wrld_27e8d086-7862-417e-9f3a-48d41e33b27c",
-"Name": "運命の路地裏 -A Fortune-Telling World-"
-},
-{
-"ID": "wrld_aa9a06c4-89d4-4b1f-8a7d-f92ac18f76dc",
-"Name": "sky message"
-}
-]
-},
-{
-"Category": "ホラー",
-"Worlds": [
-{
-"ID": "wrld_76eff8ae-2107-4851-9e04-2b0281fd9800",
-"Name": "The backrooms"
-},
-{
-"ID": "wrld_c6c13d38-b98e-4712-8c28-013c0d1f098e",
-"Name": "Tenebrous （Legacy）"
-},
-{
-"ID": "wrld_78df3703-964e-41ad-8627-a2aebe3e1a7d",
-"Name": "Tenebrous II （Legacy）"
-},
-{
-"ID": "wrld_e3708472-f5e6-41ca-a2ea-19a6498cd445",
-"Name": "Tenebrous III"
-},
-{
-"ID": "wrld_30b96d07-746c-406f-8127-8d655bce5c00",
-"Name": "Floor 10"
-},
-{
-"ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
-"Name": "Milya［paradox］"
-},
-{
-"ID": "wrld_4b35a539-ec36-4206-9d9e-e9abcf5cb071",
-"Name": "Just ホラーハウス - Just Horror House"
-},
-{
-"ID": "wrld_bfeb8131-6324-4950-80bf-9fbb2c7cad43",
-"Name": "Butter Of Terror"
-},
-{
-"ID": "wrld_fe107196-bf7f-4dfb-bd7f-54b226d233f6",
-"Name": "Wait"
-},
-{
-"ID": "wrld_8061fc5a-d3a4-4b94-9df9-4f81cd6120ba",
-"Name": "Wait Again"
-},
-{
-"ID": "wrld_62f43e6a-f6eb-4425-9249-eff4c25f2353",
-"Name": "The Ocean"
-},
-{
-"ID": "wrld_158fc489-72c1-450e-bcc1-d43a8ad7ae14",
-"Name": "みんなで応援！楽しいホラー"
-},
-{
-"ID": "wrld_24e4e1b6-6fed-45ce-84f5-a6f9891eb75b",
-"Name": "ホラワトレーニング ～Horror World Training～"
-},
-{
-"ID": "wrld_4c74908a-d68f-4401-af1b-2db9ecfd396c",
-"Name": "繧™繧ケ繧帙Λ繝ショキング??"
-},
-{
-"ID": "wrld_f2c05f0b-d820-4545-864d-f41152e0c8c2",
-"Name": "School Night"
-},
-{
-"ID": "wrld_8b77dcd3-5738-4fbf-a7f1-c51c9b771f4f",
-"Name": "Tent Of Terror"
-},
-{
-"ID": "wrld_1009d559-bf8e-4e0d-b967-a0d90bc47427",
-"Name": "Lost Backrooms"
-},
-{
-"ID": "wrld_7e4210ce-c470-458d-85fa-2f85b641d42d",
-"Name": "The Forgotten Gallery -忘れられた画廊"
-},
-{
-"ID": "wrld_4504bf40-404b-4240-92c9-857fb8d9c8e2",
-"Name": "［JPT］ Develop ver․"
-},
-{
-"ID": "wrld_fe130422-0782-435f-9dde-f87eee1d9ca6",
-"Name": "The Nestled Glade"
-},
-{
-"ID": "wrld_6d481577-dc5b-4f3e-8716-496cd89e1232",
-"Name": "The Fifth Post˸horror"
-},
-{
-"ID": "wrld_3a4277c3-37dc-4200-ab9c-f26cf696ba04",
-"Name": "Liminal space adventure"
-},
-{
-"ID": "wrld_0ad12f37-f7d2-4c3e-8d09-219cfe9292e8",
-"Name": "We're On Observation Duty"
-},
-{
-"ID": "wrld_4d3ed6cf-714c-43e6-b712-063e580954d0",
-"Name": "VrChat PT"
-},
-{
-"ID": "wrld_8364cbd6-819b-4737-acc3-6279e07cf0f6",
-"Name": "The Tenth Floor"
-},
-{
-"ID": "wrld_8b156087-f69f-416e-9d80-5740effd6d0b",
-"Name": "8番マグロTHE・HORROR"
-},
-{
-"ID": "wrld_ea1c31e8-e2b2-40a4-b994-21012a8e0421",
-"Name": "［HORROR］回廊 ⁄ She is in the Hallway ［JP⁄EN］"
-},
-{
-"ID": "wrld_43ae60c3-f951-4868-92af-d9a016e36dd4",
-"Name": "青い、青い空-Sky Blue Sky ＃SCP-8900"
-}
-]
-},
-{
-"Category": "パブリック",
-"Worlds": [
-{
-"ID": "wrld_f5f8b3dc-6f33-4b34-97f3-83add2fb224d",
-"Name": "日本語話者向け集会場「FUJIYAMA」JP"
-},
-{
-"ID": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
-"Name": "［JP］Tutorial world"
-},
-{
-"ID": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
-"Name": "VRC-JP 初心者プラザ ［JP］"
-},
-{
-"ID": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
-"Name": "日本人向け 1対1お話しワールド NAGiSA ［JP］"
-},
-{
-"ID": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
-"Name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］"
-},
-{
-"ID": "wrld_17777e91-3c5f-4079-9291-9b0cd3d636a1",
-"Name": "［JP］Quest Kemono 集会場"
-},
-{
-"ID": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
-"Name": "【JP】Qじゃぱん横丁 -Q Japan Street-"
-},
-{
-"ID": "wrld_b8cbc920-bb6a-49d6-a2e0-5de5213ffc85",
-"Name": "ぶいあ～る横丁-VR Yokocho-"
-},
-{
-"ID": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
-"Name": "なでなでマッチング【PC Desktop＆VR両対応】"
-},
-{
-"ID": "wrld_70ca77f8-cb78-42f9-bbf8-a82cc9a9db6a",
-"Name": "やかん横丁"
-},
-{
-"ID": "wrld_d619675d-139d-4e58-bcda-da26a3c75c0e",
-"Name": "ヘヤタテ型交流ワールド「ひまり旅館」-Himari Ryokan- ［JP］"
-}
-]
-},
-{
-"Category": "ポータル",
-"Worlds": [
-{
-"ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
-"Name": "［JP］クエストトビラ QUEST TOBIRA"
-},
-{
-"ID": "wrld_60f43dc6-97ff-478f-9371-dd1f103feff5",
-"Name": "PORTAL STORAGE-ポータルストレージ-"
-},
-{
-"ID": "wrld_29244fbc-ec58-4a3c-b219-9801a25cf85d",
-"Name": "Portal World -Hello World-"
-},
-{
-"ID": "wrld_0004612c-f364-49e5-89aa-540974d2fedf",
-"Name": "ケセドの200個目の世界-CHESED's 200th My World-"
-},
-{
-"ID": "wrld_ca7e5108-f81e-4cd0-bf8a-3b001fa860a9",
-"Name": "Quest Portal Station （クエステ）"
-},
-{
-"ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d",
-"Name": "ボドゲポータル"
-},
-{
-"ID": "wrld_88c85201-35fa-4dad-87a9-eb6cfecd8987",
-"Name": "Particle Live World Collection"
-},
-{
-"ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a",
-"Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha"
-},
-{
-"ID": "wrld_ceaac3f1-8afb-4b4d-8775-3a74160c3d17",
-"Name": "Game World Hub"
-},
-{
-"ID": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352",
-"Name": "ゲームワールド紹介ワールド≺クレイドル≻"
-},
-{
-"ID": "wrld_b6cdc295-b237-4b83-909e-34e4c44e9dd4",
-"Name": "LEGNA's Portal World"
-},
-{
-"ID": "wrld_60bcdb81-aca1-4425-b8a0-1c5b721158b5",
-"Name": "Furality˸ F․Y․N․N․'s Room"
-},
-{
-"ID": "wrld_74ec837c-34f4-4811-9644-7992eb8ce8f1",
-"Name": "VR個展「わたしがつくったせかいたち」"
-}
-]
-},
-{
-"Category": "アバター",
-"Worlds": [
-{
-"ID": "wrld_84778fd2-d927-4e2d-b711-d1eb27a7dbf1",
-"Name": "［old］ Avatar Museum Q"
-},
-{
-"ID": "wrld_ad46362c-776e-4b0b-b195-07571bfb6d05",
-"Name": "Avatar Museum Q2"
-},
-{
-"ID": "wrld_b3a86e4c-77f5-4348-b0c7-0e0a2c9f7974",
-"Name": "Avatar Now"
-},
-{
-"ID": "wrld_035a2859-d85f-4475-b9e5-891978589da7",
-"Name": "KOGE's Workplace"
-},
-{
-"ID": "wrld_11ed7958-8c24-465a-b935-01cadb5bcf05",
-"Name": "BOOTH Avatar Cafe"
-},
-{
-"ID": "wrld_190be3f9-964d-4516-b9ac-cd3086d73610",
-"Name": "public avatar 保管庫"
-},
-{
-"ID": "wrld_24009ebc-87e4-40a0-ad24-bc11cb3c0cf4",
-"Name": "Himiko Avatar World"
-},
-{
-"ID": "wrld_81d20c20-16f2-4b96-b5ba-8ab415e38e2b",
-"Name": "Cil's avi world"
-},
-{
-"ID": "wrld_2dee8e5f-1bda-4a31-a90d-fa29a2f08ef5",
-"Name": "The Akademiya （Avatar World）"
-},
-{
-"ID": "wrld_3fa149a0-20ee-417c-a3c3-b9fa04758cb7",
-"Name": "mio3io Avatar World"
-},
-{
-"ID": "wrld_57514404-7f4e-4aee-a50a-57f55d3084bf",
-"Name": "Prismic's Avatar Search"
-}
-]
-},
-{
-"Category": "版権 (再現)",
-"Worlds": [
-{
-"ID": "wrld_793b4b69-31c6-4061-a67c-aae3da130b0f",
-"Name": "Golden Wasteland"
-},
-{
-"ID": "wrld_9ba0c103-959f-4b1f-af71-d7cb72451c1d",
-"Name": "Sky Cafe"
-},
-{
-"ID": "wrld_4aaedbad-8d02-4163-bbe1-268a52ec5432",
-"Name": "Emerald Valley"
-},
-{
-"ID": "wrld_f2b8a64b-36c2-4645-8cfb-9a63a463890a",
-"Name": "Mondstadt City V1․4（Genshin RP）"
-},
-{
-"ID": "wrld_42c4f9cb-ff3b-435a-9000-9c1fc914aa8d",
-"Name": "Mondstadt City Night（Genshin RP）"
-},
-{
-"ID": "wrld_fa8795da-0429-4ce3-a242-851406ce65d2",
-"Name": "Winter Mondstadt City"
-},
-{
-"ID": "wrld_ffea6ab4-bb7b-49d5-84c1-0e0615934ab3",
-"Name": "ZZZ ｜ Zenless Zone Zero ｜ New Eridu City"
-},
-{
-"ID": "wrld_cd5ee400-79bc-433a-95da-6353611104dc",
-"Name": "ZZZ ｜ Zenless Zone Zero ｜ Reverb Arena"
-},
-{
-"ID": "wrld_81e0394f-4eaa-47b7-bcbe-7068b6fad51a",
-"Name": "ZZZ ｜ Zenless Zone Zero ｜ H․A․N․D Headquarters"
-},
-{
-"ID": "wrld_6a5f5dfd-6146-4d18-b2ac-8bc2193c365c",
-"Name": "Fallen Down"
-},
-{
-"ID": "wrld_d22ca932-a4dd-424c-a733-97d1cfb15a52",
-"Name": "Undernet HUB"
-},
-{
-"ID": "wrld_9699fdf9-6ec1-4116-b5bc-a45773dd0142",
-"Name": "Undertale Demo ≺v0․322≻"
-},
-{
-"ID": "wrld_6c395008-4a94-49c2-93f8-f2ed65a54e8d",
-"Name": "R․E․P․O․ VRC"
-},
-{
-"ID": "wrld_c5586ae4-0a47-470f-989e-5f6e2bb1ad18",
-"Name": "Room 312 （Silent Hill 2 Remake）"
-},
-{
-"ID": "wrld_477f8668-dee3-40e6-9215-a5f3a84f469e",
-"Name": "Power Starsǃ - パワースター"
-},
-{
-"ID": "wrld_80571f6e-75e8-44d9-a93c-a36e9366e5ad",
-"Name": "Power Stars 2ǃ - パワースター2"
-},
-{
-"ID": "wrld_17af1557-e78c-497b-b1a1-707978a0bb41",
-"Name": "Mario's Pipe House - Super Mario RPG Remake"
-},
-{
-"ID": "wrld_d2c3aa32-46b1-4525-8ba3-8498649c226a",
-"Name": "Waddle Dee Town"
-},
-{
-"ID": "wrld_3e5922dd-48b7-4824-9462-3146591961db",
-"Name": "Oliver's Home - Ni No Kuni˸ Wrath of the White Witch"
-},
-{
-"ID": "wrld_0389e969-28b0-449b-93d3-a2e7704c0a11",
-"Name": "Evermore Throne - Ni No Kuni II"
-},
-{
-"ID": "wrld_d64ecf25-aae8-42e7-a2ce-b62dcaa5185e",
-"Name": "Realm of the Giants"
-},
-{
-"ID": "wrld_58296ffd-2dd0-4cf3-8090-9fa5d5649533",
-"Name": "The Camelot Castle"
-},
-{
-"ID": "wrld_5c9de902-a669-42bc-8527-a427dfe3ae0c",
-"Name": "Ever After"
-},
-{
-"ID": "wrld_10b90f10-f8c1-43a7-a77a-807d00674d18",
-"Name": "Entertainment District - Demon Slayer˸ -KNY- HC"
-},
-{
-"ID": "wrld_79d042e7-fdf8-463e-be04-ba2eab4a4b1d",
-"Name": "Resident Evil 8 - Dimitrescu Main Hall"
-},
-{
-"ID": "wrld_417a3c87-6318-4239-96c7-110b08aefbc2",
-"Name": "Cherry Grove"
-},
-{
-"ID": "wrld_01b62965-1b3c-4062-bc22-0b339b8063ca",
-"Name": "VRCraft"
-},
-{
-"ID": "wrld_ba8a8f93-a3fa-45fe-aa78-134e6176d4d4",
-"Name": "Survival Games - Breeze Island"
-},
-{
-"ID": "wrld_12ff52aa-71d8-44d1-a4f9-9926932338c9",
-"Name": "Underpass - Wind Breaker"
-},
-{
-"ID": "wrld_f958a0e4-9941-488b-a2cc-f2ad791d3cf2",
-"Name": "My Neighbor Totoro"
+"ID": "wrld_9684787e-fb70-46ea-874c-545a116430cf",
+"Name": "SugarLove～ドキドキ相性診断～ ver․2"
 }
 ]
 }
