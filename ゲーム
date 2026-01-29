@@ -131,10 +131,6 @@
 "Name": "ぼくのかんがえたさいきょうのひっさつわざǃǃ"
 },
 {
-"ID": "wrld_b682ac61-4f74-4e29-8ed1-28b4d884c3c9",
-"Name": "音楽を聴きながらボドゲする部屋"
-},
-{
 "ID": "wrld_e10b7e73-0cf9-40ac-a97a-30c1eaaf62fd",
 "Name": "NGワード＆名付けてドン！"
 }
@@ -418,6 +414,18 @@
 "Name": "おもしろことばあそびげーむ"
 },
 {
+"ID": "wrld_b3a73b43-a0e5-4835-91f1-2dfd75a11fcc",
+"Name": "Just 100の質問"
+},
+{
+"ID": "wrld_00a70834-924e-4688-a67c-e7995b8dc5e2",
+"Name": "おしゃべりダイス⁄Chatty DICE ［JP EN］"
+},
+{
+"ID": "wrld_2af41004-6617-406f-abf9-fb80de65b804",
+"Name": "あなたの人生を語る部屋"
+},
+{
 "ID": "wrld_f4f78007-e75d-4228-9320-ea304237553b",
 "Name": "キャンユースピークイングリッシュ？"
 },
@@ -439,8 +447,120 @@
 "Name": "8番マグロ2"
 },
 {
+"ID": "wrld_8b156087-f69f-416e-9d80-5740effd6d0b",
+"Name": "8番マグロTHE・HORROR"
+},
+{
 "ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
 "Name": "Phantom Boat"
+},
+{
+"ID": "wrld_76eff8ae-2107-4851-9e04-2b0281fd9800",
+"Name": "The backrooms"
+},
+{
+"ID": "wrld_c6c13d38-b98e-4712-8c28-013c0d1f098e",
+"Name": "Tenebrous （Legacy）"
+},
+{
+"ID": "wrld_78df3703-964e-41ad-8627-a2aebe3e1a7d",
+"Name": "Tenebrous II （Legacy）"
+},
+{
+"ID": "wrld_e3708472-f5e6-41ca-a2ea-19a6498cd445",
+"Name": "Tenebrous III"
+},
+{
+"ID": "wrld_30b96d07-746c-406f-8127-8d655bce5c00",
+"Name": "Floor 10"
+},
+{
+"ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
+"Name": "Milya［paradox］"
+},
+{
+"ID": "wrld_4b35a539-ec36-4206-9d9e-e9abcf5cb071",
+"Name": "Just ホラーハウス - Just Horror House"
+},
+{
+"ID": "wrld_bfeb8131-6324-4950-80bf-9fbb2c7cad43",
+"Name": "Butter Of Terror"
+},
+{
+"ID": "wrld_fe107196-bf7f-4dfb-bd7f-54b226d233f6",
+"Name": "Wait"
+},
+{
+"ID": "wrld_8061fc5a-d3a4-4b94-9df9-4f81cd6120ba",
+"Name": "Wait Again"
+},
+{
+"ID": "wrld_62f43e6a-f6eb-4425-9249-eff4c25f2353",
+"Name": "The Ocean"
+},
+{
+"ID": "wrld_158fc489-72c1-450e-bcc1-d43a8ad7ae14",
+"Name": "みんなで応援！楽しいホラー"
+},
+{
+"ID": "wrld_24e4e1b6-6fed-45ce-84f5-a6f9891eb75b",
+"Name": "ホラワトレーニング ～Horror World Training～"
+},
+{
+"ID": "wrld_4c74908a-d68f-4401-af1b-2db9ecfd396c",
+"Name": "繧™繧ケ繧帙Λ繝ショキング??"
+},
+{
+"ID": "wrld_f2c05f0b-d820-4545-864d-f41152e0c8c2",
+"Name": "School Night"
+},
+{
+"ID": "wrld_8b77dcd3-5738-4fbf-a7f1-c51c9b771f4f",
+"Name": "Tent Of Terror"
+},
+{
+"ID": "wrld_1009d559-bf8e-4e0d-b967-a0d90bc47427",
+"Name": "Lost Backrooms"
+},
+{
+"ID": "wrld_7e4210ce-c470-458d-85fa-2f85b641d42d",
+"Name": "The Forgotten Gallery -忘れられた画廊"
+},
+{
+"ID": "wrld_4504bf40-404b-4240-92c9-857fb8d9c8e2",
+"Name": "［JPT］ Develop ver․"
+},
+{
+"ID": "wrld_fe130422-0782-435f-9dde-f87eee1d9ca6",
+"Name": "The Nestled Glade"
+},
+{
+"ID": "wrld_6d481577-dc5b-4f3e-8716-496cd89e1232",
+"Name": "The Fifth Post˸horror"
+},
+{
+"ID": "wrld_3a4277c3-37dc-4200-ab9c-f26cf696ba04",
+"Name": "Liminal space adventure"
+},
+{
+"ID": "wrld_0ad12f37-f7d2-4c3e-8d09-219cfe9292e8",
+"Name": "We're On Observation Duty"
+},
+{
+"ID": "wrld_4d3ed6cf-714c-43e6-b712-063e580954d0",
+"Name": "VrChat PT"
+},
+{
+"ID": "wrld_8364cbd6-819b-4737-acc3-6279e07cf0f6",
+"Name": "The Tenth Floor"
+},
+{
+"ID": "wrld_ea1c31e8-e2b2-40a4-b994-21012a8e0421",
+"Name": "［HORROR］回廊 ⁄ She is in the Hallway ［JP⁄EN］"
+},
+{
+"ID": "wrld_43ae60c3-f951-4868-92af-d9a016e36dd4",
+"Name": "青い、青い空-Sky Blue Sky ＃SCP-8900"
 }
 ]
 },
@@ -480,6 +600,10 @@
 "Name": "オトだけのセカイ～SoundOnlyWorld～"
 },
 {
+"ID": "wrld_88c5bb1e-29e4-4db3-b5bd-dad9f1da9b75",
+"Name": "Once upon a time"
+},
+{
 "ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
 "Name": "Idle Home"
 },
@@ -494,6 +618,18 @@
 {
 "ID": "wrld_8c60c871-3a1a-4b93-90a5-38ad48c21f2f",
 "Name": "JUST 心理戦じゃんけん"
+},
+{
+"ID": "wrld_544e7879-d870-42a2-9c7a-99eb95a8e62f",
+"Name": "NeoWorlds"
+},
+{
+"ID": "wrld_679d9eee-f764-4849-810c-420a55199a4c",
+"Name": "美少女ゲームツクール2020 HD版 ADV-Maker 2020 HD Edition"
+},
+{
+"ID": "wrld_620022fb-c8b2-4329-9117-7888f7473ab6",
+"Name": "【I․C․】Subconscious Test"
 },
 {
 "ID": "wrld_9684787e-fb70-46ea-874c-545a116430cf",
