@@ -666,10 +666,6 @@
 "Category": "テスト",
 "Worlds": [
 {
-"ID": "wrld_25a5621f-9e29-4276-9b63-67cf3f07961e",
-"Name": "ハイエナ Street"
-},
-{
 "ID": "wrld_8e232cf9-4c00-4e43-ab21-f203c29175bd",
 "Name": "Constellations Dream"
 },
@@ -692,10 +688,6 @@
 {
 "ID": "wrld_04b59c57-cff2-40b1-b04d-fee8272643cc",
 "Name": "WarakiriSystem Demo"
-},
-{
-"ID": "wrld_fb5cacc0-2f4c-4220-8c84-30cb3ebbe378",
-"Name": "高架下サクラ通り -SAKURA Street-"
 },
 {
 "ID": "wrld_978ba0a6-0a08-4968-9dfe-a5d63e820d88",
@@ -756,10 +748,6 @@
 {
 "ID": "wrld_ef82e73d-e399-4f3c-9cb6-02bc01d613e5",
 "Name": "Skydiving to Dubai"
-},
-{
-"ID": "wrld_582a1c72-6b3d-4187-bf74-a9ec0711090f",
-"Name": "Fantasy City"
 },
 {
 "ID": "wrld_4809ff13-2c72-4cad-bcf5-147c1b6e6db1",
