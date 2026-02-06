@@ -661,6 +661,267 @@
 "Name": "ARONA"
 }
 ]
+},
+{
+"Category": "テスト",
+"Worlds": [
+{
+"ID": "wrld_25a5621f-9e29-4276-9b63-67cf3f07961e",
+"Name": "ハイエナ Street"
+},
+{
+"ID": "wrld_cea1becb-bdd9-4d28-924f-d6a7d30c90e5",
+"Name": "一晩人狼 - a Night Werewolf"
+},
+{
+"ID": "wrld_619689be-e9f3-4df6-992f-bb7e7b4b4a8f",
+"Name": "Geo Guesser Japan"
+},
+{
+"ID": "wrld_c056bb1a-e385-4db6-9b7b-74babe6c3662",
+"Name": "ENOCHLOPHOBIA - Killer in the Crowd"
+},
+{
+"ID": "wrld_2bed7b65-7b9d-43e8-8ef1-2ce3f02c42d6",
+"Name": "ケモノ調査団～けもの島と2つの秘薬～"
+},
+{
+"ID": "wrld_8e232cf9-4c00-4e43-ab21-f203c29175bd",
+"Name": "Constellations Dream"
+},
+{
+"ID": "wrld_314d777e-afee-4f54-8394-72751c487d78",
+"Name": "きくら荘-KikuraApartment-"
+},
+{
+"ID": "wrld_2a61c1fa-3e17-4571-b78e-0d14ad705694",
+"Name": "Fireworks"
+},
+{
+"ID": "wrld_5e205814-4335-4d45-8fdf-e8823841105d",
+"Name": "縁りて此ノ葉は紅に"
+},
+{
+"ID": "wrld_a062f554-88a4-4275-8301-21b262e99ab0",
+"Name": "Cube - Escape or Die"
+},
+{
+"ID": "wrld_e0de567e-368f-4f0b-96d1-be3b0ea9ac58",
+"Name": "料理を運ぶゲーム - Carry Food -"
+},
+{
+"ID": "wrld_ca842152-4af9-4146-88f9-b91f2b3c5ea8",
+"Name": "Ad Shooting"
+},
+{
+"ID": "wrld_f2f8c0a8-1faa-4d8e-ab09-9558e062527e",
+"Name": "パぺットジェスチャーゲーム ⁄ Puppet Gesture Game"
+},
+{
+"ID": "wrld_ec61ee57-7ffa-47c9-9080-791791171ade",
+"Name": "［Udon game］ Tomatinaǃ"
+},
+{
+"ID": "wrld_3ef724d3-7c0b-4e49-88f0-3d243b273e14",
+"Name": "Mighty Gym Racquet Club"
+},
+{
+"ID": "wrld_20497ff2-d372-4afe-a485-5430dabe039d",
+"Name": "Pizzeria Tycoon"
+},
+{
+"ID": "wrld_b5c0d681-a053-4088-b5fa-264f054573cc",
+"Name": "マーダーミステリー 豆腐喫茶殺人事件"
+},
+{
+"ID": "wrld_514faf0c-7309-46f1-a585-497965860595",
+"Name": "To Seek The Sun"
+},
+{
+"ID": "wrld_5284599c-4780-45f4-bc85-2dfa496e76c9",
+"Name": "日本家屋ーNostalgic Japanese Homeー"
+},
+{
+"ID": "wrld_c228a732-4b7d-4d15-b9e2-99b4b594e719",
+"Name": "Rusk Run β"
+},
+{
+"ID": "wrld_0e0f81ba-833e-4abb-a4c6-ec3c4fd0f11d",
+"Name": "掘りほりほりっく（DigDig Holic）"
+},
+{
+"ID": "wrld_04b59c57-cff2-40b1-b04d-fee8272643cc",
+"Name": "WarakiriSystem Demo"
+},
+{
+"ID": "wrld_fb5cacc0-2f4c-4220-8c84-30cb3ebbe378",
+"Name": "高架下サクラ通り -SAKURA Street-"
+},
+{
+"ID": "wrld_c81a7387-ae0a-4056-824b-9592d07bbe20",
+"Name": "［PvP］ CombatShootingTDM"
+},
+{
+"ID": "wrld_978ba0a6-0a08-4968-9dfe-a5d63e820d88",
+"Name": "温船に身を湯だねて"
+},
+{
+"ID": "wrld_a8912308-d979-407e-b744-4a6a760ff86e",
+"Name": "Horse Mountain"
+},
+{
+"ID": "wrld_961eed50-47de-4cbf-8bc3-989fe9804f15",
+"Name": "Hanami Cafe 花見カフェ"
+},
+{
+"ID": "wrld_51b2484a-d7ec-48d5-9a39-7a7a9f72581d",
+"Name": "VRおでん屋台「月狼屋」"
+},
+{
+"ID": "wrld_81b13c40-d01c-4794-90e9-59f18759638f",
+"Name": "旅館「鏡花水月」"
+},
+{
+"ID": "wrld_7d886815-4cc5-4f44-8adc-9a7e1774e6a6",
+"Name": "［1］バーチャルFOXヤタノ 探訪ワールドポータル集１"
+},
+{
+"ID": "wrld_ec462c59-525a-4d6d-b427-a52ec4ce3fba",
+"Name": "かいてきな地下生活"
+},
+{
+"ID": "wrld_70af066d-fbde-4955-8338-5ac145f0b1dd",
+"Name": "黎明"
+},
+{
+"ID": "wrld_7dcbfa24-9bef-4c8f-b0af-6a33bc5bf9c9",
+"Name": "無限の図書館 -Infinite Library-"
+},
+{
+"ID": "wrld_7ae6171a-4f26-461f-b727-19e60603c1aa",
+"Name": "バッティングステーション-BattingStation"
+},
+{
+"ID": "wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f",
+"Name": "Magic Freeze Tag"
+},
+{
+"ID": "wrld_d4426882-5369-433a-b278-d2dcf42314e7",
+"Name": "Uniǃ That's My Numberǃ⁄うにǃそれは私の数字だぜǃ"
+},
+{
+"ID": "wrld_7b01db21-f17b-4654-8a64-e9c2c7229d52",
+"Name": "Blocked"
+},
+{
+"ID": "wrld_a0ba92da-fbb3-446d-9c29-655cf172eccf",
+"Name": "麻雀をするためのチルワ"
+},
+{
+"ID": "wrld_0c5b4cd0-a2a6-49fd-8c42-4862062b3671",
+"Name": "rchs_"
+},
+{
+"ID": "wrld_ed8f59b8-580e-403f-a38a-e30b59b93e97",
+"Name": "夏の面影 -Im Okey-"
+},
+{
+"ID": "wrld_85af4dd5-7ffc-498d-bd29-60fcbcda16dc",
+"Name": "place to eat cereal"
+},
+{
+"ID": "wrld_f17f6823-8ed9-4d8a-8e79-b022c2ab155b",
+"Name": "MoonuRoom"
+},
+{
+"ID": "wrld_3b6006e9-14a4-4c75-9218-11e32f4e2426",
+"Name": "集い酒場 - Gather Tavern"
+},
+{
+"ID": "wrld_4eb3c996-1585-4fbf-90c6-a56858d9146d",
+"Name": "ケセドの海中の隠れ家 -CHESED's Underwater Hideout-"
+},
+{
+"ID": "wrld_d001ba87-dbbe-4c48-81b5-cdcba91da177",
+"Name": "ブロックゆー場 - Block YuuBa"
+},
+{
+"ID": "wrld_ef82e73d-e399-4f3c-9cb6-02bc01d613e5",
+"Name": "Skydiving to Dubai"
+},
+{
+"ID": "wrld_582a1c72-6b3d-4187-bf74-a9ec0711090f",
+"Name": "Fantasy City"
+},
+{
+"ID": "wrld_a80764db-c3ca-48ec-bdb4-2f017317688c",
+"Name": "Mcdonalds Finder"
+},
+{
+"ID": "wrld_4809ff13-2c72-4cad-bcf5-147c1b6e6db1",
+"Name": "きっと今日は晴れている"
+},
+{
+"ID": "wrld_b8ae42d2-6449-462e-a211-a665e9d82ce7",
+"Name": "The Sixth Station"
+},
+{
+"ID": "wrld_ac9b8b31-4d19-487f-9f4b-8c5487ca0be4",
+"Name": "VRC脳カベ"
+},
+{
+"ID": "wrld_ee44721c-d732-47db-863b-d91efe3dc9e3",
+"Name": "餅つきと凧揚げ 2026 Mochitsuki Takoage"
+},
+{
+"ID": "wrld_03e79a01-6d5c-4d56-a055-7e2adb79deda",
+"Name": "限定しりとり Gentei Shiritori"
+},
+{
+"ID": "wrld_24697c66-e4e1-40bf-bbbf-e44c9a0c83c6",
+"Name": "鰻重カフェ"
+},
+{
+"ID": "wrld_66431182-f46c-45c9-9c8e-ba7f47c10177",
+"Name": "VROOM VROOM DRIVE"
+},
+{
+"ID": "wrld_3b7c57d2-b974-437d-a26e-f8cd983a6013",
+"Name": "Rally Snowland"
+},
+{
+"ID": "wrld_cacfe6b1-b2c1-40d0-8566-8edd4d96e9fd",
+"Name": "Udon Bird Sanctuary"
+},
+{
+"ID": "wrld_ccd417cb-d16e-43be-8d24-181f3c4d29bf",
+"Name": "レトロな晩しゃく部屋「ああ人生ろくなもんじゃない」"
+},
+{
+"ID": "wrld_20bfc007-852a-42df-acd3-0d4caeae368f",
+"Name": "謎解き 絶対にボタンを押させたくないネコチャン"
+},
+{
+"ID": "wrld_0507cbe1-cd2e-4a0f-9803-2a092926572c",
+"Name": "Snowy Romance"
+},
+{
+"ID": "wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a",
+"Name": "Overseer"
+},
+{
+"ID": "wrld_9dab45f5-ed75-4a7b-ba59-6830c1fc940b",
+"Name": "あなたは多数派？少数派？"
+},
+{
+"ID": "wrld_3b1ed49c-9c3a-4390-b4fc-a7fb540c7f52",
+"Name": "ムル番出口"
+},
+{
+"ID": "wrld_1608f29f-0af3-432d-ac44-baa103690fe9",
+"Name": "Fragment flow"
+}
+]
 }
 ]
 }
