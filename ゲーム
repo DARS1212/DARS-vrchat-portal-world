@@ -6,8 +6,16 @@
 "Category": "パーティーゲーム",
 "Worlds": [
 {
+"ID": "wrld_b2c574c6-9a6e-4bcc-b74e-1284070c324f",
+"Name": "Magic Freeze Tag"
+},
+{
 "ID": "wrld_df2776a3-8c84-45e3-bbf1-30ac8422911b",
 "Name": "Kitchen Cooksǃ"
+},
+{
+"ID": "wrld_e0de567e-368f-4f0b-96d1-be3b0ea9ac58",
+"Name": "料理を運ぶゲーム - Carry Food -"
 },
 {
 "ID": "wrld_e13524a6-ee7f-4dfc-8928-44526d6ef70c",
@@ -24,6 +32,10 @@
 {
 "ID": "wrld_97a05df7-86de-4bf4-bd26-24dacedd50ce",
 "Name": "Trash Compactor"
+},
+{
+"ID": "wrld_c4cb4e91-8d34-467f-873d-bbe72b92d21a",
+"Name": "Overseer"
 },
 {
 "ID": "wrld_d5658267-c965-4dbf-b58f-6f50104e9f24",
@@ -79,6 +91,10 @@
 "Name": "花札が遊べる教室"
 },
 {
+"ID": "wrld_d4426882-5369-433a-b278-d2dcf42314e7",
+"Name": "Uniǃ That's My Numberǃ⁄うにǃそれは私の数字だぜǃ"
+},
+{
 "ID": "wrld_9898922f-9b89-47ce-b9f3-e47f1bc79560",
 "Name": "財宝シーカー - Treasure Seeker"
 },
@@ -131,6 +147,10 @@
 "Name": "ぼくのかんがえたさいきょうのひっさつわざǃǃ"
 },
 {
+"ID": "wrld_2bed7b65-7b9d-43e8-8ef1-2ce3f02c42d6",
+"Name": "ケモノ調査団～けもの島と2つの秘薬～"
+},
+{
 "ID": "wrld_e10b7e73-0cf9-40ac-a97a-30c1eaaf62fd",
 "Name": "NGワード＆名付けてドン！"
 }
@@ -150,6 +170,10 @@
 {
 "ID": "wrld_858dfdfc-1b48-4e1e-8a43-f0edc611e5fe",
 "Name": "Murder 4"
+},
+{
+"ID": "wrld_cea1becb-bdd9-4d28-924f-d6a7d30c90e5",
+"Name": "一晩人狼 - a Night Werewolf"
 },
 {
 "ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
@@ -195,6 +219,18 @@
 {
 "ID": "wrld_38c1cdc9-10e7-4b49-adee-a63a9ea9aaf2",
 "Name": "Nom Nom Hole"
+},
+{
+"ID": "wrld_514faf0c-7309-46f1-a585-497965860595",
+"Name": "To Seek The Sun"
+},
+{
+"ID": "wrld_c228a732-4b7d-4d15-b9e2-99b4b594e719",
+"Name": "Rusk Run β"
+},
+{
+"ID": "wrld_d001ba87-dbbe-4c48-81b5-cdcba91da177",
+"Name": "ブロックゆー場 - Block YuuBa"
 },
 {
 "ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
@@ -250,6 +286,18 @@
 "Name": "Barrage TD"
 },
 {
+"ID": "wrld_ca842152-4af9-4146-88f9-b91f2b3c5ea8",
+"Name": "Ad Shooting"
+},
+{
+"ID": "wrld_ec61ee57-7ffa-47c9-9080-791791171ade",
+"Name": "［Udon game］ Tomatinaǃ"
+},
+{
+"ID": "wrld_c81a7387-ae0a-4056-824b-9592d07bbe20",
+"Name": "［PvP］ CombatShootingTDM"
+},
+{
 "ID": "wrld_7954bf74-a725-491d-83a6-6e264f7da818",
 "Name": "BABELǃ"
 }
@@ -263,12 +311,24 @@
 "Name": "Super VR Ball"
 },
 {
+"ID": "wrld_3b7c57d2-b974-437d-a26e-f8cd983a6013",
+"Name": "Rally Snowland"
+},
+{
 "ID": "wrld_ecf709f6-b656-45fe-b29c-aa67e243235c",
 "Name": "CottonFox Billiards"
 },
 {
 "ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464",
 "Name": "Archery Time Trial"
+},
+{
+"ID": "wrld_3ef724d3-7c0b-4e49-88f0-3d243b273e14",
+"Name": "Mighty Gym Racquet Club"
+},
+{
+"ID": "wrld_7ae6171a-4f26-461f-b727-19e60603c1aa",
+"Name": "バッティングステーション-BattingStation"
 },
 {
 "ID": "wrld_c2929426-538e-4fd7-ba3d-cfecab219f1e",
@@ -284,12 +344,20 @@
 "Name": "脱出ゲーム「仮想牢獄からの脱出」"
 },
 {
+"ID": "wrld_b5c0d681-a053-4088-b5fa-264f054573cc",
+"Name": "マーダーミステリー 豆腐喫茶殺人事件"
+},
+{
 "ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
 "Name": "Melon ＆ Chill Suika Game"
 },
 {
 "ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
 "Name": "Anomaly Detection"
+},
+{
+"ID": "wrld_3b1ed49c-9c3a-4390-b4fc-a7fb540c7f52",
+"Name": "ムル番出口"
 },
 {
 "ID": "wrld_11b152ae-5413-48da-bcea-c3ab30fa8091",
@@ -304,8 +372,16 @@
 "Name": "JUST謎解き2［JUSTNazotoki2］⁄JP"
 },
 {
+"ID": "wrld_20bfc007-852a-42df-acd3-0d4caeae368f",
+"Name": "謎解き 絶対にボタンを押させたくないネコチャン"
+},
+{
 "ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
 "Name": "Time Motel"
+},
+{
+"ID": "wrld_7b01db21-f17b-4654-8a64-e9c2c7229d52",
+"Name": "Blocked"
 },
 {
 "ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
@@ -334,6 +410,10 @@
 {
 "ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
 "Name": "Vault of Horizons"
+},
+{
+"ID": "wrld_f2f8c0a8-1faa-4d8e-ab09-9558e062527e",
+"Name": "パぺットジェスチャーゲーム ⁄ Puppet Gesture Game"
 },
 {
 "ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
@@ -382,6 +462,10 @@
 "Name": "全知全能"
 },
 {
+"ID": "wrld_03e79a01-6d5c-4d56-a055-7e2adb79deda",
+"Name": "限定しりとり Gentei Shiritori"
+},
+{
 "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
 "Name": "CODENAMES 2023［JP］"
 },
@@ -396,6 +480,10 @@
 {
 "ID": "wrld_ad6e67b7-4ba4-4ac7-84fd-ae3e31067761",
 "Name": "お気持ちツイートバトル Okimochi Tweet Battle"
+},
+{
+"ID": "wrld_9dab45f5-ed75-4a7b-ba59-6830c1fc940b",
+"Name": "あなたは多数派？少数派？"
 },
 {
 "ID": "wrld_79e0100d-f0f9-498a-8976-e3fc8a70ca2a",
@@ -453,6 +541,10 @@
 {
 "ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
 "Name": "Phantom Boat"
+},
+{
+"ID": "wrld_c056bb1a-e385-4db6-9b7b-74babe6c3662",
+"Name": "ENOCHLOPHOBIA - Killer in the Crowd"
 },
 {
 "ID": "wrld_76eff8ae-2107-4851-9e04-2b0281fd9800",
@@ -576,8 +668,20 @@
 "Name": "Elite's RNG Land"
 },
 {
+"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+"Name": "Idle Home"
+},
+{
 "ID": "wrld_02c8ac42-7b6c-4dd1-8a3d-1d12d20cd148",
 "Name": "星降る丘に芽吹くは、忘れられし世界樹 -Forgotten Yggdrasil on the Starry Hill-"
+},
+{
+"ID": "wrld_20497ff2-d372-4afe-a485-5430dabe039d",
+"Name": "Pizzeria Tycoon"
+},
+{
+"ID": "wrld_0e0f81ba-833e-4abb-a4c6-ec3c4fd0f11d",
+"Name": "掘りほりほりっく（DigDig Holic）"
 },
 {
 "ID": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
@@ -604,8 +708,8 @@
 "Name": "Once upon a time"
 },
 {
-"ID": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
-"Name": "Idle Home"
+"ID": "wrld_ac9b8b31-4d19-487f-9f4b-8c5487ca0be4",
+"Name": "VRC脳カベ"
 },
 {
 "ID": "wrld_9d74f118-b1ae-4b2d-956e-e1ea32ca44e4",
@@ -630,6 +734,14 @@
 {
 "ID": "wrld_620022fb-c8b2-4329-9117-7888f7473ab6",
 "Name": "【I․C․】Subconscious Test"
+},
+{
+"ID": "wrld_619689be-e9f3-4df6-992f-bb7e7b4b4a8f",
+"Name": "Geo Guesser Japan"
+},
+{
+"ID": "wrld_a80764db-c3ca-48ec-bdb4-2f017317688c",
+"Name": "Mcdonalds Finder"
 },
 {
 "ID": "wrld_9684787e-fb70-46ea-874c-545a116430cf",
