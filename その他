@@ -42,6 +42,10 @@
 "Name": "Neuron"
 },
 {
+"ID": "wrld_7ff82a6a-be81-4e02-8dc5-4a4af815b1d1",
+"Name": "The Library Of Babel"
+},
+{
 "ID": "wrld_c55fe71d-3854-4734-8f3d-3a5757a111b4",
 "Name": "誰も知らない願いの墓標ーA gravestone for wishes no one knows aboutー"
 }
@@ -399,6 +403,10 @@
 {
 "ID": "wrld_3eb15001-3ff3-4d6d-abe1-83a79c815c3f",
 "Name": "柴犬を収穫するためだけのワールド"
+},
+{
+"ID": "wrld_3dd9347c-bf35-4f2d-9f85-4c337c3a1e14",
+"Name": "POLYGONIA FOREST OF AMESHINOGI"
 },
 {
 "ID": "wrld_bd3a0a4f-8074-4415-b49b-ffa24ef0fe05",
