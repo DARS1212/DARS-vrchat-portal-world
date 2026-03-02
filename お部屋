@@ -358,6 +358,66 @@
 "Name": "麻雀をするためのチルワ"
 },
 {
+"ID": "wrld_a40b69f3-71c0-422c-86d6-d52aec844280",
+"Name": "Runaway"
+},
+{
+"ID": "wrld_6df0e700-1bc8-4482-97d1-42bd4e591350",
+"Name": "Buffering․"
+},
+{
+"ID": "wrld_1d79e838-3990-4010-bfd8-9dacd1152506",
+"Name": "Neblina"
+},
+{
+"ID": "wrld_d068bbdb-a908-4c91-857c-d11ec6c9fbb8",
+"Name": "東北訛りが分からないと入れない部屋"
+},
+{
+"ID": "wrld_a3553640-d2f9-4d6f-b914-3ab4b7571775",
+"Name": "薄明の部屋"
+},
+{
+"ID": "wrld_7fc7ed1b-a643-4d23-a985-addad43a7f44",
+"Name": "Sweet Aquarium"
+},
+{
+"ID": "wrld_9e5fcbb7-adb1-45e5-83e0-cf03aa5af5a1",
+"Name": "Therapy"
+},
+{
+"ID": "wrld_5bd8a24f-f97b-4a95-9411-03334220a746",
+"Name": "ルルネちゃんと添い寝できるワールド"
+},
+{
+"ID": "wrld_0d7ed73c-07b6-47ca-84a2-ab12e68c1da5",
+"Name": "海底の隠れ家"
+},
+{
+"ID": "wrld_971b4591-c0ae-4022-9e16-35ba36191fcd",
+"Name": "和風宴会場～木魂～"
+},
+{
+"ID": "wrld_ae560563-f46b-42d0-8e39-257e49ae8c9c",
+"Name": "Glass Cube"
+},
+{
+"ID": "wrld_54d18e13-7d86-4da2-af9b-cc73b92a9247",
+"Name": "Awful's Hideout"
+},
+{
+"ID": "wrld_b9045178-fdba-40df-b1c8-caafa3a1aac2",
+"Name": "Easel"
+},
+{
+"ID": "wrld_72eab5ef-2473-4649-bc13-bf118f8904e0",
+"Name": "ほしあかりの部屋 -A Cozy Night Room-"
+},
+{
+"ID": "wrld_5cd4f51c-f39b-4de3-8b23-ae2f07523c71",
+"Name": "木灯りの部屋"
+},
+{
 "ID": "wrld_b99558e0-98e3-4c44-bf8d-545f13bc3db9",
 "Name": "Kuluの家"
 }
@@ -521,6 +581,18 @@
 {
 "ID": "wrld_f17f6823-8ed9-4d8a-8e79-b022c2ab155b",
 "Name": "MoonuRoom"
+},
+{
+"ID": "wrld_eb6d6308-9f27-4967-8d35-e18c8cde4327",
+"Name": "Stardust"
+},
+{
+"ID": "wrld_dd146b02-948b-4da1-b181-618792ff25b9",
+"Name": "しよ温泉宿ShiyoOnsen"
+},
+{
+"ID": "wrld_1b1be7f6-8f9c-4bbf-994b-b3a5edc63bbc",
+"Name": "Afterglow"
 },
 {
 "ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
@@ -729,6 +801,10 @@
 "Name": "After-school classroom （include playable guitar and more）"
 },
 {
+"ID": "wrld_8a4a128d-32df-4a45-8ac6-cd34486aa5d3",
+"Name": "わんおんわん - 1on1"
+},
+{
 "ID": "wrld_1f92d98e-1c3a-469f-a9d1-1c7257c75c35",
 "Name": "僕たちの秘密基地"
 }
@@ -792,6 +868,14 @@
 {
 "ID": "wrld_a269d7c3-289e-4dfc-8e7e-0b45e6c985b2",
 "Name": "Never Alone"
+},
+{
+"ID": "wrld_bd6a97db-b46b-415e-a898-36610c754465",
+"Name": "朽ちる散る落ちる - Chill World"
+},
+{
+"ID": "wrld_779288dd-d9e2-45f8-8d48-4591e7c8dd3b",
+"Name": "Containment"
 },
 {
 "ID": "wrld_6f465c47-17c8-4eb2-8fa5-ec18e68a645e",
