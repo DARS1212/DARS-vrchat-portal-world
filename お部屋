@@ -274,10 +274,6 @@
 "Name": "draft"
 },
 {
-"ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
-"Name": "本能寺【和風チルワ】"
-},
-{
 "ID": "wrld_81217ec8-2a0e-4e0b-870c-ef2a8c218c14",
 "Name": "Luxury Condo"
 },
@@ -394,10 +390,6 @@
 "Name": "海底の隠れ家"
 },
 {
-"ID": "wrld_971b4591-c0ae-4022-9e16-35ba36191fcd",
-"Name": "和風宴会場～木魂～"
-},
-{
 "ID": "wrld_ae560563-f46b-42d0-8e39-257e49ae8c9c",
 "Name": "Glass Cube"
 },
@@ -416,10 +408,6 @@
 {
 "ID": "wrld_5cd4f51c-f39b-4de3-8b23-ae2f07523c71",
 "Name": "木灯りの部屋"
-},
-{
-"ID": "wrld_b99558e0-98e3-4c44-bf8d-545f13bc3db9",
-"Name": "Kuluの家"
 }
 ]
 },
@@ -433,10 +421,6 @@
 {
 "ID": "wrld_bd515bf9-77b8-46f0-8975-362f79fe0e71",
 "Name": "Bubble"
-},
-{
-"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
-"Name": "舟屋 Boathouse"
 },
 {
 "ID": "wrld_f4791153-7018-4311-98e2-1330de8c9eed",
@@ -547,18 +531,6 @@
 "Name": "お餅が焼けるチルワ"
 },
 {
-"ID": "wrld_861f932e-cc8e-4c9f-8a87-94dbd3a852e5",
-"Name": "和風ドス本家"
-},
-{
-"ID": "wrld_bce23d07-7e19-4018-8652-34fa30b7308b",
-"Name": "Kitsunebi Teahouse ˸˸˸ 狐火茶屋"
-},
-{
-"ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
-"Name": "紺瑠璃の間 -Azure Blue Rooms-"
-},
-{
 "ID": "wrld_3c7fc4f1-7768-4ae9-af1c-a5effeed3462",
 "Name": "空室"
 },
@@ -573,10 +545,6 @@
 {
 "ID": "wrld_8e232cf9-4c00-4e43-ab21-f203c29175bd",
 "Name": "Constellations Dream"
-},
-{
-"ID": "wrld_5e205814-4335-4d45-8fdf-e8823841105d",
-"Name": "縁りて此ノ葉は紅に"
 },
 {
 "ID": "wrld_f17f6823-8ed9-4d8a-8e79-b022c2ab155b",
@@ -618,26 +586,6 @@
 {
 "ID": "wrld_044ff475-5250-4bd7-a853-13dedce19d55",
 "Name": "Library"
-},
-{
-"ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
-"Name": "田村酒造場 Japanese sake brewery"
-},
-{
-"ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
-"Name": "別邸 天満月-villa amamitutuki-"
-},
-{
-"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
-"Name": "旅館「待宵」-inn matuyoi-"
-},
-{
-"ID": "wrld_81b13c40-d01c-4794-90e9-59f18759638f",
-"Name": "旅館「鏡花水月」"
-},
-{
-"ID": "wrld_b2029c0c-7d81-41a6-ad38-18d1807b7152",
-"Name": "BAROOM"
 },
 {
 "ID": "wrld_0cac12b7-dec7-422f-9195-f9fa1a4202fe",
@@ -738,10 +686,6 @@
 {
 "ID": "wrld_dacea014-c335-45fb-b24d-2b4050eedde7",
 "Name": "牧場Cafe ほしくさ"
-},
-{
-"ID": "wrld_72b985c7-9163-45db-900e-1f2892058c5b",
-"Name": "和風Bar＂幽霊花＂ ～Japanese Bar Ghost Flower＂～"
 },
 {
 "ID": "wrld_e28ba206-602f-4325-8c02-e0a848ed0b91",
