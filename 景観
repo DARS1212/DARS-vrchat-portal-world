@@ -82,18 +82,6 @@
 "Name": "夕方屋上から -Evening- 36․5m JAPANCITY SKYBOX"
 },
 {
-"ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
-"Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk"
-},
-{
-"ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
-"Name": "Kagaribi Onsen ［Cave］"
-},
-{
-"ID": "wrld_5d044df3-b4fc-4b0b-8946-a268b1b669cf",
-"Name": "朝日が昇る天空温泉 -SOLDAWN ONSEN-"
-},
-{
 "ID": "wrld_5b506685-3b4f-4702-b4c7-ba008dd2a1e5",
 "Name": "Trenches of Beaumont"
 },
@@ -247,10 +235,6 @@
 "Name": "The Oasis‚ Ancients Hide"
 },
 {
-"ID": "wrld_6adf67f2-9d0d-41bc-a087-04619c255bbc",
-"Name": "星今宵"
-},
-{
 "ID": "wrld_700cf786-0b95-4b5f-870f-0dc319ab1871",
 "Name": "Moonlit Forest"
 },
@@ -372,12 +356,93 @@
 "Name": "After Thought"
 },
 {
+"ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
+"Name": "Fantasy Airport 秘境、ルアフォートにて"
+}
+]
+},
+{
+"Category": "和風",
+"Worlds": [
+{
+"ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
+"Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk"
+},
+{
+"ID": "wrld_0c7205a6-23a0-43a6-b2c8-fb6b669700b9",
+"Name": "Kagaribi Onsen ［Cave］"
+},
+{
+"ID": "wrld_5d044df3-b4fc-4b0b-8946-a268b1b669cf",
+"Name": "朝日が昇る天空温泉 -SOLDAWN ONSEN-"
+},
+{
+"ID": "wrld_6adf67f2-9d0d-41bc-a087-04619c255bbc",
+"Name": "星今宵"
+},
+{
 "ID": "wrld_7632e2c9-38b7-4feb-9d42-abb85cf09985",
 "Name": "漣に揺蕩い ripple sway"
 },
 {
-"ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
-"Name": "Fantasy Airport 秘境、ルアフォートにて"
+"ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
+"Name": "本能寺【和風チルワ】"
+},
+{
+"ID": "wrld_971b4591-c0ae-4022-9e16-35ba36191fcd",
+"Name": "和風宴会場～木魂～"
+},
+{
+"ID": "wrld_b99558e0-98e3-4c44-bf8d-545f13bc3db9",
+"Name": "Kuluの家"
+},
+{
+"ID": "wrld_5c08cf16-924a-44a5-8a08-f54c64ecc502",
+"Name": "舟屋 Boathouse"
+},
+{
+"ID": "wrld_861f932e-cc8e-4c9f-8a87-94dbd3a852e5",
+"Name": "和風ドス本家"
+},
+{
+"ID": "wrld_bce23d07-7e19-4018-8652-34fa30b7308b",
+"Name": "Kitsunebi Teahouse ˸˸˸ 狐火茶屋"
+},
+{
+"ID": "wrld_1cbf68eb-c25f-4261-bc02-964bcd625373",
+"Name": "紺瑠璃の間 -Azure Blue Rooms-"
+},
+{
+"ID": "wrld_5e205814-4335-4d45-8fdf-e8823841105d",
+"Name": "縁りて此ノ葉は紅に"
+},
+{
+"ID": "wrld_0290c521-03ce-44c6-9614-999bce642e77",
+"Name": "田村酒造場 Japanese sake brewery"
+},
+{
+"ID": "wrld_2c8781f5-7bdb-45c5-8c44-46109bd36e06",
+"Name": "別邸 天満月-villa amamitutuki-"
+},
+{
+"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+"Name": "旅館「待宵」-inn matuyoi-"
+},
+{
+"ID": "wrld_81b13c40-d01c-4794-90e9-59f18759638f",
+"Name": "旅館「鏡花水月」"
+},
+{
+"ID": "wrld_b2029c0c-7d81-41a6-ad38-18d1807b7152",
+"Name": "BAROOM"
+},
+{
+"ID": "wrld_72b985c7-9163-45db-900e-1f2892058c5b",
+"Name": "和風Bar＂幽霊花＂ ～Japanese Bar Ghost Flower＂～"
+},
+{
+"ID": "wrld_2340af4d-fa69-417d-95ca-f95f33bd9a63",
+"Name": "落ちつかない和室"
 }
 ]
 }
