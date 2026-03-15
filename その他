@@ -127,6 +127,14 @@
 "Name": "VHS Video Player"
 },
 {
+"ID": "wrld_9b175603-8663-4b78-94d6-4782266089d2",
+"Name": "オウマガトキFILMの動画を見るためのワールド"
+},
+{
+"ID": "wrld_03c5abff-d90a-455d-ae29-45cceca54541",
+"Name": "ホラー動画を狂うほど見るチルワ"
+},
+{
 "ID": "wrld_9c297504-c289-44f1-95c4-30a70494c825",
 "Name": "ボカロがたくさん聴けるワールド"
 }
@@ -246,6 +254,10 @@
 {
 "ID": "wrld_d7c18ee5-af69-4e75-a087-745f94078b14",
 "Name": "お腹が空いたら領域展開"
+},
+{
+"ID": "wrld_d1fb2521-2a83-49a3-849a-47ed423a7dad",
+"Name": "VIPPON GRAND PRIX"
 },
 {
 "ID": "wrld_de1e25c0-e701-4ca2-826f-21b6509ecbd2",
@@ -447,6 +459,22 @@
 {
 "ID": "wrld_dfbecb47-7f43-4dbd-8192-3bb007748c46",
 "Name": "Happy Hill Dog Park"
+},
+{
+"ID": "wrld_56dcd7bb-bfcd-44ab-ba42-e037b2e8cefb",
+"Name": "The Ink Room"
+},
+{
+"ID": "wrld_d47fdad5-d307-439a-8cb7-380c52f8478f",
+"Name": "VirtualFrogTerrarium_StudioKeronchi"
+},
+{
+"ID": "wrld_2d81d966-9402-4ad8-8650-7b6d83ae9cf4",
+"Name": "アルマイトの達人"
+},
+{
+"ID": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
+"Name": "BOOTH Room"
 },
 {
 "ID": "wrld_bd3a0a4f-8074-4415-b49b-ffa24ef0fe05",
