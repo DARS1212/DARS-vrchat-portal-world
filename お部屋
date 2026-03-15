@@ -370,6 +370,30 @@
 "Name": "ほしあかりの部屋 -A Cozy Night Room-"
 },
 {
+"ID": "wrld_040bfe37-26a3-47db-9669-7cb06e76c0de",
+"Name": "夜間飛行～NightFlight～"
+},
+{
+"ID": "wrld_88340501-9427-4b6f-9894-023d79bd848d",
+"Name": "放置箱 -Just AFK-"
+},
+{
+"ID": "wrld_79d2b1b9-7ce9-4acb-bedf-696dfaa2cf07",
+"Name": "黄昏のベランダ ~Beyond the Window~"
+},
+{
+"ID": "wrld_1ad405a4-46ab-44d2-b550-fb30ba0fb631",
+"Name": "ceramic shelter ［somnus］"
+},
+{
+"ID": "wrld_1c2f5194-f4df-41c5-a1d6-41aecc29cfde",
+"Name": "Undertow"
+},
+{
+"ID": "wrld_5906f874-5bba-4f50-b1aa-4f376d1771f2",
+"Name": "BOOTH House"
+},
+{
 "ID": "wrld_5cd4f51c-f39b-4de3-8b23-ae2f07523c71",
 "Name": "木灯りの部屋"
 }
@@ -515,6 +539,10 @@
 "Name": "Afterglow"
 },
 {
+"ID": "wrld_28e96571-5447-4ce4-9b01-0a812da7426b",
+"Name": "坪倉家｜Tsubokura's Home"
+},
+{
 "ID": "wrld_ed4a3561-4498-4450-96ee-9b711f730586",
 "Name": "Seclusion"
 }
@@ -571,6 +599,10 @@
 {
 "ID": "wrld_1946f92a-1bcf-4947-8c4d-99d8f77a2dbb",
 "Name": "Sushi Aquarium 海洋棟"
+},
+{
+"ID": "wrld_49631f04-e908-4247-91a2-0e8e8a8acec2",
+"Name": "喰葉園 - Kuraba garden"
 },
 {
 "ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4",
