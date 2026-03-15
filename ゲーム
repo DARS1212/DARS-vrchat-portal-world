@@ -62,6 +62,22 @@
 "Name": "VRWare Quest"
 },
 {
+"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
+"Name": "Ghost Hunters"
+},
+{
+"ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
+"Name": "VRbomber"
+},
+{
+"ID": "wrld_53bc6709-3c1c-4ddf-a6d6-d6a40c78e86e",
+"Name": "Bomb Battle"
+},
+{
+"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
+"Name": "Harisen Champǃ ハリセンチャンプ！"
+},
+{
 "ID": "wrld_22a0207e-3dff-4b89-a107-4f7c3ecf069b",
 "Name": "ライフステージすごろく"
 }
@@ -221,22 +237,6 @@
 "Name": "空島の旅（Sky Island Journey）"
 },
 {
-"ID": "wrld_121f2171-7b3f-4caa-8ed1-efe831ea5085",
-"Name": "Ghost Hunters"
-},
-{
-"ID": "wrld_8e909dbd-c6a7-4c64-af16-818161a0eceb",
-"Name": "VRbomber"
-},
-{
-"ID": "wrld_53bc6709-3c1c-4ddf-a6d6-d6a40c78e86e",
-"Name": "Bomb Battle"
-},
-{
-"ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
-"Name": "Harisen Champǃ ハリセンチャンプ！"
-},
-{
 "ID": "wrld_2b690342-8aaa-41eb-81d9-4271a38f2283",
 "Name": "Ghost Bites You"
 },
@@ -376,30 +376,6 @@
 "Category": "パズル・謎解き",
 "Worlds": [
 {
-"ID": "wrld_e2bbfa76-854c-47db-9f68-03b826f3cbee",
-"Name": "脱出ゲーム「仮想牢獄からの脱出」"
-},
-{
-"ID": "wrld_b5c0d681-a053-4088-b5fa-264f054573cc",
-"Name": "マーダーミステリー 豆腐喫茶殺人事件"
-},
-{
-"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
-"Name": "Melon ＆ Chill Suika Game"
-},
-{
-"ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
-"Name": "Anomaly Detection"
-},
-{
-"ID": "wrld_3b1ed49c-9c3a-4390-b4fc-a7fb540c7f52",
-"Name": "ムル番出口"
-},
-{
-"ID": "wrld_11b152ae-5413-48da-bcea-c3ab30fa8091",
-"Name": "不思議な駐車場 Anomaly Parking"
-},
-{
 "ID": "wrld_12ffd772-bee0-492a-b570-3a9285cce32f",
 "Name": "JUST謎解き［JUSTNazotoki］⁄JP"
 },
@@ -412,56 +388,68 @@
 "Name": "謎解き 絶対にボタンを押させたくないネコチャン"
 },
 {
-"ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
-"Name": "Time Motel"
-},
-{
-"ID": "wrld_7b01db21-f17b-4654-8a64-e9c2c7229d52",
-"Name": "Blocked"
-},
-{
 "ID": "wrld_d5768b43-bbe6-4c4b-a6a3-42010a6c7144",
 "Name": "謎解きゲーム アンサーパネル"
-},
-{
-"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
-"Name": "JUSTETRIS"
-},
-{
-"ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
-"Name": "脱出ゲーム「無実の罪からの脱出」"
-},
-{
-"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
-"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
-},
-{
-"ID": "wrld_abdde73e-5d31-4802-aeb5-fcca8a94bc65",
-"Name": "ちょっと殺風景なクリスマス部屋からの脱出！！"
-},
-{
-"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
-"Name": "RINK SLIDER in VRChat"
-},
-{
-"ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
-"Name": "Vault of Horizons"
-},
-{
-"ID": "wrld_f2f8c0a8-1faa-4d8e-ab09-9558e062527e",
-"Name": "パぺットジェスチャーゲーム ⁄ Puppet Gesture Game"
-},
-{
-"ID": "wrld_7dcbfa24-9bef-4c8f-b0af-6a33bc5bf9c9",
-"Name": "無限の図書館 -Infinite Library-"
 },
 {
 "ID": "wrld_6d3be9ca-40ed-4685-b517-a90b6b6235a7",
 "Name": "謎解きワールド七不思議-怪事件クラスター-"
 },
 {
+"ID": "wrld_7b01db21-f17b-4654-8a64-e9c2c7229d52",
+"Name": "Blocked"
+},
+{
+"ID": "wrld_b5c0d681-a053-4088-b5fa-264f054573cc",
+"Name": "マーダーミステリー 豆腐喫茶殺人事件"
+},
+{
+"ID": "wrld_e2bbfa76-854c-47db-9f68-03b826f3cbee",
+"Name": "脱出ゲーム「仮想牢獄からの脱出」"
+},
+{
+"ID": "wrld_99939687-ab7d-448c-b42b-51ff2862b5d9",
+"Name": "脱出ゲーム「無実の罪からの脱出」"
+},
+{
+"ID": "wrld_abdde73e-5d31-4802-aeb5-fcca8a94bc65",
+"Name": "ちょっと殺風景なクリスマス部屋からの脱出！！"
+},
+{
+"ID": "wrld_56b0ddd6-ea3d-4acf-b110-e3f22961d553",
+"Name": "Time Motel"
+},
+{
+"ID": "wrld_7dcbfa24-9bef-4c8f-b0af-6a33bc5bf9c9",
+"Name": "無限の図書館 -Infinite Library-"
+},
+{
+"ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
+"Name": "Vault of Horizons"
+},
+{
+"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+"Name": "Melon ＆ Chill Suika Game"
+},
+{
+"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
+"Name": "JUSTETRIS"
+},
+{
+"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
+"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
+},
+{
 "ID": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
 "Name": "Comfy Puzzles - Jigsaw ＆ Chill"
+},
+{
+"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
+"Name": "RINK SLIDER in VRChat"
+},
+{
+"ID": "wrld_f2f8c0a8-1faa-4d8e-ab09-9558e062527e",
+"Name": "パぺットジェスチャーゲーム ⁄ Puppet Gesture Game"
 },
 {
 "ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
@@ -591,22 +579,6 @@
 "Category": "ホラー(雰囲気ホラー含む)",
 "Worlds": [
 {
-"ID": "wrld_7f92b9b6-f609-45f9-b0e1-483f2e2f8d80",
-"Name": "8番マグロ"
-},
-{
-"ID": "wrld_e277997f-1375-49f9-8c19-941897efa95c",
-"Name": "8番マグロ2"
-},
-{
-"ID": "wrld_8b156087-f69f-416e-9d80-5740effd6d0b",
-"Name": "8番マグロTHE・HORROR"
-},
-{
-"ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
-"Name": "Phantom Boat"
-},
-{
 "ID": "wrld_c056bb1a-e385-4db6-9b7b-74babe6c3662",
 "Name": "ENOCHLOPHOBIA - Killer in the Crowd"
 },
@@ -625,10 +597,6 @@
 {
 "ID": "wrld_e3708472-f5e6-41ca-a2ea-19a6498cd445",
 "Name": "Tenebrous III"
-},
-{
-"ID": "wrld_30b96d07-746c-406f-8127-8d655bce5c00",
-"Name": "Floor 10"
 },
 {
 "ID": "wrld_e7a7b516-2354-4bce-bbf0-6b71d657eff0",
@@ -719,16 +687,57 @@
 "Name": "あの日僕が見たものは・・？"
 },
 {
-"ID": "wrld_1d34c761-2543-4aca-a841-9052166ebe24",
-"Name": "第8区へ帰りましょう"
-},
-{
 "ID": "wrld_f48a4dbf-50ab-4dc3-9711-f63efbe821a5",
 "Name": "ほらーあのまりー"
 },
 {
 "ID": "wrld_43ae60c3-f951-4868-92af-d9a016e36dd4",
 "Name": "青い、青い空-Sky Blue Sky ＃SCP-8900"
+}
+]
+},
+{
+"Category": "８番出口",
+"Worlds": [
+{
+"ID": "wrld_7f92b9b6-f609-45f9-b0e1-483f2e2f8d80",
+"Name": "8番マグロ"
+},
+{
+"ID": "wrld_e277997f-1375-49f9-8c19-941897efa95c",
+"Name": "8番マグロ2"
+},
+{
+"ID": "wrld_8b156087-f69f-416e-9d80-5740effd6d0b",
+"Name": "8番マグロTHE・HORROR"
+},
+{
+"ID": "wrld_30b96d07-746c-406f-8127-8d655bce5c00",
+"Name": "Floor 10"
+},
+{
+"ID": "wrld_1d34c761-2543-4aca-a841-9052166ebe24",
+"Name": "第8区へ帰りましょう"
+},
+{
+"ID": "wrld_38f00bde-3ce0-44d1-872e-e4de37a89b5b",
+"Name": "Phantom Boat"
+},
+{
+"ID": "wrld_f93a90e8-2588-4f24-81e8-e2ccc40ed6db",
+"Name": "Anomaly Detection"
+},
+{
+"ID": "wrld_3b1ed49c-9c3a-4390-b4fc-a7fb540c7f52",
+"Name": "ムル番出口"
+},
+{
+"ID": "wrld_11b152ae-5413-48da-bcea-c3ab30fa8091",
+"Name": "不思議な駐車場 Anomaly Parking"
+},
+{
+"ID": "wrld_29d35561-c034-4917-89f0-2f0c39c4f79f",
+"Name": "8番地下通路 8 Exit Underground passage"
 }
 ]
 },
