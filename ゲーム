@@ -167,6 +167,10 @@
 "Name": "何か価値観を数字にして順番に並べれたら気持ちいいゲーム"
 },
 {
+"ID": "wrld_197a1666-ece5-4c3a-8d93-ce7b94d18f76",
+"Name": "VCube"
+},
+{
 "ID": "wrld_e10b7e73-0cf9-40ac-a97a-30c1eaaf62fd",
 "Name": "NGワード＆名付けてドン！"
 }
@@ -454,6 +458,10 @@
 {
 "ID": "wrld_6d3be9ca-40ed-4685-b517-a90b6b6235a7",
 "Name": "謎解きワールド七不思議-怪事件クラスター-"
+},
+{
+"ID": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
+"Name": "Comfy Puzzles - Jigsaw ＆ Chill"
 },
 {
 "ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
@@ -826,6 +834,10 @@
 {
 "ID": "wrld_39d972b3-82f3-4e11-85d2-6401b7ea2875",
 "Name": "Idle Carpet Washing"
+},
+{
+"ID": "wrld_b6ee240b-e68d-465f-bf59-dc6f4280a021",
+"Name": "Kingdom Scrolls v2"
 },
 {
 "ID": "wrld_9684787e-fb70-46ea-874c-545a116430cf",
