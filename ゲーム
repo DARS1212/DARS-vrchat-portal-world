@@ -1,3 +1,12 @@
+パズル
+謎解き
+お絵かき系
+トークゲーム
+ホラー
+８番出口系
+その他
+
+
 {
 "ReverseCategorys": false,
 "ShowPrivateWorld": false,
@@ -76,6 +85,10 @@
 {
 "ID": "wrld_7e5b5720-7a4e-4083-954e-d7c98c6c18b0",
 "Name": "Harisen Champǃ ハリセンチャンプ！"
+},
+{
+"ID": "wrld_93df33e0-9bd8-4639-bf2f-9263e11e37d6",
+"Name": "Killer Night"
 },
 {
 "ID": "wrld_22a0207e-3dff-4b89-a107-4f7c3ecf069b",
@@ -218,20 +231,16 @@
 {
 "ID": "wrld_e6f6d83c-416f-47bd-8f3a-149701d9790e",
 "Name": "Spy Check?ǃ"
+},
+{
+"ID": "wrld_5a79a009-3a62-4f68-ba25-b04a7d066f5e",
+"Name": "うんち人狼"
 }
 ]
 },
 {
 "Category": "アクション",
 "Worlds": [
-{
-"ID": "wrld_93df33e0-9bd8-4639-bf2f-9263e11e37d6",
-"Name": "Killer Night"
-},
-{
-"ID": "wrld_75fae49a-3f54-4811-ad23-de430d582b8f",
-"Name": "Draw Bridge VR"
-},
 {
 "ID": "wrld_1c37737f-fa3f-4867-b9bb-d5baf5d64a79",
 "Name": "空島の旅（Sky Island Journey）"
@@ -261,8 +270,16 @@
 "Name": "Cube - Escape or Die"
 },
 {
+"ID": "wrld_8be08902-6cb2-43f5-a978-b12d9310b26a",
+"Name": "Grapnel Gun Playground"
+},
+{
 "ID": "wrld_e08e5177-2a7f-49c9-8d60-c7a99ca257af",
 "Name": "Yeet Party v1․5․1"
+},
+{
+"ID": "wrld_83f6e694-2260-47d9-821a-51098de768f5",
+"Name": "Climb Scary MYA Tower"
 }
 ]
 },
@@ -272,10 +289,6 @@
 {
 "ID": "wrld_001c753e-8b81-4543-a938-3e1420134e89",
 "Name": "FPS Team Battle Simulator"
-},
-{
-"ID": "wrld_8be08902-6cb2-43f5-a978-b12d9310b26a",
-"Name": "Grapnel Gun Playground"
 },
 {
 "ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
@@ -351,6 +364,14 @@
 "Name": "Rally Snowland"
 },
 {
+"ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+"Name": "Jetski Rush"
+},
+{
+"ID": "wrld_7ef54852-7894-46e4-9935-7dacb78f81c5",
+"Name": "Jetski Islet"
+},
+{
 "ID": "wrld_ecf709f6-b656-45fe-b29c-aa67e243235c",
 "Name": "CottonFox Billiards"
 },
@@ -373,7 +394,40 @@
 ]
 },
 {
-"Category": "パズル・謎解き",
+"Category": "パズル",
+"Worlds": [
+{
+"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
+"Name": "Melon ＆ Chill Suika Game"
+},
+{
+"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
+"Name": "JUSTETRIS"
+},
+{
+"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
+"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
+},
+{
+"ID": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
+"Name": "Comfy Puzzles - Jigsaw ＆ Chill"
+},
+{
+"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
+"Name": "RINK SLIDER in VRChat"
+},
+{
+"ID": "wrld_f2f8c0a8-1faa-4d8e-ab09-9558e062527e",
+"Name": "パぺットジェスチャーゲーム ⁄ Puppet Gesture Game"
+},
+{
+"ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
+"Name": "Rocket Assy Simulator"
+}
+]
+},
+{
+"Category": "謎解き",
 "Worlds": [
 {
 "ID": "wrld_12ffd772-bee0-492a-b570-3a9285cce32f",
@@ -394,6 +448,10 @@
 {
 "ID": "wrld_6d3be9ca-40ed-4685-b517-a90b6b6235a7",
 "Name": "謎解きワールド七不思議-怪事件クラスター-"
+},
+{
+"ID": "wrld_b4651179-ed50-4319-bafe-713d73cff2bc",
+"Name": "謎解きワールド『論理爆弾の塔』"
 },
 {
 "ID": "wrld_7b01db21-f17b-4654-8a64-e9c2c7229d52",
@@ -426,34 +484,6 @@
 {
 "ID": "wrld_26592679-7c2b-4dc8-a756-27bc5a4cf026",
 "Name": "Vault of Horizons"
-},
-{
-"ID": "wrld_15f7034a-b074-4812-bfcb-317eaa2741de",
-"Name": "Melon ＆ Chill Suika Game"
-},
-{
-"ID": "wrld_cf4b3570-b240-45a0-9a21-c50b4bdafe28",
-"Name": "JUSTETRIS"
-},
-{
-"ID": "wrld_10578918-8697-4dbc-ad3e-48caf84d93bd",
-"Name": "テトラズ（対戦パズルゲーム）TETRAZ（PvP puzzle game）"
-},
-{
-"ID": "wrld_61df6fc2-d6e8-4a62-910b-c2558731c4bb",
-"Name": "Comfy Puzzles - Jigsaw ＆ Chill"
-},
-{
-"ID": "wrld_fa819873-b75e-4365-9afc-1a503ba770c6",
-"Name": "RINK SLIDER in VRChat"
-},
-{
-"ID": "wrld_f2f8c0a8-1faa-4d8e-ab09-9558e062527e",
-"Name": "パぺットジェスチャーゲーム ⁄ Puppet Gesture Game"
-},
-{
-"ID": "wrld_1c726b63-a124-4fa2-9529-ad81f4e0e3c0",
-"Name": "Rocket Assy Simulator"
 }
 ]
 },
@@ -471,6 +501,10 @@
 {
 "ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
 "Name": "Voxel Phone"
+},
+{
+"ID": "wrld_75fae49a-3f54-4811-ad23-de430d582b8f",
+"Name": "Draw Bridge VR"
 },
 {
 "ID": "wrld_eeb1d51a-3f5a-42e3-a1d8-7c9fcba58033",
@@ -568,6 +602,10 @@
 {
 "ID": "wrld_b844603f-3033-4d16-99e4-ec7df7c5a877",
 "Name": "仲良しトーク"
+},
+{
+"ID": "wrld_c094b642-6d21-4456-a566-9c476261cf65",
+"Name": "カチカンドッチ！？"
 },
 {
 "ID": "wrld_2c481144-0853-4720-8a08-8c0bec9998b8",
@@ -693,6 +731,38 @@
 {
 "ID": "wrld_43ae60c3-f951-4868-92af-d9a016e36dd4",
 "Name": "青い、青い空-Sky Blue Sky ＃SCP-8900"
+},
+{
+"ID": "wrld_ac2fd7fa-c655-4ade-9345-6a7964505061",
+"Name": "_00001"
+},
+{
+"ID": "wrld_feda5b33-e22d-47ce-8707-537be2517351",
+"Name": "Forest"
+},
+{
+"ID": "wrld_50f36446-d1d8-4e31-8639-dcaa8fe2f66d",
+"Name": "MIRЯIM"
+},
+{
+"ID": "wrld_9d9f0436-3592-4918-a9e5-e610529a806c",
+"Name": "どびすの森"
+},
+{
+"ID": "wrld_bae2f0b5-3a54-4ef9-ba71-b1f507531bf8",
+"Name": "Dobisu Of Terror"
+},
+{
+"ID": "wrld_0b564e0d-3781-43c0-9334-41ea9b147fa7",
+"Name": "Chrono Hollow"
+},
+{
+"ID": "wrld_1e364e73-681a-43a5-a7d4-06aab9635e4a",
+"Name": "ピ虐研究所 Pi˸G RESEARCH Lab -PIGYAKU HORROR-"
+},
+{
+"ID": "wrld_3c45e3fb-a855-4a16-90e6-fec8452f9606",
+"Name": "お化け屋敷 地獄館"
 }
 ]
 },
@@ -738,6 +808,10 @@
 {
 "ID": "wrld_29d35561-c034-4917-89f0-2f0c39c4f79f",
 "Name": "8番地下通路 8 Exit Underground passage"
+},
+{
+"ID": "wrld_387bcb7b-da07-4ae9-9848-399669bb7ff8",
+"Name": "ギャラリーとり小屋No․8"
 }
 ]
 },
