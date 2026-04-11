@@ -739,7 +739,7 @@
 ]
 },
 {
-"Category": "学校",
+"Category": "学校(校庭のみ含む)",
 "Worlds": [
 {
 "ID": "wrld_4e4b59a5-7464-4fff-aa4a-495c4acb14db",
@@ -780,6 +780,14 @@
 {
 "ID": "wrld_1f92d98e-1c3a-469f-a9d1-1c7257c75c35",
 "Name": "僕たちの秘密基地"
+},
+{
+"ID": "wrld_d4ea3430-71ca-4ca8-a01a-2ed400a589db",
+"Name": "just 組体操"
+},
+{
+"ID": "wrld_57e2364b-7842-4ff4-9059-d48166d284f4",
+"Name": "Just 合格発表"
 }
 ]
 },
