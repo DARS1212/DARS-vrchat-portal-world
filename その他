@@ -3,59 +3,6 @@
 "ShowPrivateWorld": false,
 "Categorys": [
 {
-"Category": "リミナルスペース",
-"Worlds": [
-{
-"ID": "wrld_97959650-62e7-4ef2-94da-bbcf4d2346c9",
-"Name": "Liminal Dreams˸ The Poolrooms"
-},
-{
-"ID": "wrld_d7357484-9482-4211-8623-8d1c71f7a66b",
-"Name": "gm_liminal_space"
-},
-{
-"ID": "wrld_b0da8160-f890-4b4e-873d-674f6aa3b53a",
-"Name": "V O I D S P A C E ․"
-},
-{
-"ID": "wrld_ed90878b-4dd7-4222-b46b-52dc0af4a665",
-"Name": "The Abyss"
-},
-{
-"ID": "wrld_59b59817-50b3-461d-bcb7-a55983ccdcc6",
-"Name": "Asbestos"
-},
-{
-"ID": "wrld_ad7a6490-292d-4461-8d9a-f0b8aeecea95",
-"Name": "The Platform"
-},
-{
-"ID": "wrld_6325c346-2ea9-4bc5-8d65-59cd7e700d06",
-"Name": "Terra Cotta Valley"
-},
-{
-"ID": "wrld_aeed4cf4-fefd-477f-9db9-7f44e6e561fd",
-"Name": "Hotel Cthonia"
-},
-{
-"ID": "wrld_dc671129-70cf-40a4-b0f4-356c561389b3",
-"Name": "Neuron"
-},
-{
-"ID": "wrld_7ff82a6a-be81-4e02-8dc5-4a4af815b1d1",
-"Name": "The Library Of Babel"
-},
-{
-"ID": "wrld_18581fde-6271-45a3-9312-1a7df0c331d6",
-"Name": "Structure"
-},
-{
-"ID": "wrld_c55fe71d-3854-4734-8f3d-3a5757a111b4",
-"Name": "誰も知らない願いの墓標ーA gravestone for wishes no one knows aboutー"
-}
-]
-},
-{
 "Category": "見る・聴く",
 "Worlds": [
 {
@@ -258,6 +205,10 @@
 {
 "ID": "wrld_d1fb2521-2a83-49a3-849a-47ed423a7dad",
 "Name": "VIPPON GRAND PRIX"
+},
+{
+"ID": "wrld_786e214f-c490-4239-a7cb-b3ba21d5b5dd",
+"Name": "ほぼボーン付きワールドv0․1․0"
 },
 {
 "ID": "wrld_de1e25c0-e701-4ca2-826f-21b6509ecbd2",
@@ -475,6 +426,10 @@
 {
 "ID": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
 "Name": "BOOTH Room"
+},
+{
+"ID": "wrld_e8dddd4c-c037-4b4d-8741-d2c884180645",
+"Name": "HealthRoom˸Polygon Scale 保健室-ポリゴン体重測定-"
 },
 {
 "ID": "wrld_bd3a0a4f-8074-4415-b49b-ffa24ef0fe05",
@@ -783,6 +738,10 @@
 {
 "ID": "wrld_c8129e77-5bde-42ad-a90b-1ecb02a8d090",
 "Name": "ARONA"
+},
+{
+"ID": "wrld_ff6a0511-b9c7-4913-b906-86206262a578",
+"Name": "Bendy And The Ink Machine Chapter 1"
 }
 ]
 }
