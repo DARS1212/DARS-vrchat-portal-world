@@ -82,18 +82,6 @@
 "Name": "夕方屋上から -Evening- 36․5m JAPANCITY SKYBOX"
 },
 {
-"ID": "wrld_5b506685-3b4f-4702-b4c7-ba008dd2a1e5",
-"Name": "Trenches of Beaumont"
-},
-{
-"ID": "wrld_c0ffc7d7-93b7-4f76-b982-0892ed66f9a2",
-"Name": "The Clockworks"
-},
-{
-"ID": "wrld_8a8c9cf0-da5f-400d-a29b-9e120dfd9533",
-"Name": "燻る終焉 ～Smoldering Doomsday～"
-},
-{
 "ID": "wrld_25a5621f-9e29-4276-9b63-67cf3f07961e",
 "Name": "ハイエナ Street"
 },
@@ -116,10 +104,6 @@
 {
 "ID": "wrld_39f0da44-b37a-4a67-be78-64c399512d33",
 "Name": "Night Highway Blue"
-},
-{
-"ID": "wrld_42287232-c9fc-4e43-83db-a165f092e9e6",
-"Name": "Snell's Pool"
 }
 ]
 },
@@ -145,10 +129,6 @@
 {
 "ID": "wrld_e7804a7e-9e09-4ec9-bada-2470d89ca0ef",
 "Name": "東雲風船 - SHINONOME BALLOON -"
-},
-{
-"ID": "wrld_9396edc7-2580-4350-98cb-4d0f963bb685",
-"Name": "sanctuary"
 },
 {
 "ID": "wrld_6ae24d40-2fa8-4e6e-88df-c979a5db7653",
@@ -276,10 +256,6 @@
 "Name": "WindHaven"
 },
 {
-"ID": "wrld_350b2044-3882-4ccb-bb2c-c34a6eb7cea0",
-"Name": "Color Shower"
-},
-{
 "ID": "wrld_fbb77316-a301-499b-a4f6-5f676c5a1b08",
 "Name": "Crystal Nest"
 },
@@ -344,16 +320,8 @@
 "Name": "Of Azure‚ Stars Shine"
 },
 {
-"ID": "wrld_de426d82-41bd-43c2-aacc-0956bc7bb5fb",
-"Name": "Subspace"
-},
-{
 "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
 "Name": "Astral Bounds"
-},
-{
-"ID": "wrld_f7210373-f452-4917-b460-969c81e201ef",
-"Name": "After Thought"
 },
 {
 "ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
@@ -455,6 +423,99 @@
 {
 "ID": "wrld_f5e9a759-63a4-4f5b-9bbb-42637d04dbb1",
 "Name": "ケセドの灯籠神社-CHESED's LANTERN SHRINE-"
+}
+]
+},
+{
+"Category": "暗め・リミナルスペース",
+"Worlds": [
+{
+"ID": "wrld_97959650-62e7-4ef2-94da-bbcf4d2346c9",
+"Name": "Liminal Dreams˸ The Poolrooms"
+},
+{
+"ID": "wrld_d7357484-9482-4211-8623-8d1c71f7a66b",
+"Name": "gm_liminal_space"
+},
+{
+"ID": "wrld_b0da8160-f890-4b4e-873d-674f6aa3b53a",
+"Name": "V O I D S P A C E ․"
+},
+{
+"ID": "wrld_ed90878b-4dd7-4222-b46b-52dc0af4a665",
+"Name": "The Abyss"
+},
+{
+"ID": "wrld_59b59817-50b3-461d-bcb7-a55983ccdcc6",
+"Name": "Asbestos"
+},
+{
+"ID": "wrld_ad7a6490-292d-4461-8d9a-f0b8aeecea95",
+"Name": "The Platform"
+},
+{
+"ID": "wrld_6325c346-2ea9-4bc5-8d65-59cd7e700d06",
+"Name": "Terra Cotta Valley"
+},
+{
+"ID": "wrld_aeed4cf4-fefd-477f-9db9-7f44e6e561fd",
+"Name": "Hotel Cthonia"
+},
+{
+"ID": "wrld_dc671129-70cf-40a4-b0f4-356c561389b3",
+"Name": "Neuron"
+},
+{
+"ID": "wrld_7ff82a6a-be81-4e02-8dc5-4a4af815b1d1",
+"Name": "The Library Of Babel"
+},
+{
+"ID": "wrld_18581fde-6271-45a3-9312-1a7df0c331d6",
+"Name": "Structure"
+},
+{
+"ID": "wrld_c55fe71d-3854-4734-8f3d-3a5757a111b4",
+"Name": "誰も知らない願いの墓標ーA gravestone for wishes no one knows aboutー"
+},
+{
+"ID": "wrld_5b506685-3b4f-4702-b4c7-ba008dd2a1e5",
+"Name": "Trenches of Beaumont"
+},
+{
+"ID": "wrld_c0ffc7d7-93b7-4f76-b982-0892ed66f9a2",
+"Name": "The Clockworks"
+},
+{
+"ID": "wrld_350b2044-3882-4ccb-bb2c-c34a6eb7cea0",
+"Name": "Color Shower"
+},
+{
+"ID": "wrld_de426d82-41bd-43c2-aacc-0956bc7bb5fb",
+"Name": "Subspace"
+},
+{
+"ID": "wrld_f7210373-f452-4917-b460-969c81e201ef",
+"Name": "After Thought"
+},
+{
+"ID": "wrld_5c3351a9-2df7-4041-9212-d608bfcb1ded",
+"Name": "City Park At Night"
+},
+{
+"ID": "wrld_d4d009ed-06ea-4148-b1d1-fea5206c175f",
+"Name": "vent․"
+},
+{
+"ID": "wrld_24dfea75-34a2-41ca-957d-40198b74af3c",
+"Name": "Last breath"
+},
+{
+"ID": "wrld_250f2caa-54f3-4f0d-83ac-d7e61a3195f9",
+"Name": "¿"
+},
+{
+"ID": "wrld_8a8c9cf0-da5f-400d-a29b-9e120dfd9533",
+"Name": "燻る終焉 ～Smoldering Doomsday～"
 }
 ]
 }
