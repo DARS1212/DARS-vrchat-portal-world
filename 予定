@@ -3,20 +3,371 @@
 "ShowPrivateWorld": false,
 "Categorys": [
 {
-"Category": "きれい",
+"Category": "いきてー",
 "Worlds": [
 {
-"ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
-"Name": "月に君影"
-}
-]
+"ID": "wrld_abcd7bc3-e46f-4247-9e82-3ab07e51b4c3",
+"Name": "Dawn Island"
 },
 {
-"Category": "夏",
-"Worlds": [
+"ID": "wrld_38646e89-6117-48a9-aab9-aea64c1cd629",
+"Name": "Transience"
+},
 {
-"ID": "wrld_243f79a3-09c5-44f3-a038-e014217b1f85",
-"Name": "ケセドの藤棚-CHESED's Wisteria Trellis-"
+"ID": "wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2",
+"Name": "Starlight lane"
+},
+{
+"ID": "wrld_9c69e21d-0779-4ab7-a2bf-870140040242",
+"Name": "АТБ BETA （Rebilding）․․․"
+},
+{
+"ID": "wrld_ef3d5ee3-7d09-445c-825a-e882f379eec2",
+"Name": "Ena Dream BBQ world"
+},
+{
+"ID": "wrld_a28308e9-af18-44f3-ba6e-db84cd3be570",
+"Name": "broccoli"
+},
+{
+"ID": "wrld_afd7f7ad-87ae-4c1c-9f6b-6d39b76980c0",
+"Name": "SeaFlowerSta-ネモフィラの駅"
+},
+{
+"ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
+"Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta․ -"
+},
+{
+"ID": "wrld_e1dbf8ef-81dd-4f14-a2c0-24954aac668e",
+"Name": "SENTRA"
+},
+{
+"ID": "wrld_ded85b51-fb92-4ce3-aac7-1a9a48ccb222",
+"Name": "OnyX"
+},
+{
+"ID": "wrld_c4d4dfa8-bdd5-4b26-b961-e8cd4029c43d",
+"Name": "アフマ大陸 AFMA CONTINENT"
+},
+{
+"ID": "wrld_4841553a-5e00-4514-9f22-6b2a022b3bcb",
+"Name": "どんの温泉旅館 - DonK's hot spring inn -"
+},
+{
+"ID": "wrld_1c522f96-147f-4a18-bc0e-ff222f096940",
+"Name": "Making The Way"
+},
+{
+"ID": "wrld_6925025d-eced-46d6-a4fc-c61e0570f410",
+"Name": "Kamurocho Minimucho 神室町"
+},
+{
+"ID": "wrld_9b17a574-f183-4d77-81c7-45cfc4e57c4b",
+"Name": "kalee"
+},
+{
+"ID": "wrld_5085cb41-cde1-4554-8cb3-af18494f0245",
+"Name": "Palworld themed Hotel Room"
+},
+{
+"ID": "wrld_4f37c349-3490-4eda-8c9b-885d299e9378",
+"Name": "AA We Agnostic 12 Step Alano Club （Alcoholics Anonymous）"
+},
+{
+"ID": "wrld_72244679-733b-4695-bf03-ea936f54a71a",
+"Name": "約束の花園"
+},
+{
+"ID": "wrld_76c92709-1d53-40b5-97c3-a39194513166",
+"Name": "もなか庵 芒種夜"
+},
+{
+"ID": "wrld_58e36a98-f0f6-4b50-ba4c-63d87b33cea4",
+"Name": "Abandonment （Graffitiǃ）"
+},
+{
+"ID": "wrld_f2152992-af74-49d7-8dad-101c1ff80eb1",
+"Name": "常夏のひととき -A Tropical Moment-"
+},
+{
+"ID": "wrld_c077aa49-4820-472d-ace5-c11368f1e3f4",
+"Name": "Project Aincrad 1․6․3"
+},
+{
+"ID": "wrld_fcc2bfff-113f-4376-8101-a01081cab1c9",
+"Name": "Bar けものみち -kemonomichi-"
+},
+{
+"ID": "wrld_29027fbb-dbc2-4cde-8096-e2f739ba84b7",
+"Name": "「HAZUKI」日本語話者向け触れ合い広場"
+},
+{
+"ID": "wrld_b19bfa36-769b-4af8-88a6-1b43bf48eaa4",
+"Name": "Central Liberte 702号室"
+},
+{
+"ID": "wrld_37df0dab-0df8-4550-9c60-926648368f60",
+"Name": "DigLifeǃ ～潮干狩りして家を建てるワールド（友達と資材交換可能・自動セーブ・Quest対応）～"
+},
+{
+"ID": "wrld_08224159-9d4e-4fe8-991f-4904d17d9969",
+"Name": "Lunar Capital"
+},
+{
+"ID": "wrld_212e862f-58b4-4949-b258-482517ca4eef",
+"Name": "ケセドの富士見庵-Mt․FUJI Japanese Onsen- by ケセドCHESED"
+},
+{
+"ID": "wrld_54d0d6db-b51e-4412-9241-81d8e46576dc",
+"Name": "Sunrise Haven"
+},
+{
+"ID": "wrld_c1c66403-755a-4835-afd8-d00808afd435",
+"Name": "［Operation］BarrettLife"
+},
+{
+"ID": "wrld_c84edf1a-ceb4-430e-9520-ae2f70b3091f",
+"Name": "Mandalore"
+},
+{
+"ID": "wrld_07377a22-b4cf-4426-bf20-356c7b0aa5d6",
+"Name": "Second City"
+},
+{
+"ID": "wrld_7a7c4dc4-16f8-4eab-8d47-486e12d2c797",
+"Name": "クミンの勇者冒険 v1․3"
+},
+{
+"ID": "wrld_c538bf09-96dd-45f2-bf9f-ada1299ad10e",
+"Name": "秋葉原"
+},
+{
+"ID": "wrld_d04d54e1-224e-41af-9b85-57241a7231a0",
+"Name": "ごろごろしていって寝"
+},
+{
+"ID": "wrld_cbcc5ebc-68d8-42ee-b231-e3aaeab8f940",
+"Name": "錬金術師の研究室 Alchemist's Lab"
+},
+{
+"ID": "wrld_99617f1d-88d6-4872-b890-fb6a4c3b95ff",
+"Name": "Sanrio VIRTUAL PURO VILLAGE"
+},
+{
+"ID": "wrld_9fa96837-7a80-4fc3-869a-d636a75c81bb",
+"Name": "Disney Dreams"
+},
+{
+"ID": "wrld_d7224559-a4aa-4ebf-8815-31cbaccf1f74",
+"Name": "Vinyl"
+},
+{
+"ID": "wrld_d10ac7c3-5ae1-4c29-b366-4ae6cb796219",
+"Name": "真夜中の標本 - Midnight Specimen -"
+},
+{
+"ID": "wrld_51ecc9d8-3944-4f9a-9723-7da0acd0fd25",
+"Name": "LUMINARIUM"
+},
+{
+"ID": "wrld_e4998032-8505-403e-817a-76bcc5af6816",
+"Name": "にとポータル -nito portal-"
+},
+{
+"ID": "wrld_c4d0ead5-5e21-4c6f-86bf-35a10a407256",
+"Name": "Portal Fishing Ruins"
+},
+{
+"ID": "wrld_3f6f0b96-c638-408f-8d55-79df1fb3b1b6",
+"Name": "QuestColony"
+},
+{
+"ID": "wrld_6bfd0439-e81c-43f2-acbf-0e577e5d71e6",
+"Name": "Fadrowse"
+},
+{
+"ID": "wrld_4bbb7275-6758-45a1-8cd6-45dd12170df6",
+"Name": "Lucy's Ocean Room"
+},
+{
+"ID": "wrld_ae8aee43-7784-4bc9-8a49-096247a455bb",
+"Name": "kuMohe -雲へ-"
+},
+{
+"ID": "wrld_89192c83-8a30-474f-b8b4-affa2e8c58fd",
+"Name": "Silent Spaces"
+},
+{
+"ID": "wrld_e4e9a3a5-ada2-4bf7-bde1-7a81dfe7c695",
+"Name": "R3 Xross Discs Beach"
+},
+{
+"ID": "wrld_343bcc5d-a151-4b1e-8d58-af4f0df37e2e",
+"Name": "雨見る屋根裏 Attic in the rain"
+},
+{
+"ID": "wrld_3df47acb-ac1a-42b7-9bac-08b8673e42af",
+"Name": "Souterrain"
+},
+{
+"ID": "wrld_6df41f2e-9b1f-4574-8058-792d78c3b3ba",
+"Name": "Midnight Nook"
+},
+{
+"ID": "wrld_07aebfff-4f09-46a2-8d71-61c85fd89c8f",
+"Name": "花見をしながら、話す春 - Hanami Room in Spring"
+},
+{
+"ID": "wrld_6ee5fc5f-c2d5-40ef-812d-1766e2879efe",
+"Name": "歌部屋"
+},
+{
+"ID": "wrld_740c3481-9d4b-446e-8bb7-c94b00c53801",
+"Name": "The Superior Spider-Lair"
+},
+{
+"ID": "wrld_ae7e4a68-fc33-4f87-b6a6-9064d166f418",
+"Name": "Frutiger Aero World"
+},
+{
+"ID": "wrld_fe23e372-4e4b-4e11-ba3c-7e9dae2114af",
+"Name": "Aurora Pines"
+},
+{
+"ID": "wrld_9d8c6674-5e19-435c-a624-00406d180ff5",
+"Name": "［JP］灯火 - 話題を選んで3人トーク -"
+},
+{
+"ID": "wrld_344f199f-8362-4788-9150-9b19bd7c8c57",
+"Name": "VRCすえひろ亭 -Suehiro-"
+},
+{
+"ID": "wrld_0d2c2f34-74a4-4cf3-9fb4-4d3318e8f963",
+"Name": "ワタシから僕へのモノローグ ~My Last Letter For You~"
+},
+{
+"ID": "wrld_711352c9-4d19-4f0b-8b8d-d10903cb0152",
+"Name": "全身V感ファクトリー"
+},
+{
+"ID": "wrld_f2e2fa9d-3b54-471c-85c4-53a2d35b562f",
+"Name": "家カフェと酒カス"
+},
+{
+"ID": "wrld_c00d3ef8-cdb6-40ad-88e2-cce67d0ef14f",
+"Name": "Steps of the Campanula - カンパニュラの足音"
+},
+{
+"ID": "wrld_7209e159-e8a2-41b9-8c2e-a9fbc3b3badd",
+"Name": "Basketball Gym ［Beta］"
+},
+{
+"ID": "wrld_4eee4965-abed-4e99-b070-b2d10b30d84d",
+"Name": "路地裏の隠れ家 - Alley Hiding Spot"
+},
+{
+"ID": "wrld_59c9646c-8974-4547-8711-96a53ae68048",
+"Name": "月下の果樹園 -Moonlit Orchard-"
+},
+{
+"ID": "wrld_2e647e8d-8430-4b40-8bd7-914f1fa817b2",
+"Name": "RESONARK - RhythmGame v3․6․3"
+},
+{
+"ID": "wrld_c965ca04-ef1b-4577-906d-7d3e38f5556f",
+"Name": "海乃華UMINOHANA"
+},
+{
+"ID": "wrld_4d223ef5-f089-42d2-a799-7c56e003eded",
+"Name": "Gallery of Perspectives"
+},
+{
+"ID": "wrld_8b9b3207-02ee-468e-b301-be6212447813",
+"Name": "魚げっさー"
+},
+{
+"ID": "wrld_f310ee8d-db22-46dc-a5e4-5ae83549c9f7",
+"Name": "ペンギンが観察するワールド"
+},
+{
+"ID": "wrld_577c4af3-1de7-40f4-88ad-7bf10ab3a1ee",
+"Name": "TITANIC˸ Beyond Reality - Sinking Experience"
+},
+{
+"ID": "wrld_9907d48d-47e6-4139-b859-297396ed0f13",
+"Name": "A Game About Crates"
+},
+{
+"ID": "wrld_42eacac1-5fa8-4fee-ac9a-874d16ec721c",
+"Name": "高速夜行バス・DigitalExpress号"
+},
+{
+"ID": "wrld_f8845ab3-a5f2-4c0d-8e8f-3c7627da0c1e",
+"Name": "花明かりの日：Day of Flower Lights"
+},
+{
+"ID": "wrld_34eceec7-8636-4c2b-a3cb-95b06d82bccc",
+"Name": "［BETA］ Backrooms Escapeǃǃ"
+},
+{
+"ID": "wrld_14fa15b4-2ee6-4086-8213-f6375c60522e",
+"Name": "Local Philosophia"
+},
+{
+"ID": "wrld_cdcfb049-ea25-4133-8988-2ec4ae941e23",
+"Name": "Comfort Deluxe"
+},
+{
+"ID": "wrld_8325df9c-3f0f-4b39-a6bf-7f9b05c19b3c",
+"Name": "Become Chud Simulator （chud․io）"
+},
+{
+"ID": "wrld_f90fe6cf-2e55-4fb7-b525-78c984a6ef4e",
+"Name": "午前0時のオフィス ~ 0˸00AM‚ Office ~"
+},
+{
+"ID": "wrld_8caf1087-4a40-4d7f-8df7-2c8b838c9609",
+"Name": "Initiation"
+},
+{
+"ID": "wrld_127f69cd-a02a-48ba-b6bd-2c1b7f53fbb9",
+"Name": "彼岸花の館へようこそ ～その部屋、絶対に開けないでください～"
+},
+{
+"ID": "wrld_cdef4150-e4c0-43db-86a6-6418dd23de80",
+"Name": "月明かり＆キプフェルROOM"
+},
+{
+"ID": "wrld_a025d6e6-f2b1-45ff-b20a-9585bd7e0793",
+"Name": "山育ちは海が見たい"
+},
+{
+"ID": "wrld_0db8ba9b-bf03-47aa-94ed-107cd1e99a21",
+"Name": "WinkKiller"
+},
+{
+"ID": "wrld_71db74f2-cf64-48c3-bdbf-366498e894aa",
+"Name": "Real Time Reversi"
+},
+{
+"ID": "wrld_e6767a73-e066-4e39-a43b-c4fc97ea8d67",
+"Name": "The Black Shore - 黒の岸辺"
+},
+{
+"ID": "wrld_56dc9b3a-d2a3-4e48-8a59-332b01910047",
+"Name": "5分おきに誰かが大爆発する分譲住宅"
+},
+{
+"ID": "wrld_8cb01663-579d-4560-b6ca-0fec90d86490",
+"Name": "INVISIBLE"
+},
+{
+"ID": "wrld_127d7a39-0525-47cc-be1b-37f4a47c3836",
+"Name": "Velune"
+},
+{
+"ID": "wrld_505738e4-c1fb-4ecc-b49a-b7865e884bb1",
+"Name": "Hotel MorningStar"
 }
 ]
 }
